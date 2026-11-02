@@ -82,6 +82,11 @@ def run_matrix(args: argparse.Namespace) -> list[str]:
     if args.dry_run:
         return []
     log_dir.mkdir(parents=True, exist_ok=True)
+    if os.name == "nt":  # stops idle sleep for as long as this process lives; changes no settings
+        import ctypes
+
+        ES_CONTINUOUS, ES_SYSTEM_REQUIRED = 0x80000000, 0x00000001
+        ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS | ES_SYSTEM_REQUIRED)
     running: dict[str, tuple[subprocess.Popen, object, float]] = {}
     failed: list[str] = []
     while pending or running:
