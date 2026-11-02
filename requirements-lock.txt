@@ -1,0 +1,6 @@
+# Exact versions behind the data-version-2 results (Python 3.15.1, Windows 11, CPU only).
+torch==2.15.0+cpu
+tokenizers==0.23.3
+numpy==2.5.4
+matplotlib==3.11.2
+pytest==9.2.0

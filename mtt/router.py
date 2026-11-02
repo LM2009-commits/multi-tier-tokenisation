@@ -56,8 +56,15 @@ _PREP_IN = r"(?:in|inside|within)"
 _THE_WORD = r"(?:the\s+word\s+)?"
 
 
+# Words after "spell" / "reverse" that are never the word to act on ("spell check", "reverse order").
+_NOT_SPELL_TARGET = r"(?!(?:check|checker|checking|words?|that|it)\b)"
+_NOT_REVERSE_TARGET = r"(?!(?:order|engineering|words?|letters?|list|direction|sequence|string)\b)"
+_WRITE_VERB = r"(?:write|spell|print|say|type)"
+
+
 def _rx(pattern: str) -> re.Pattern[str]:
-    return re.compile(pattern, re.IGNORECASE)
+    # ASCII: otherwise IGNORECASE lets [a-z] match characters the CLT cannot encode (e.g. U+017F).
+    return re.compile(pattern, re.IGNORECASE | re.ASCII)
 
 
 _COUNT = (
@@ -71,16 +78,23 @@ _COUNT = (
         rf"{_LETTER}(?:\s+(?:appears?|occurs?))?\s+(?:{_PREP_IN}|of)\s+{_THE_WORD}{_Q}{_W}"
     ),
 )
-_SPELL = (_rx(rf"\bspell\b(?:\s+out\b)?(?:\s+the\b)?(?:\s+word\b)?\s*:?\s*{_Q}{_W}"),)
+_SPELL = (
+    _rx(rf"\bspell\b(?:\s+out\b)?(?:\s+the\b)?\s+word\b\s*:?\s*{_Q}{_W}"),  # explicit: any word
+    _rx(rf"\bspell\b(?:\s+out\b)?(?:\s+the\b)?\s*:?\s*{_Q}{_NOT_SPELL_TARGET}{_W}"),
+)
 _REVERSE = (
+    _rx(rf"(?<![a-z]){_Q}{_W}{_Q}\s+(?:spelled|spelt|written)\s+(?:backwards?|in\s+reverse)\b"),
+    # Before the "reverse X" forms, so "write the word planet in reverse order" finds planet, not order.
     _rx(
-        rf"\breverse\b(?:\s+the\b)?(?:\s+(?:word\b|letters\s+(?:of|in)\b|spelling\s+of\b))?"
-        rf"\s*:?\s*{_Q}{_W}"
-    ),
-    _rx(
-        rf"(?<![a-z]){_Q}{_W}{_Q}\s+(?:(?:spelled|spelt|written)\s+)?"
+        rf"\b{_WRITE_VERB}\b(?:\s+out\b)?(?:\s+the\s+word\b)?\s+{_Q}{_W}{_Q}\s+"
         rf"(?:backwards?|in\s+reverse)\b"
     ),
+    _rx(  # explicit about the target, so any word is allowed: "reverse the word: order"
+        rf"(?<!in\s)\breverse\b(?:\s+the\b)?\s+(?:word\b|letters\s+(?:of|in)\b|spelling\s+of\b)"
+        rf"\s*:?\s*{_Q}{_W}"
+    ),
+    _rx(rf"(?<!in\s)\breverse\b\s*:\s*{_Q}{_W}"),
+    _rx(rf"(?<!in\s)\breverse\b(?:\s+the\b)?\s+{_Q}{_NOT_REVERSE_TARGET}{_W}"),
 )
 _NTH = (
     _rx(rf"\b{_ORD}\s+(?:letter|character)\s+(?:of|in)\s+{_THE_WORD}{_Q}{_W}"),
@@ -248,3 +262,97 @@ class LearnedRouter:
             return Route()
         answer_clt = self.letter_answer.predict_proba(prompt) >= self.threshold
         return Route(spans, "learned", answer_clt)
+
+
+# ------------------------------------------------------------------- tagger router
+_LETTER_RE = re.compile(r"(?<![A-Za-z'])[a-z](?![A-Za-z])")
+
+
+def _masked(prompt: str, span: Span, common: frozenset[str], window: int = 18) -> str:
+    """A candidate as its local context, with the candidate itself hidden.
+
+    Hiding it is what lets the scorer generalise: it learns which *position in a sentence*
+    holds the target, not which words are targets.
+    """
+    start, end = span
+    rarity = "common" if prompt[start:end].lower() in common else "rare"
+    return f"{rarity}|{prompt[max(0, start - window) : start]}<T>{prompt[end : end + window]}"
+
+
+class TaggerRouter:
+    """Learned router that scores each candidate word and routes only the best one.
+
+    Unlike ``LearnedRouter`` it can't route filler words alongside the target, and it routes the
+    letter of a counting question too, so its spans have the form the ``mtt`` models trained on.
+    """
+
+    def __init__(self, needs: HashedLogReg, letter_answer: HashedLogReg, word_scorer: HashedLogReg,
+                 letter_scorer: HashedLogReg, common: frozenset[str], threshold: float = 0.5) -> None:
+        self.needs = needs
+        self.letter_answer = letter_answer
+        self.word_scorer = word_scorer
+        self.letter_scorer = letter_scorer
+        self.common = common
+        self.threshold = threshold
+
+    @classmethod
+    def fit(cls, positives: Sequence, negatives: Sequence[str], seed: int = 0,
+            letter_answer_tasks: frozenset[str] = frozenset({"spell", "reverse", "nth"})) -> "TaggerRouter":
+        """Train on ``Example``-like positives (``gold_spans`` set) and negative prompts."""
+        df: Counter[str] = Counter()
+        for ex in positives:
+            df.update({m.group().lower() for m in _WORD_RE.finditer(ex.prompt)})
+        common = frozenset(w for w, c in df.items() if c >= max(5, int(0.004 * len(positives))))
+
+        word_texts, word_labels, letter_texts, letter_labels = [], [], [], []
+        for ex in positives:
+            gold = set(ex.gold_spans)
+            for m in _WORD_RE.finditer(ex.prompt):
+                if len(m.group()) >= 2:
+                    word_texts.append(_masked(ex.prompt, m.span(), common))
+                    word_labels.append(int(m.span() in gold))
+            for m in _LETTER_RE.finditer(ex.prompt):
+                letter_texts.append(_masked(ex.prompt, m.span(), common))
+                letter_labels.append(int(m.span() in gold))
+        prompts = [ex.prompt for ex in positives] + list(negatives)
+        needs_labels = [1] * len(positives) + [0] * len(negatives)
+        answer_labels = [int(ex.task in letter_answer_tasks) for ex in positives] + [0] * len(negatives)
+        return cls(
+            HashedLogReg(16384).fit(prompts, needs_labels, seed=seed),
+            HashedLogReg(16384).fit(prompts, answer_labels, seed=seed + 1),
+            HashedLogReg(16384).fit(word_texts, word_labels, seed=seed + 2),
+            HashedLogReg(16384).fit(letter_texts, letter_labels, seed=seed + 3),
+            common,
+        )
+
+    def _best(self, prompt: str, regex: re.Pattern[str], scorer: HashedLogReg, min_len: int) -> Span | None:
+        scored = [(scorer.predict_proba(_masked(prompt, m.span(), self.common)), m.span())
+                  for m in regex.finditer(prompt) if len(m.group()) >= min_len]
+        if not scored:
+            return None
+        score, span = max(scored)
+        return span if score >= self.threshold else None
+
+    def route(self, prompt: str) -> Route:
+        if self.needs.predict_proba(prompt) < self.threshold:
+            return Route()
+        word = self._best(prompt, _WORD_RE, self.word_scorer, 2)
+        if word is None:
+            return Route()
+        answer_clt = self.letter_answer.predict_proba(prompt) >= self.threshold
+        spans = [word]
+        if not answer_clt:  # only counting answers stay WLT, and only counting names a letter
+            letter = self._best(prompt, _LETTER_RE, self.letter_scorer, 1)
+            if letter is not None and letter != word:
+                spans.append(letter)
+        return Route(tuple(sorted(spans)), "tagger", answer_clt)
+
+
+class OracleRouter:
+    """Routes known prompts with their gold spans, to separate router failure from model failure."""
+
+    def __init__(self, routes: dict[str, Route]) -> None:
+        self.routes = routes
+
+    def route(self, prompt: str) -> Route:
+        return self.routes.get(prompt, Route())

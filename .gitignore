@@ -1,4 +1,11 @@
 runs/
 runs_smoke/
+results_smoke/
 __pycache__/
+*.pyc
 .pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/

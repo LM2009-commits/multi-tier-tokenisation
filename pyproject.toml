@@ -1,12 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "mtt"
-version = "0.1.0"
+version = "0.2.0"
 description = "Multi Tier Tokenisation (WLT + CLT) prototype and letter-level experiment"
 requires-python = ">=3.11"
 dependencies = ["torch>=2.0", "tokenizers>=0.15", "numpy", "matplotlib"]
 
 [project.optional-dependencies]
 test = ["pytest"]
+
+[tool.setuptools]
+packages = ["mtt", "mtt.tokenizers"]
 
 [tool.pytest.ini_options]
 pythonpath = ["."]

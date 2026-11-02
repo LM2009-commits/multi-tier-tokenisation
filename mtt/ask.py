@@ -110,7 +110,10 @@ def main(argv: list[str] | None = None) -> None:
         return
     print("Type a question (empty line to quit). Character-level spans are shown as «...».")
     while True:
-        line = input("> ").strip()
+        try:
+            line = input("> ").strip()
+        except EOFError:
+            break
         if not line:
             break
         answer_all(line)
