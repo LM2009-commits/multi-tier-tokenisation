@@ -1,0 +1,300 @@
+{"task": "count", "prompt": "How many times does the letter d appear in dream?", "gold": "1", "pred": "0", "correct": false, "word": "dream", "scratch": "dreame", "scratch_ok": false}
+{"task": "count", "prompt": "Count the u's in the word bonus.", "gold": "1", "pred": "2", "correct": false, "word": "bonus", "scratch": "buscon", "scratch_ok": false}
+{"task": "count", "prompt": "Count the e's in the word archery.", "gold": "1", "pred": "3", "correct": false, "word": "archery", "scratch": "archeery", "scratch_ok": false}
+{"task": "count", "prompt": "How many e are there in castle?", "gold": "1", "pred": "2", "correct": false, "word": "castle", "scratch": "castle", "scratch_ok": true}
+{"task": "count", "prompt": "Count the l's in the word sleep.", "gold": "1", "pred": "2", "correct": false, "word": "sleep", "scratch": "sleepy", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times l appears in still.", "gold": "2", "pred": "3", "correct": false, "word": "still", "scratch": "stillblly", "scratch_ok": false}
+{"task": "count", "prompt": "How many h's are in humid?", "gold": "1", "pred": "1", "correct": true, "word": "humid", "scratch": "humidum", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times a appears in father.", "gold": "1", "pred": "0", "correct": false, "word": "father", "scratch": "father", "scratch_ok": true}
+{"task": "count", "prompt": "How many i's are in practice?", "gold": "1", "pred": "1", "correct": true, "word": "practice", "scratch": "pract", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times n appears in soften.", "gold": "1", "pred": "1", "correct": true, "word": "soften", "scratch": "oftrofe", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times s appears in forest.", "gold": "1", "pred": "0", "correct": false, "word": "forest", "scratch": "fore", "scratch_ok": false}
+{"task": "count", "prompt": "How many a's are in actual?", "gold": "2", "pred": "1", "correct": false, "word": "actual", "scratch": "actal", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter b appear in bamboo?", "gold": "2", "pred": "3", "correct": false, "word": "bamboo", "scratch": "bobboot", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter s appear in princess?", "gold": "2", "pred": "3", "correct": false, "word": "princess", "scratch": "pricess", "scratch_ok": false}
+{"task": "count", "prompt": "Count the t's in the word pitch.", "gold": "1", "pred": "3", "correct": false, "word": "pitch", "scratch": "popcutce", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times a appears in idea.", "gold": "1", "pred": "1", "correct": true, "word": "idea", "scratch": "idade", "scratch_ok": false}
+{"task": "count", "prompt": "How many a's are in label?", "gold": "1", "pred": "3", "correct": false, "word": "label", "scratch": "labagel", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter r appear in boulder?", "gold": "1", "pred": "3", "correct": false, "word": "boulder", "scratch": "bourel", "scratch_ok": false}
+{"task": "count", "prompt": "How many g's are in rugby?", "gold": "1", "pred": "1", "correct": true, "word": "rugby", "scratch": "rugyby", "scratch_ok": false}
+{"task": "count", "prompt": "How many r's are in sport?", "gold": "1", "pred": "0", "correct": false, "word": "sport", "scratch": "sport", "scratch_ok": true}
+{"task": "count", "prompt": "Count the number of times e appears in pitch.", "gold": "0", "pred": "3", "correct": false, "word": "pitch", "scratch": "poptule", "scratch_ok": false}
+{"task": "count", "prompt": "How many o's are in notebook?", "gold": "3", "pred": "3", "correct": true, "word": "notebook", "scratch": "nobooke", "scratch_ok": false}
+{"task": "count", "prompt": "How many u are there in thunder?", "gold": "1", "pred": "1", "correct": true, "word": "thunder", "scratch": "thunder", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter u appear in fountain?", "gold": "1", "pred": "0", "correct": false, "word": "fountain", "scratch": "forefy", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times l appears in every.", "gold": "0", "pred": "1", "correct": false, "word": "every", "scratch": "everrey", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times e appears in begin.", "gold": "1", "pred": "2", "correct": false, "word": "begin", "scratch": "begin", "scratch_ok": true}
+{"task": "count", "prompt": "How many w are there in father?", "gold": "0", "pred": "0", "correct": true, "word": "father", "scratch": "father", "scratch_ok": true}
+{"task": "count", "prompt": "Count the e's in the word chance.", "gold": "1", "pred": "2", "correct": false, "word": "chance", "scratch": "chapce", "scratch_ok": false}
+{"task": "count", "prompt": "Count the l's in the word castle.", "gold": "1", "pred": "2", "correct": false, "word": "castle", "scratch": "castle", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter m appear in muffin?", "gold": "1", "pred": "3", "correct": false, "word": "muffin", "scratch": "muffin", "scratch_ok": true}
+{"task": "count", "prompt": "How many c's are in music?", "gold": "1", "pred": "2", "correct": false, "word": "music", "scratch": "music", "scratch_ok": true}
+{"task": "count", "prompt": "How many c's are in clumsy?", "gold": "1", "pred": "3", "correct": false, "word": "clumsy", "scratch": "clowyss", "scratch_ok": false}
+{"task": "count", "prompt": "How many l's are in usual?", "gold": "1", "pred": "1", "correct": true, "word": "usual", "scratch": "welice", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times r appears in primary.", "gold": "2", "pred": "3", "correct": false, "word": "primary", "scratch": "pramitorary", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times d appears in bounce.", "gold": "0", "pred": "1", "correct": false, "word": "bounce", "scratch": "bournele", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter e appear in river?", "gold": "1", "pred": "0", "correct": false, "word": "river", "scratch": "river", "scratch_ok": true}
+{"task": "count", "prompt": "How many x are there in caught?", "gold": "0", "pred": "1", "correct": false, "word": "caught", "scratch": "cughkng", "scratch_ok": false}
+{"task": "count", "prompt": "How many f's are in frog?", "gold": "1", "pred": "1", "correct": true, "word": "frog", "scratch": "froct", "scratch_ok": false}
+{"task": "count", "prompt": "Count the e's in the word fence.", "gold": "2", "pred": "1", "correct": false, "word": "fence", "scratch": "fence", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter l appear in bamboo?", "gold": "0", "pred": "3", "correct": false, "word": "bamboo", "scratch": "bobboot", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times t appears in treat.", "gold": "2", "pred": "0", "correct": false, "word": "treat", "scratch": "treat", "scratch_ok": true}
+{"task": "count", "prompt": "How many c are there in occupy?", "gold": "2", "pred": "3", "correct": false, "word": "occupy", "scratch": "occupy", "scratch_ok": true}
+{"task": "count", "prompt": "How many d are there in caught?", "gold": "0", "pred": "1", "correct": false, "word": "caught", "scratch": "cughkng", "scratch_ok": false}
+{"task": "count", "prompt": "Count the e's in the word lifted.", "gold": "1", "pred": "3", "correct": false, "word": "lifted", "scratch": "lifted", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter s appear in sight?", "gold": "1", "pred": "1", "correct": true, "word": "sight", "scratch": "sight", "scratch_ok": true}
+{"task": "count", "prompt": "How many h's are in pitch?", "gold": "1", "pred": "2", "correct": false, "word": "pitch", "scratch": "popchitce", "scratch_ok": false}
+{"task": "count", "prompt": "How many b's are in beyond?", "gold": "1", "pred": "0", "correct": false, "word": "beyond", "scratch": "beondy", "scratch_ok": false}
+{"task": "count", "prompt": "Count the r's in the word pepper.", "gold": "1", "pred": "3", "correct": false, "word": "pepper", "scratch": "pepperper", "scratch_ok": false}
+{"task": "count", "prompt": "Count the n's in the word handle.", "gold": "1", "pred": "1", "correct": true, "word": "handle", "scratch": "handle", "scratch_ok": true}
+{"task": "count", "prompt": "Count the w's in the word wide.", "gold": "1", "pred": "0", "correct": false, "word": "wide", "scratch": "wide", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter o appear in occupy?", "gold": "1", "pred": "3", "correct": false, "word": "occupy", "scratch": "occup", "scratch_ok": false}
+{"task": "count", "prompt": "Count the n's in the word salmon.", "gold": "1", "pred": "2", "correct": false, "word": "salmon", "scratch": "salmanton", "scratch_ok": false}
+{"task": "count", "prompt": "Count the m's in the word income.", "gold": "1", "pred": "1", "correct": true, "word": "income", "scratch": "mecome", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter i appear in strike?", "gold": "1", "pred": "3", "correct": false, "word": "strike", "scratch": "streeke", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times a appears in crab.", "gold": "1", "pred": "0", "correct": false, "word": "crab", "scratch": "cerose", "scratch_ok": false}
+{"task": "count", "prompt": "Count the u's in the word double.", "gold": "1", "pred": "1", "correct": true, "word": "double", "scratch": "dourble", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times w appears in valley.", "gold": "0", "pred": "0", "correct": true, "word": "valley", "scratch": "voley", "scratch_ok": false}
+{"task": "count", "prompt": "How many t are there in prevent?", "gold": "1", "pred": "1", "correct": true, "word": "prevent", "scratch": "invent", "scratch_ok": false}
+{"task": "count", "prompt": "Count the i's in the word income.", "gold": "1", "pred": "1", "correct": true, "word": "income", "scratch": "ecomece", "scratch_ok": false}
+{"task": "count", "prompt": "Count the l's in the word polish.", "gold": "1", "pred": "0", "correct": false, "word": "polish", "scratch": "polite", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times n appears in union.", "gold": "2", "pred": "2", "correct": true, "word": "union", "scratch": "union", "scratch_ok": true}
+{"task": "count", "prompt": "Count the n's in the word control.", "gold": "1", "pred": "0", "correct": false, "word": "control", "scratch": "conel", "scratch_ok": false}
+{"task": "count", "prompt": "How many e are there in member?", "gold": "2", "pred": "0", "correct": false, "word": "member", "scratch": "welise", "scratch_ok": false}
+{"task": "count", "prompt": "How many o are there in sport?", "gold": "1", "pred": "0", "correct": false, "word": "sport", "scratch": "sport", "scratch_ok": true}
+{"task": "count", "prompt": "How many e are there in hornet?", "gold": "1", "pred": "1", "correct": true, "word": "hornet", "scratch": "horter", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times a appears in primary.", "gold": "1", "pred": "3", "correct": false, "word": "primary", "scratch": "pramitorary", "scratch_ok": false}
+{"task": "count", "prompt": "Count the o's in the word strong.", "gold": "1", "pred": "0", "correct": false, "word": "strong", "scratch": "strong", "scratch_ok": true}
+{"task": "count", "prompt": "How many t's are in hornet?", "gold": "1", "pred": "1", "correct": true, "word": "hornet", "scratch": "horter", "scratch_ok": false}
+{"task": "count", "prompt": "How many w's are in income?", "gold": "0", "pred": "1", "correct": false, "word": "income", "scratch": "mecome", "scratch_ok": false}
+{"task": "count", "prompt": "How many c's are in merchant?", "gold": "1", "pred": "0", "correct": false, "word": "merchant", "scratch": "mantcher", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times r appears in scissors.", "gold": "1", "pred": "3", "correct": false, "word": "scissors", "scratch": "scorse", "scratch_ok": false}
+{"task": "count", "prompt": "How many g's are in penguin?", "gold": "1", "pred": "1", "correct": true, "word": "penguin", "scratch": "pegung", "scratch_ok": false}
+{"task": "count", "prompt": "How many a are there in whale?", "gold": "1", "pred": "0", "correct": false, "word": "whale", "scratch": "whely", "scratch_ok": false}
+{"task": "count", "prompt": "How many l are there in field?", "gold": "1", "pred": "1", "correct": true, "word": "field", "scratch": "field", "scratch_ok": true}
+{"task": "count", "prompt": "Count the number of times o appears in lesson.", "gold": "1", "pred": "3", "correct": false, "word": "lesson", "scratch": "lesass", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter n appear in door?", "gold": "0", "pred": "2", "correct": false, "word": "door", "scratch": "norfer", "scratch_ok": false}
+{"task": "count", "prompt": "How many m's are in climbing?", "gold": "1", "pred": "1", "correct": true, "word": "climbing", "scratch": "climbing", "scratch_ok": true}
+{"task": "count", "prompt": "How many r are there in crab?", "gold": "1", "pred": "0", "correct": false, "word": "crab", "scratch": "cerose", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times x appears in school.", "gold": "0", "pred": "0", "correct": true, "word": "school", "scratch": "soolloof", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter s appear in whose?", "gold": "1", "pred": "0", "correct": false, "word": "whose", "scratch": "whosen", "scratch_ok": false}
+{"task": "count", "prompt": "Count the s's in the word lesson.", "gold": "2", "pred": "3", "correct": false, "word": "lesson", "scratch": "lesass", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter l appear in every?", "gold": "0", "pred": "1", "correct": false, "word": "every", "scratch": "everry", "scratch_ok": false}
+{"task": "count", "prompt": "How many c's are in scheme?", "gold": "1", "pred": "0", "correct": false, "word": "scheme", "scratch": "theme", "scratch_ok": false}
+{"task": "count", "prompt": "How many n are there in canoe?", "gold": "1", "pred": "3", "correct": false, "word": "canoe", "scratch": "canyon", "scratch_ok": false}
+{"task": "count", "prompt": "How many s's are in soften?", "gold": "1", "pred": "1", "correct": true, "word": "soften", "scratch": "often", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter o appear in running?", "gold": "0", "pred": "1", "correct": false, "word": "running", "scratch": "rinning", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times g appears in member.", "gold": "0", "pred": "0", "correct": true, "word": "member", "scratch": "mece", "scratch_ok": false}
+{"task": "count", "prompt": "How many a's are in sweater?", "gold": "1", "pred": "1", "correct": true, "word": "sweater", "scratch": "sweep", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times g appears in sorry.", "gold": "0", "pred": "0", "correct": true, "word": "sorry", "scratch": "sorry", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter r appear in price?", "gold": "1", "pred": "3", "correct": false, "word": "price", "scratch": "preetche", "scratch_ok": false}
+{"task": "count", "prompt": "How many m's are in guard?", "gold": "0", "pred": "1", "correct": false, "word": "guard", "scratch": "guard", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter i appear in price?", "gold": "1", "pred": "0", "correct": false, "word": "price", "scratch": "pertice", "scratch_ok": false}
+{"task": "count", "prompt": "How many p are there in pepper?", "gold": "3", "pred": "2", "correct": false, "word": "pepper", "scratch": "pepperp", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter r appear in archery?", "gold": "2", "pred": "3", "correct": false, "word": "archery", "scratch": "archeern", "scratch_ok": false}
+{"task": "count", "prompt": "Count the l's in the word still.", "gold": "2", "pred": "3", "correct": false, "word": "still", "scratch": "stillblly", "scratch_ok": false}
+{"task": "count", "prompt": "How many e's are in treat?", "gold": "1", "pred": "0", "correct": false, "word": "treat", "scratch": "treat", "scratch_ok": true}
+{"task": "count", "prompt": "How many c's are in across?", "gold": "1", "pred": "2", "correct": false, "word": "across", "scratch": "ascasss", "scratch_ok": false}
+{"task": "count", "prompt": "Count the d's in the word print.", "gold": "0", "pred": "0", "correct": true, "word": "print", "scratch": "print", "scratch_ok": true}
+{"task": "count", "prompt": "How many h's are in shiny?", "gold": "1", "pred": "0", "correct": false, "word": "shiny", "scratch": "shin", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter v appear in raspberry?", "gold": "0", "pred": "0", "correct": true, "word": "raspberry", "scratch": "rasblerm", "scratch_ok": false}
+{"task": "count", "prompt": "How many i's are in shine?", "gold": "1", "pred": "0", "correct": false, "word": "shine", "scratch": "shirine", "scratch_ok": false}
+{"task": "count", "prompt": "Count the e's in the word promise.", "gold": "1", "pred": "2", "correct": false, "word": "promise", "scratch": "pese", "scratch_ok": false}
+{"task": "count", "prompt": "How many r's are in folder?", "gold": "1", "pred": "1", "correct": true, "word": "folder", "scratch": "foreer", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter k appear in fashion?", "gold": "0", "pred": "0", "correct": true, "word": "fashion", "scratch": "fasion", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times o appears in castle.", "gold": "0", "pred": "2", "correct": false, "word": "castle", "scratch": "castle", "scratch_ok": true}
+{"task": "count", "prompt": "How many c's are in computer?", "gold": "1", "pred": "3", "correct": false, "word": "computer", "scratch": "comupter", "scratch_ok": false}
+{"task": "count", "prompt": "Count the l's in the word middle.", "gold": "1", "pred": "2", "correct": false, "word": "middle", "scratch": "mosider", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times i appears in strike.", "gold": "1", "pred": "3", "correct": false, "word": "strike", "scratch": "streeke", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter c appear in archery?", "gold": "1", "pred": "1", "correct": true, "word": "archery", "scratch": "archeern", "scratch_ok": false}
+{"task": "count", "prompt": "How many g are there in running?", "gold": "1", "pred": "1", "correct": true, "word": "running", "scratch": "rinning", "scratch_ok": false}
+{"task": "count", "prompt": "Count the t's in the word tribe.", "gold": "1", "pred": "3", "correct": false, "word": "tribe", "scratch": "teries", "scratch_ok": false}
+{"task": "count", "prompt": "How many y are there in century?", "gold": "1", "pred": "0", "correct": false, "word": "century", "scratch": "centy", "scratch_ok": false}
+{"task": "count", "prompt": "How many s's are in novel?", "gold": "0", "pred": "0", "correct": true, "word": "novel", "scratch": "weris", "scratch_ok": false}
+{"task": "count", "prompt": "Count the g's in the word angle.", "gold": "1", "pred": "3", "correct": false, "word": "angle", "scratch": "angle", "scratch_ok": true}
+{"task": "count", "prompt": "How many n are there in wild?", "gold": "0", "pred": "3", "correct": false, "word": "wild", "scratch": "wildild", "scratch_ok": false}
+{"task": "count", "prompt": "How many f are there in fashion?", "gold": "1", "pred": "1", "correct": true, "word": "fashion", "scratch": "fashion", "scratch_ok": true}
+{"task": "count", "prompt": "Count the t's in the word trial.", "gold": "1", "pred": "3", "correct": false, "word": "trial", "scratch": "trairal", "scratch_ok": false}
+{"task": "count", "prompt": "How many n are there in neighbor?", "gold": "1", "pred": "1", "correct": true, "word": "neighbor", "scratch": "neorbor", "scratch_ok": false}
+{"task": "count", "prompt": "Count the b's in the word member.", "gold": "1", "pred": "0", "correct": false, "word": "member", "scratch": "welise", "scratch_ok": false}
+{"task": "count", "prompt": "How many f's are in mitten?", "gold": "0", "pred": "0", "correct": true, "word": "mitten", "scratch": "oftitian", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times f appears in upper.", "gold": "0", "pred": "0", "correct": true, "word": "upper", "scratch": "upperper", "scratch_ok": false}
+{"task": "count", "prompt": "How many z's are in river?", "gold": "0", "pred": "1", "correct": false, "word": "river", "scratch": "river", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter f appear in detail?", "gold": "0", "pred": "1", "correct": false, "word": "detail", "scratch": "dailet", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter v appear in shine?", "gold": "0", "pred": "0", "correct": true, "word": "shine", "scratch": "shirine", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter u appear in july?", "gold": "1", "pred": "1", "correct": true, "word": "july", "scratch": "jubly", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times o appears in notebook.", "gold": "3", "pred": "3", "correct": true, "word": "notebook", "scratch": "nobooke", "scratch_ok": false}
+{"task": "count", "prompt": "How many w's are in father?", "gold": "0", "pred": "0", "correct": true, "word": "father", "scratch": "father", "scratch_ok": true}
+{"task": "count", "prompt": "How many o's are in special?", "gold": "0", "pred": "1", "correct": false, "word": "special", "scratch": "speical", "scratch_ok": false}
+{"task": "count", "prompt": "How many i's are in little?", "gold": "1", "pred": "0", "correct": false, "word": "little", "scratch": "little", "scratch_ok": true}
+{"task": "count", "prompt": "How many t's are in total?", "gold": "2", "pred": "a", "correct": false, "word": "total", "scratch": "tenot", "scratch_ok": false}
+{"task": "count", "prompt": "How many s are there in resist?", "gold": "2", "pred": "1", "correct": false, "word": "resist", "scratch": "rest", "scratch_ok": false}
+{"task": "count", "prompt": "Count the s's in the word swimming.", "gold": "1", "pred": "1", "correct": true, "word": "swimming", "scratch": "swimping", "scratch_ok": false}
+{"task": "count", "prompt": "How many a's are in guard?", "gold": "1", "pred": "1", "correct": true, "word": "guard", "scratch": "guard", "scratch_ok": true}
+{"task": "count", "prompt": "How many p's are in narrow?", "gold": "0", "pred": "3", "correct": false, "word": "narrow", "scratch": "narbrowr", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times s appears in swimming.", "gold": "1", "pred": "1", "correct": true, "word": "swimming", "scratch": "swimping", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter u appear in writing?", "gold": "0", "pred": "1", "correct": false, "word": "writing", "scratch": "writing", "scratch_ok": true}
+{"task": "count", "prompt": "Count the number of times s appears in source.", "gold": "1", "pred": "1", "correct": true, "word": "source", "scratch": "sourcele", "scratch_ok": false}
+{"task": "count", "prompt": "How many t's are in invite?", "gold": "1", "pred": "1", "correct": true, "word": "invite", "scratch": "invente", "scratch_ok": false}
+{"task": "count", "prompt": "Count the h's in the word hornet.", "gold": "1", "pred": "1", "correct": true, "word": "hornet", "scratch": "hortor", "scratch_ok": false}
+{"task": "count", "prompt": "How many u's are in credit?", "gold": "0", "pred": "3", "correct": false, "word": "credit", "scratch": "citiatit", "scratch_ok": false}
+{"task": "count", "prompt": "Count the t's in the word battle.", "gold": "2", "pred": "2", "correct": true, "word": "battle", "scratch": "battle", "scratch_ok": true}
+{"task": "count", "prompt": "How many r are there in merchant?", "gold": "1", "pred": "0", "correct": false, "word": "merchant", "scratch": "mantcher", "scratch_ok": false}
+{"task": "count", "prompt": "How many j are there in common?", "gold": "0", "pred": "0", "correct": true, "word": "common", "scratch": "commont", "scratch_ok": false}
+{"task": "count", "prompt": "How many t's are in tribe?", "gold": "1", "pred": "3", "correct": false, "word": "tribe", "scratch": "teries", "scratch_ok": false}
+{"task": "count", "prompt": "How many c are there in voice?", "gold": "1", "pred": "1", "correct": true, "word": "voice", "scratch": "vice", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times r appears in raspberry.", "gold": "3", "pred": "3", "correct": true, "word": "raspberry", "scratch": "rasblerme", "scratch_ok": false}
+{"task": "count", "prompt": "Count the e's in the word valley.", "gold": "1", "pred": "3", "correct": false, "word": "valley", "scratch": "verisy", "scratch_ok": false}
+{"task": "count", "prompt": "Count the r's in the word door.", "gold": "1", "pred": "2", "correct": false, "word": "door", "scratch": "correor", "scratch_ok": false}
+{"task": "count", "prompt": "How many a are there in steady?", "gold": "1", "pred": "0", "correct": false, "word": "steady", "scratch": "peade", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter f appear in fence?", "gold": "1", "pred": "1", "correct": true, "word": "fence", "scratch": "fence", "scratch_ok": true}
+{"task": "count", "prompt": "Count the number of times j appears in invite.", "gold": "0", "pred": "1", "correct": false, "word": "invite", "scratch": "inve", "scratch_ok": false}
+{"task": "count", "prompt": "How many r are there in rapid?", "gold": "1", "pred": "2", "correct": false, "word": "rapid", "scratch": "ridapid", "scratch_ok": false}
+{"task": "count", "prompt": "How many i are there in whale?", "gold": "0", "pred": "0", "correct": true, "word": "whale", "scratch": "while", "scratch_ok": false}
+{"task": "count", "prompt": "How many f's are in fountain?", "gold": "1", "pred": "0", "correct": false, "word": "fountain", "scratch": "ferice", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter i appear in signal?", "gold": "1", "pred": "1", "correct": true, "word": "signal", "scratch": "signal", "scratch_ok": true}
+{"task": "count", "prompt": "How many a are there in garage?", "gold": "2", "pred": "2", "correct": true, "word": "garage", "scratch": "gargage", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times n appears in banana.", "gold": "2", "pred": "1", "correct": false, "word": "banana", "scratch": "banan", "scratch_ok": false}
+{"task": "count", "prompt": "Count the a's in the word usual.", "gold": "1", "pred": "1", "correct": true, "word": "usual", "scratch": "weles", "scratch_ok": false}
+{"task": "count", "prompt": "How many i are there in writing?", "gold": "2", "pred": "3", "correct": false, "word": "writing", "scratch": "writiaring", "scratch_ok": false}
+{"task": "count", "prompt": "Count the c's in the word funny.", "gold": "0", "pred": "1", "correct": false, "word": "funny", "scratch": "founney", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter b appear in biscuit?", "gold": "1", "pred": "3", "correct": false, "word": "biscuit", "scratch": "biscuis", "scratch_ok": false}
+{"task": "count", "prompt": "How many r are there in trial?", "gold": "1", "pred": "3", "correct": false, "word": "trial", "scratch": "trairral", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times e appears in practice.", "gold": "1", "pred": "1", "correct": true, "word": "practice", "scratch": "pract", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times e appears in cheese.", "gold": "3", "pred": "2", "correct": false, "word": "cheese", "scratch": "cheese", "scratch_ok": true}
+{"task": "count", "prompt": "Count the g's in the word gravity.", "gold": "1", "pred": "1", "correct": true, "word": "gravity", "scratch": "invality", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times t appears in battle.", "gold": "2", "pred": "2", "correct": true, "word": "battle", "scratch": "battle", "scratch_ok": true}
+{"task": "count", "prompt": "How many o are there in movie?", "gold": "1", "pred": "0", "correct": false, "word": "movie", "scratch": "ienve", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times s appears in smart.", "gold": "1", "pred": "0", "correct": false, "word": "smart", "scratch": "smocert", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter i appear in width?", "gold": "1", "pred": "0", "correct": false, "word": "width", "scratch": "widdew", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter h appear in survey?", "gold": "0", "pred": "1", "correct": false, "word": "survey", "scratch": "sorvey", "scratch_ok": false}
+{"task": "count", "prompt": "Count the n's in the word shiny.", "gold": "1", "pred": "0", "correct": false, "word": "shiny", "scratch": "shyin", "scratch_ok": false}
+{"task": "count", "prompt": "How many n are there in princess?", "gold": "1", "pred": "3", "correct": false, "word": "princess", "scratch": "pricess", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter b appear in harbor?", "gold": "1", "pred": "0", "correct": false, "word": "harbor", "scratch": "horelor", "scratch_ok": false}
+{"task": "count", "prompt": "How many m's are in mitten?", "gold": "1", "pred": "0", "correct": false, "word": "mitten", "scratch": "oftitian", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times q appears in sailboat.", "gold": "0", "pred": "0", "correct": true, "word": "sailboat", "scratch": "saillinat", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter r appear in kangaroo?", "gold": "1", "pred": "0", "correct": false, "word": "kangaroo", "scratch": "dange", "scratch_ok": false}
+{"task": "count", "prompt": "Count the k's in the word biscuit.", "gold": "0", "pred": "0", "correct": true, "word": "biscuit", "scratch": "biscuis", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter u appear in idea?", "gold": "0", "pred": "1", "correct": false, "word": "idea", "scratch": "inade", "scratch_ok": false}
+{"task": "count", "prompt": "Count the d's in the word dream.", "gold": "1", "pred": "0", "correct": false, "word": "dream", "scratch": "dreame", "scratch_ok": false}
+{"task": "count", "prompt": "How many a are there in basement?", "gold": "1", "pred": "1", "correct": true, "word": "basement", "scratch": "basement", "scratch_ok": true}
+{"task": "count", "prompt": "How many s's are in fashion?", "gold": "1", "pred": "0", "correct": false, "word": "fashion", "scratch": "fashion", "scratch_ok": true}
+{"task": "count", "prompt": "How many m are there in swimming?", "gold": "2", "pred": "1", "correct": false, "word": "swimming", "scratch": "swimping", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter r appear in trial?", "gold": "1", "pred": "3", "correct": false, "word": "trial", "scratch": "trairal", "scratch_ok": false}
+{"task": "count", "prompt": "How many g are there in raspberry?", "gold": "0", "pred": "3", "correct": false, "word": "raspberry", "scratch": "rasblermer", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter x appear in youth?", "gold": "0", "pred": "0", "correct": true, "word": "youth", "scratch": "meus", "scratch_ok": false}
+{"task": "count", "prompt": "How many e are there in handle?", "gold": "1", "pred": "1", "correct": true, "word": "handle", "scratch": "handle", "scratch_ok": true}
+{"task": "count", "prompt": "Count the number of times a appears in kangaroo.", "gold": "2", "pred": "0", "correct": false, "word": "kangaroo", "scratch": "dange", "scratch_ok": false}
+{"task": "count", "prompt": "How many d are there in trend?", "gold": "1", "pred": "0", "correct": false, "word": "trend", "scratch": "treare", "scratch_ok": false}
+{"task": "count", "prompt": "How many p's are in special?", "gold": "1", "pred": "3", "correct": false, "word": "special", "scratch": "spicalia", "scratch_ok": false}
+{"task": "count", "prompt": "How many o are there in zone?", "gold": "1", "pred": "0", "correct": false, "word": "zone", "scratch": "zeone", "scratch_ok": false}
+{"task": "count", "prompt": "How many b are there in trick?", "gold": "0", "pred": "0", "correct": true, "word": "trick", "scratch": "welick", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times r appears in pepper.", "gold": "1", "pred": "2", "correct": false, "word": "pepper", "scratch": "pepperp", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times i appears in rugby.", "gold": "0", "pred": "1", "correct": false, "word": "rugby", "scratch": "rugby", "scratch_ok": true}
+{"task": "count", "prompt": "How many s are there in salmon?", "gold": "1", "pred": "2", "correct": false, "word": "salmon", "scratch": "salmanton", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter h appear in child?", "gold": "1", "pred": "0", "correct": false, "word": "child", "scratch": "childing", "scratch_ok": false}
+{"task": "count", "prompt": "Count the h's in the word whisper.", "gold": "1", "pred": "0", "correct": false, "word": "whisper", "scratch": "whisper", "scratch_ok": true}
+{"task": "count", "prompt": "Count the p's in the word pepper.", "gold": "3", "pred": "2", "correct": false, "word": "pepper", "scratch": "pepperp", "scratch_ok": false}
+{"task": "count", "prompt": "How many d's are in shadow?", "gold": "1", "pred": "0", "correct": false, "word": "shadow", "scratch": "shew", "scratch_ok": false}
+{"task": "count", "prompt": "How many b are there in credit?", "gold": "0", "pred": "3", "correct": false, "word": "credit", "scratch": "citiatit", "scratch_ok": false}
+{"task": "count", "prompt": "Count the a's in the word wild.", "gold": "0", "pred": "3", "correct": false, "word": "wild", "scratch": "wildild", "scratch_ok": false}
+{"task": "count", "prompt": "Count the r's in the word trend.", "gold": "1", "pred": "0", "correct": false, "word": "trend", "scratch": "treare", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times a appears in hallway.", "gold": "2", "pred": "2", "correct": true, "word": "hallway", "scratch": "hallow", "scratch_ok": false}
+{"task": "count", "prompt": "How many e's are in sunset?", "gold": "1", "pred": "3", "correct": false, "word": "sunset", "scratch": "wernos", "scratch_ok": false}
+{"task": "count", "prompt": "How many p are there in church?", "gold": "0", "pred": "0", "correct": true, "word": "church", "scratch": "church", "scratch_ok": true}
+{"task": "count", "prompt": "Count the s's in the word subject.", "gold": "1", "pred": "1", "correct": true, "word": "subject", "scratch": "subject", "scratch_ok": true}
+{"task": "count", "prompt": "How many h's are in shadow?", "gold": "1", "pred": "0", "correct": false, "word": "shadow", "scratch": "shew", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter h appear in folder?", "gold": "0", "pred": "1", "correct": false, "word": "folder", "scratch": "fereer", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter n appear in control?", "gold": "1", "pred": "0", "correct": false, "word": "control", "scratch": "conel", "scratch_ok": false}
+{"task": "count", "prompt": "How many b are there in boulder?", "gold": "1", "pred": "1", "correct": true, "word": "boulder", "scratch": "bourager", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter o appear in toilet?", "gold": "1", "pred": "2", "correct": false, "word": "toilet", "scratch": "telet", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times t appears in attic.", "gold": "2", "pred": "3", "correct": false, "word": "attic", "scratch": "attictic", "scratch_ok": false}
+{"task": "count", "prompt": "Count the l's in the word lifted.", "gold": "1", "pred": "3", "correct": false, "word": "lifted", "scratch": "lifted", "scratch_ok": true}
+{"task": "count", "prompt": "Count the u's in the word solution.", "gold": "1", "pred": "1", "correct": true, "word": "solution", "scratch": "soution", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times w appears in knight.", "gold": "0", "pred": "2", "correct": false, "word": "knight", "scratch": "knightnight", "scratch_ok": false}
+{"task": "count", "prompt": "Count the e's in the word hornet.", "gold": "1", "pred": "1", "correct": true, "word": "hornet", "scratch": "horter", "scratch_ok": false}
+{"task": "count", "prompt": "How many v are there in field?", "gold": "0", "pred": "1", "correct": false, "word": "field", "scratch": "field", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter i appear in still?", "gold": "1", "pred": "1", "correct": true, "word": "still", "scratch": "stillblly", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times b appears in label.", "gold": "1", "pred": "1", "correct": true, "word": "label", "scratch": "labalage", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times t appears in print.", "gold": "1", "pred": "0", "correct": false, "word": "print", "scratch": "print", "scratch_ok": true}
+{"task": "count", "prompt": "How many m are there in muffin?", "gold": "1", "pred": "3", "correct": false, "word": "muffin", "scratch": "muffin", "scratch_ok": true}
+{"task": "count", "prompt": "Count the l's in the word person.", "gold": "0", "pred": "0", "correct": true, "word": "person", "scratch": "perice", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter a appear in sacred?", "gold": "1", "pred": "2", "correct": false, "word": "sacred", "scratch": "sacocade", "scratch_ok": false}
+{"task": "count", "prompt": "How many r's are in credit?", "gold": "1", "pred": "3", "correct": false, "word": "credit", "scratch": "citiatit", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times b appears in field.", "gold": "0", "pred": "1", "correct": false, "word": "field", "scratch": "field", "scratch_ok": true}
+{"task": "count", "prompt": "Count the l's in the word small.", "gold": "2", "pred": "2", "correct": true, "word": "small", "scratch": "smallow", "scratch_ok": false}
+{"task": "count", "prompt": "How many g are there in garage?", "gold": "2", "pred": "1", "correct": false, "word": "garage", "scratch": "gargage", "scratch_ok": false}
+{"task": "count", "prompt": "How many t are there in little?", "gold": "2", "pred": "0", "correct": false, "word": "little", "scratch": "little", "scratch_ok": true}
+{"task": "count", "prompt": "How many l's are in middle?", "gold": "1", "pred": "2", "correct": false, "word": "middle", "scratch": "mesider", "scratch_ok": false}
+{"task": "count", "prompt": "How many n are there in dancing?", "gold": "2", "pred": "2", "correct": true, "word": "dancing", "scratch": "dincanging", "scratch_ok": false}
+{"task": "count", "prompt": "How many p's are in penguin?", "gold": "1", "pred": "2", "correct": false, "word": "penguin", "scratch": "pegung", "scratch_ok": false}
+{"task": "count", "prompt": "How many e are there in scheme?", "gold": "2", "pred": "3", "correct": false, "word": "scheme", "scratch": "theme", "scratch_ok": false}
+{"task": "count", "prompt": "Count the t's in the word mattress.", "gold": "2", "pred": "3", "correct": false, "word": "mattress", "scratch": "matse", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times i appears in trial.", "gold": "1", "pred": "3", "correct": false, "word": "trial", "scratch": "trairreal", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter o appear in kindness?", "gold": "0", "pred": "0", "correct": true, "word": "kindness", "scratch": "indess", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter r appear in primary?", "gold": "2", "pred": "3", "correct": false, "word": "primary", "scratch": "promituary", "scratch_ok": false}
+{"task": "count", "prompt": "Count the e's in the word juggle.", "gold": "1", "pred": "3", "correct": false, "word": "juggle", "scratch": "juggle", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter m appear in frame?", "gold": "1", "pred": "0", "correct": false, "word": "frame", "scratch": "thrame", "scratch_ok": false}
+{"task": "count", "prompt": "How many v's are in invite?", "gold": "1", "pred": "1", "correct": true, "word": "invite", "scratch": "invente", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times k appears in smoke.", "gold": "1", "pred": "0", "correct": false, "word": "smoke", "scratch": "smecoke", "scratch_ok": false}
+{"task": "count", "prompt": "How many z's are in zone?", "gold": "1", "pred": "0", "correct": false, "word": "zone", "scratch": "zene", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times a appears in across.", "gold": "1", "pred": "4", "correct": false, "word": "across", "scratch": "ascrofsas", "scratch_ok": false}
+{"task": "count", "prompt": "Count the v's in the word fuel.", "gold": "0", "pred": "1", "correct": false, "word": "fuel", "scratch": "fuleel", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times a appears in angle.", "gold": "1", "pred": "3", "correct": false, "word": "angle", "scratch": "angle", "scratch_ok": true}
+{"task": "count", "prompt": "How many e are there in mattress?", "gold": "1", "pred": "3", "correct": false, "word": "mattress", "scratch": "maptes", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times j appears in guard.", "gold": "0", "pred": "1", "correct": false, "word": "guard", "scratch": "guard", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter e appear in income?", "gold": "1", "pred": "3", "correct": false, "word": "income", "scratch": "ecomece", "scratch_ok": false}
+{"task": "count", "prompt": "How many t's are in solution?", "gold": "1", "pred": "0", "correct": false, "word": "solution", "scratch": "soution", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter e appear in freedom?", "gold": "2", "pred": "3", "correct": false, "word": "freedom", "scratch": "freedom", "scratch_ok": true}
+{"task": "count", "prompt": "How many y are there in lifted?", "gold": "0", "pred": "1", "correct": false, "word": "lifted", "scratch": "lifted", "scratch_ok": true}
+{"task": "count", "prompt": "How many e's are in merchant?", "gold": "1", "pred": "2", "correct": false, "word": "merchant", "scratch": "mantcher", "scratch_ok": false}
+{"task": "count", "prompt": "How many s's are in scissors?", "gold": "4", "pred": "3", "correct": false, "word": "scissors", "scratch": "scorser", "scratch_ok": false}
+{"task": "count", "prompt": "Count the d's in the word field.", "gold": "1", "pred": "1", "correct": true, "word": "field", "scratch": "field", "scratch_ok": true}
+{"task": "count", "prompt": "Count the number of times p appears in powder.", "gold": "1", "pred": "1", "correct": true, "word": "powder", "scratch": "powder", "scratch_ok": true}
+{"task": "count", "prompt": "How many o's are in smoke?", "gold": "1", "pred": "3", "correct": false, "word": "smoke", "scratch": "smecoke", "scratch_ok": false}
+{"task": "count", "prompt": "How many r are there in across?", "gold": "1", "pred": "2", "correct": false, "word": "across", "scratch": "ascasssa", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter e appear in voice?", "gold": "1", "pred": "0", "correct": false, "word": "voice", "scratch": "vice", "scratch_ok": false}
+{"task": "count", "prompt": "How many w's are in fellow?", "gold": "1", "pred": "0", "correct": false, "word": "fellow", "scratch": "ferice", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter l appear in detail?", "gold": "1", "pred": "1", "correct": true, "word": "detail", "scratch": "dailet", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times h appears in polish.", "gold": "1", "pred": "0", "correct": false, "word": "polish", "scratch": "polite", "scratch_ok": false}
+{"task": "count", "prompt": "How many r are there in archery?", "gold": "2", "pred": "3", "correct": false, "word": "archery", "scratch": "rarcheery", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter m appear in canoe?", "gold": "0", "pred": "3", "correct": false, "word": "canoe", "scratch": "canonet", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times n appears in shine.", "gold": "1", "pred": "1", "correct": true, "word": "shine", "scratch": "shirine", "scratch_ok": false}
+{"task": "count", "prompt": "Count the t's in the word reading.", "gold": "0", "pred": "2", "correct": false, "word": "reading", "scratch": "reading", "scratch_ok": true}
+{"task": "count", "prompt": "Count the number of times l appears in lesson.", "gold": "1", "pred": "3", "correct": false, "word": "lesson", "scratch": "lesass", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times i appears in rapid.", "gold": "1", "pred": "2", "correct": false, "word": "rapid", "scratch": "ridapid", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times m appears in memory.", "gold": "2", "pred": "0", "correct": false, "word": "memory", "scratch": "theomy", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter w appear in rugby?", "gold": "0", "pred": "1", "correct": false, "word": "rugby", "scratch": "rugyb", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter l appear in school?", "gold": "1", "pred": "4", "correct": false, "word": "school", "scratch": "soolloof", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times i appears in penguin.", "gold": "1", "pred": "2", "correct": false, "word": "penguin", "scratch": "pegungin", "scratch_ok": false}
+{"task": "count", "prompt": "How many g are there in door?", "gold": "0", "pred": "0", "correct": true, "word": "door", "scratch": "correor", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter v appear in novel?", "gold": "1", "pred": "0", "correct": false, "word": "novel", "scratch": "nepor", "scratch_ok": false}
+{"task": "count", "prompt": "How many e are there in steady?", "gold": "1", "pred": "0", "correct": false, "word": "steady", "scratch": "peade", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter w appear in sweater?", "gold": "1", "pred": "0", "correct": false, "word": "sweater", "scratch": "swee", "scratch_ok": false}
+{"task": "count", "prompt": "How many a are there in actual?", "gold": "2", "pred": "1", "correct": false, "word": "actual", "scratch": "actal", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times i appears in grain.", "gold": "1", "pred": "0", "correct": false, "word": "grain", "scratch": "grane", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times d appears in penguin.", "gold": "0", "pred": "3", "correct": false, "word": "penguin", "scratch": "pegungin", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times e appears in reading.", "gold": "1", "pred": "2", "correct": false, "word": "reading", "scratch": "reading", "scratch_ok": true}
+{"task": "count", "prompt": "How many b are there in whisper?", "gold": "0", "pred": "0", "correct": true, "word": "whisper", "scratch": "whisper", "scratch_ok": true}
+{"task": "count", "prompt": "How many h are there in hotel?", "gold": "1", "pred": "1", "correct": true, "word": "hotel", "scratch": "hotel", "scratch_ok": true}
+{"task": "count", "prompt": "Count the number of times p appears in person.", "gold": "1", "pred": "0", "correct": false, "word": "person", "scratch": "perice", "scratch_ok": false}
+{"task": "count", "prompt": "How many k's are in milk?", "gold": "1", "pred": "0", "correct": false, "word": "milk", "scratch": "mildunk", "scratch_ok": false}
+{"task": "count", "prompt": "How many m's are in human?", "gold": "1", "pred": "1", "correct": true, "word": "human", "scratch": "hanum", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter r appear in strawberry?", "gold": "3", "pred": "3", "correct": true, "word": "strawberry", "scratch": "strawre", "scratch_ok": false}
+{"task": "count", "prompt": "Count the t's in the word hornet.", "gold": "1", "pred": "1", "correct": true, "word": "hornet", "scratch": "hortor", "scratch_ok": false}
+{"task": "count", "prompt": "How many s are there in sunset?", "gold": "2", "pred": "1", "correct": false, "word": "sunset", "scratch": "wence", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times m appears in puppy.", "gold": "0", "pred": "2", "correct": false, "word": "puppy", "scratch": "puble", "scratch_ok": false}
+{"task": "count", "prompt": "How many u are there in school?", "gold": "0", "pred": "2", "correct": false, "word": "school", "scratch": "soolfool", "scratch_ok": false}
+{"task": "count", "prompt": "How many b are there in hornet?", "gold": "0", "pred": "1", "correct": false, "word": "hornet", "scratch": "horter", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter t appear in subject?", "gold": "1", "pred": "1", "correct": true, "word": "subject", "scratch": "subject", "scratch_ok": true}
+{"task": "count", "prompt": "How many times does the letter n appear in resource?", "gold": "0", "pred": "1", "correct": false, "word": "resource", "scratch": "recure", "scratch_ok": false}
+{"task": "count", "prompt": "Count the i's in the word grain.", "gold": "1", "pred": "0", "correct": false, "word": "grain", "scratch": "grane", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times s appears in sweater.", "gold": "1", "pred": "0", "correct": false, "word": "sweater", "scratch": "swee", "scratch_ok": false}
+{"task": "count", "prompt": "How many l's are in july?", "gold": "1", "pred": "1", "correct": true, "word": "july", "scratch": "jubly", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times i appears in signal.", "gold": "1", "pred": "1", "correct": true, "word": "signal", "scratch": "signal", "scratch_ok": true}
+{"task": "count", "prompt": "Count the number of times r appears in survey.", "gold": "1", "pred": "3", "correct": false, "word": "survey", "scratch": "soxurvey", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter b appear in crab?", "gold": "1", "pred": "0", "correct": false, "word": "crab", "scratch": "fore", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter b appear in tribe?", "gold": "1", "pred": "0", "correct": false, "word": "tribe", "scratch": "teries", "scratch_ok": false}
+{"task": "count", "prompt": "How many times does the letter f appear in origin?", "gold": "0", "pred": "1", "correct": false, "word": "origin", "scratch": "orbing", "scratch_ok": false}
+{"task": "count", "prompt": "How many o's are in youth?", "gold": "1", "pred": "0", "correct": false, "word": "youth", "scratch": "meus", "scratch_ok": false}
+{"task": "count", "prompt": "Count the number of times a appears in print.", "gold": "0", "pred": "0", "correct": true, "word": "print", "scratch": "print", "scratch_ok": true}

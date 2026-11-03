@@ -1,0 +1,300 @@
+{"task": "count", "prompt": "How many times does the letter d appear in dream?", "gold": "1", "pred": "2", "correct": false, "word": "dream"}
+{"task": "count", "prompt": "Count the u's in the word bonus.", "gold": "1", "pred": "0", "correct": false, "word": "bonus"}
+{"task": "count", "prompt": "Count the e's in the word archery.", "gold": "1", "pred": "2", "correct": false, "word": "archery"}
+{"task": "count", "prompt": "How many e are there in castle?", "gold": "1", "pred": "0", "correct": false, "word": "castle"}
+{"task": "count", "prompt": "Count the l's in the word sleep.", "gold": "1", "pred": "0", "correct": false, "word": "sleep"}
+{"task": "count", "prompt": "Count the number of times l appears in still.", "gold": "2", "pred": "0", "correct": false, "word": "still"}
+{"task": "count", "prompt": "How many h's are in humid?", "gold": "1", "pred": "1", "correct": true, "word": "humid"}
+{"task": "count", "prompt": "Count the number of times a appears in father.", "gold": "1", "pred": "0", "correct": false, "word": "father"}
+{"task": "count", "prompt": "How many i's are in practice?", "gold": "1", "pred": "2", "correct": false, "word": "practice"}
+{"task": "count", "prompt": "Count the number of times n appears in soften.", "gold": "1", "pred": "0", "correct": false, "word": "soften"}
+{"task": "count", "prompt": "Count the number of times s appears in forest.", "gold": "1", "pred": "0", "correct": false, "word": "forest"}
+{"task": "count", "prompt": "How many a's are in actual?", "gold": "2", "pred": "0", "correct": false, "word": "actual"}
+{"task": "count", "prompt": "How many times does the letter b appear in bamboo?", "gold": "2", "pred": "2", "correct": true, "word": "bamboo"}
+{"task": "count", "prompt": "How many times does the letter s appear in princess?", "gold": "2", "pred": "3", "correct": false, "word": "princess"}
+{"task": "count", "prompt": "Count the t's in the word pitch.", "gold": "1", "pred": "2", "correct": false, "word": "pitch"}
+{"task": "count", "prompt": "Count the number of times a appears in idea.", "gold": "1", "pred": "1", "correct": true, "word": "idea"}
+{"task": "count", "prompt": "How many a's are in label?", "gold": "1", "pred": "0", "correct": false, "word": "label"}
+{"task": "count", "prompt": "How many times does the letter r appear in boulder?", "gold": "1", "pred": "1", "correct": true, "word": "boulder"}
+{"task": "count", "prompt": "How many g's are in rugby?", "gold": "1", "pred": "0", "correct": false, "word": "rugby"}
+{"task": "count", "prompt": "How many r's are in sport?", "gold": "1", "pred": "2", "correct": false, "word": "sport"}
+{"task": "count", "prompt": "Count the number of times e appears in pitch.", "gold": "0", "pred": "2", "correct": false, "word": "pitch"}
+{"task": "count", "prompt": "How many o's are in notebook?", "gold": "3", "pred": "2", "correct": false, "word": "notebook"}
+{"task": "count", "prompt": "How many u are there in thunder?", "gold": "1", "pred": "0", "correct": false, "word": "thunder"}
+{"task": "count", "prompt": "How many times does the letter u appear in fountain?", "gold": "1", "pred": "1", "correct": true, "word": "fountain"}
+{"task": "count", "prompt": "Count the number of times l appears in every.", "gold": "0", "pred": "0", "correct": true, "word": "every"}
+{"task": "count", "prompt": "Count the number of times e appears in begin.", "gold": "1", "pred": "1", "correct": true, "word": "begin"}
+{"task": "count", "prompt": "How many w are there in father?", "gold": "0", "pred": "0", "correct": true, "word": "father"}
+{"task": "count", "prompt": "Count the e's in the word chance.", "gold": "1", "pred": "2", "correct": false, "word": "chance"}
+{"task": "count", "prompt": "Count the l's in the word castle.", "gold": "1", "pred": "0", "correct": false, "word": "castle"}
+{"task": "count", "prompt": "How many times does the letter m appear in muffin?", "gold": "1", "pred": "2", "correct": false, "word": "muffin"}
+{"task": "count", "prompt": "How many c's are in music?", "gold": "1", "pred": "1", "correct": true, "word": "music"}
+{"task": "count", "prompt": "How many c's are in clumsy?", "gold": "1", "pred": "0", "correct": false, "word": "clumsy"}
+{"task": "count", "prompt": "How many l's are in usual?", "gold": "1", "pred": "1", "correct": true, "word": "usual"}
+{"task": "count", "prompt": "Count the number of times r appears in primary.", "gold": "2", "pred": "3", "correct": false, "word": "primary"}
+{"task": "count", "prompt": "Count the number of times d appears in bounce.", "gold": "0", "pred": "1", "correct": false, "word": "bounce"}
+{"task": "count", "prompt": "How many times does the letter e appear in river?", "gold": "1", "pred": "1", "correct": true, "word": "river"}
+{"task": "count", "prompt": "How many x are there in caught?", "gold": "0", "pred": "0", "correct": true, "word": "caught"}
+{"task": "count", "prompt": "How many f's are in frog?", "gold": "1", "pred": "1", "correct": true, "word": "frog"}
+{"task": "count", "prompt": "Count the e's in the word fence.", "gold": "2", "pred": "1", "correct": false, "word": "fence"}
+{"task": "count", "prompt": "How many times does the letter l appear in bamboo?", "gold": "0", "pred": "0", "correct": true, "word": "bamboo"}
+{"task": "count", "prompt": "Count the number of times t appears in treat.", "gold": "2", "pred": "2", "correct": true, "word": "treat"}
+{"task": "count", "prompt": "How many c are there in occupy?", "gold": "2", "pred": "2", "correct": true, "word": "occupy"}
+{"task": "count", "prompt": "How many d are there in caught?", "gold": "0", "pred": "0", "correct": true, "word": "caught"}
+{"task": "count", "prompt": "Count the e's in the word lifted.", "gold": "1", "pred": "2", "correct": false, "word": "lifted"}
+{"task": "count", "prompt": "How many times does the letter s appear in sight?", "gold": "1", "pred": "1", "correct": true, "word": "sight"}
+{"task": "count", "prompt": "How many h's are in pitch?", "gold": "1", "pred": "1", "correct": true, "word": "pitch"}
+{"task": "count", "prompt": "How many b's are in beyond?", "gold": "1", "pred": "1", "correct": true, "word": "beyond"}
+{"task": "count", "prompt": "Count the r's in the word pepper.", "gold": "1", "pred": "2", "correct": false, "word": "pepper"}
+{"task": "count", "prompt": "Count the n's in the word handle.", "gold": "1", "pred": "0", "correct": false, "word": "handle"}
+{"task": "count", "prompt": "Count the w's in the word wide.", "gold": "1", "pred": "1", "correct": true, "word": "wide"}
+{"task": "count", "prompt": "How many times does the letter o appear in occupy?", "gold": "1", "pred": "2", "correct": false, "word": "occupy"}
+{"task": "count", "prompt": "Count the n's in the word salmon.", "gold": "1", "pred": "0", "correct": false, "word": "salmon"}
+{"task": "count", "prompt": "Count the m's in the word income.", "gold": "1", "pred": "0", "correct": false, "word": "income"}
+{"task": "count", "prompt": "How many times does the letter i appear in strike?", "gold": "1", "pred": "1", "correct": true, "word": "strike"}
+{"task": "count", "prompt": "Count the number of times a appears in crab.", "gold": "1", "pred": "0", "correct": false, "word": "crab"}
+{"task": "count", "prompt": "Count the u's in the word double.", "gold": "1", "pred": "0", "correct": false, "word": "double"}
+{"task": "count", "prompt": "Count the number of times w appears in valley.", "gold": "0", "pred": "2", "correct": false, "word": "valley"}
+{"task": "count", "prompt": "How many t are there in prevent?", "gold": "1", "pred": "0", "correct": false, "word": "prevent"}
+{"task": "count", "prompt": "Count the i's in the word income.", "gold": "1", "pred": "1", "correct": true, "word": "income"}
+{"task": "count", "prompt": "Count the l's in the word polish.", "gold": "1", "pred": "2", "correct": false, "word": "polish"}
+{"task": "count", "prompt": "Count the number of times n appears in union.", "gold": "2", "pred": "0", "correct": false, "word": "union"}
+{"task": "count", "prompt": "Count the n's in the word control.", "gold": "1", "pred": "3", "correct": false, "word": "control"}
+{"task": "count", "prompt": "How many e are there in member?", "gold": "2", "pred": "0", "correct": false, "word": "member"}
+{"task": "count", "prompt": "How many o are there in sport?", "gold": "1", "pred": "2", "correct": false, "word": "sport"}
+{"task": "count", "prompt": "How many e are there in hornet?", "gold": "1", "pred": "1", "correct": true, "word": "hornet"}
+{"task": "count", "prompt": "Count the number of times a appears in primary.", "gold": "1", "pred": "3", "correct": false, "word": "primary"}
+{"task": "count", "prompt": "Count the o's in the word strong.", "gold": "1", "pred": "2", "correct": false, "word": "strong"}
+{"task": "count", "prompt": "How many t's are in hornet?", "gold": "1", "pred": "1", "correct": true, "word": "hornet"}
+{"task": "count", "prompt": "How many w's are in income?", "gold": "0", "pred": "0", "correct": true, "word": "income"}
+{"task": "count", "prompt": "How many c's are in merchant?", "gold": "1", "pred": "2", "correct": false, "word": "merchant"}
+{"task": "count", "prompt": "Count the number of times r appears in scissors.", "gold": "1", "pred": "0", "correct": false, "word": "scissors"}
+{"task": "count", "prompt": "How many g's are in penguin?", "gold": "1", "pred": "2", "correct": false, "word": "penguin"}
+{"task": "count", "prompt": "How many a are there in whale?", "gold": "1", "pred": "1", "correct": true, "word": "whale"}
+{"task": "count", "prompt": "How many l are there in field?", "gold": "1", "pred": "0", "correct": false, "word": "field"}
+{"task": "count", "prompt": "Count the number of times o appears in lesson.", "gold": "1", "pred": "0", "correct": false, "word": "lesson"}
+{"task": "count", "prompt": "How many times does the letter n appear in door?", "gold": "0", "pred": "0", "correct": true, "word": "door"}
+{"task": "count", "prompt": "How many m's are in climbing?", "gold": "1", "pred": "1", "correct": true, "word": "climbing"}
+{"task": "count", "prompt": "How many r are there in crab?", "gold": "1", "pred": "2", "correct": false, "word": "crab"}
+{"task": "count", "prompt": "Count the number of times x appears in school.", "gold": "0", "pred": "0", "correct": true, "word": "school"}
+{"task": "count", "prompt": "How many times does the letter s appear in whose?", "gold": "1", "pred": "0", "correct": false, "word": "whose"}
+{"task": "count", "prompt": "Count the s's in the word lesson.", "gold": "2", "pred": "2", "correct": true, "word": "lesson"}
+{"task": "count", "prompt": "How many times does the letter l appear in every?", "gold": "0", "pred": "0", "correct": true, "word": "every"}
+{"task": "count", "prompt": "How many c's are in scheme?", "gold": "1", "pred": "0", "correct": false, "word": "scheme"}
+{"task": "count", "prompt": "How many n are there in canoe?", "gold": "1", "pred": "2", "correct": false, "word": "canoe"}
+{"task": "count", "prompt": "How many s's are in soften?", "gold": "1", "pred": "2", "correct": false, "word": "soften"}
+{"task": "count", "prompt": "How many times does the letter o appear in running?", "gold": "0", "pred": "3", "correct": false, "word": "running"}
+{"task": "count", "prompt": "Count the number of times g appears in member.", "gold": "0", "pred": "0", "correct": true, "word": "member"}
+{"task": "count", "prompt": "How many a's are in sweater?", "gold": "1", "pred": "0", "correct": false, "word": "sweater"}
+{"task": "count", "prompt": "Count the number of times g appears in sorry.", "gold": "0", "pred": "0", "correct": true, "word": "sorry"}
+{"task": "count", "prompt": "How many times does the letter r appear in price?", "gold": "1", "pred": "2", "correct": false, "word": "price"}
+{"task": "count", "prompt": "How many m's are in guard?", "gold": "0", "pred": "1", "correct": false, "word": "guard"}
+{"task": "count", "prompt": "How many times does the letter i appear in price?", "gold": "1", "pred": "1", "correct": true, "word": "price"}
+{"task": "count", "prompt": "How many p are there in pepper?", "gold": "3", "pred": "2", "correct": false, "word": "pepper"}
+{"task": "count", "prompt": "How many times does the letter r appear in archery?", "gold": "2", "pred": "2", "correct": true, "word": "archery"}
+{"task": "count", "prompt": "Count the l's in the word still.", "gold": "2", "pred": "0", "correct": false, "word": "still"}
+{"task": "count", "prompt": "How many e's are in treat?", "gold": "1", "pred": "1", "correct": true, "word": "treat"}
+{"task": "count", "prompt": "How many c's are in across?", "gold": "1", "pred": "1", "correct": true, "word": "across"}
+{"task": "count", "prompt": "Count the d's in the word print.", "gold": "0", "pred": "0", "correct": true, "word": "print"}
+{"task": "count", "prompt": "How many h's are in shiny?", "gold": "1", "pred": "0", "correct": false, "word": "shiny"}
+{"task": "count", "prompt": "How many times does the letter v appear in raspberry?", "gold": "0", "pred": "0", "correct": true, "word": "raspberry"}
+{"task": "count", "prompt": "How many i's are in shine?", "gold": "1", "pred": "0", "correct": false, "word": "shine"}
+{"task": "count", "prompt": "Count the e's in the word promise.", "gold": "1", "pred": "0", "correct": false, "word": "promise"}
+{"task": "count", "prompt": "How many r's are in folder?", "gold": "1", "pred": "0", "correct": false, "word": "folder"}
+{"task": "count", "prompt": "How many times does the letter k appear in fashion?", "gold": "0", "pred": "1", "correct": false, "word": "fashion"}
+{"task": "count", "prompt": "Count the number of times o appears in castle.", "gold": "0", "pred": "0", "correct": true, "word": "castle"}
+{"task": "count", "prompt": "How many c's are in computer?", "gold": "1", "pred": "2", "correct": false, "word": "computer"}
+{"task": "count", "prompt": "Count the l's in the word middle.", "gold": "1", "pred": "0", "correct": false, "word": "middle"}
+{"task": "count", "prompt": "Count the number of times i appears in strike.", "gold": "1", "pred": "0", "correct": false, "word": "strike"}
+{"task": "count", "prompt": "How many times does the letter c appear in archery?", "gold": "1", "pred": "2", "correct": false, "word": "archery"}
+{"task": "count", "prompt": "How many g are there in running?", "gold": "1", "pred": "2", "correct": false, "word": "running"}
+{"task": "count", "prompt": "Count the t's in the word tribe.", "gold": "1", "pred": "0", "correct": false, "word": "tribe"}
+{"task": "count", "prompt": "How many y are there in century?", "gold": "1", "pred": "0", "correct": false, "word": "century"}
+{"task": "count", "prompt": "How many s's are in novel?", "gold": "0", "pred": "0", "correct": true, "word": "novel"}
+{"task": "count", "prompt": "Count the g's in the word angle.", "gold": "1", "pred": "1", "correct": true, "word": "angle"}
+{"task": "count", "prompt": "How many n are there in wild?", "gold": "0", "pred": "2", "correct": false, "word": "wild"}
+{"task": "count", "prompt": "How many f are there in fashion?", "gold": "1", "pred": "1", "correct": true, "word": "fashion"}
+{"task": "count", "prompt": "Count the t's in the word trial.", "gold": "1", "pred": "1", "correct": true, "word": "trial"}
+{"task": "count", "prompt": "How many n are there in neighbor?", "gold": "1", "pred": "0", "correct": false, "word": "neighbor"}
+{"task": "count", "prompt": "Count the b's in the word member.", "gold": "1", "pred": "0", "correct": false, "word": "member"}
+{"task": "count", "prompt": "How many f's are in mitten?", "gold": "0", "pred": "0", "correct": true, "word": "mitten"}
+{"task": "count", "prompt": "Count the number of times f appears in upper.", "gold": "0", "pred": "2", "correct": false, "word": "upper"}
+{"task": "count", "prompt": "How many z's are in river?", "gold": "0", "pred": "1", "correct": false, "word": "river"}
+{"task": "count", "prompt": "How many times does the letter f appear in detail?", "gold": "0", "pred": "0", "correct": true, "word": "detail"}
+{"task": "count", "prompt": "How many times does the letter v appear in shine?", "gold": "0", "pred": "0", "correct": true, "word": "shine"}
+{"task": "count", "prompt": "How many times does the letter u appear in july?", "gold": "1", "pred": "1", "correct": true, "word": "july"}
+{"task": "count", "prompt": "Count the number of times o appears in notebook.", "gold": "3", "pred": "0", "correct": false, "word": "notebook"}
+{"task": "count", "prompt": "How many w's are in father?", "gold": "0", "pred": "0", "correct": true, "word": "father"}
+{"task": "count", "prompt": "How many o's are in special?", "gold": "0", "pred": "2", "correct": false, "word": "special"}
+{"task": "count", "prompt": "How many i's are in little?", "gold": "1", "pred": "0", "correct": false, "word": "little"}
+{"task": "count", "prompt": "How many t's are in total?", "gold": "2", "pred": "2", "correct": true, "word": "total"}
+{"task": "count", "prompt": "How many s are there in resist?", "gold": "2", "pred": "2", "correct": true, "word": "resist"}
+{"task": "count", "prompt": "Count the s's in the word swimming.", "gold": "1", "pred": "1", "correct": true, "word": "swimming"}
+{"task": "count", "prompt": "How many a's are in guard?", "gold": "1", "pred": "1", "correct": true, "word": "guard"}
+{"task": "count", "prompt": "How many p's are in narrow?", "gold": "0", "pred": "0", "correct": true, "word": "narrow"}
+{"task": "count", "prompt": "Count the number of times s appears in swimming.", "gold": "1", "pred": "1", "correct": true, "word": "swimming"}
+{"task": "count", "prompt": "How many times does the letter u appear in writing?", "gold": "0", "pred": "1", "correct": false, "word": "writing"}
+{"task": "count", "prompt": "Count the number of times s appears in source.", "gold": "1", "pred": "1", "correct": true, "word": "source"}
+{"task": "count", "prompt": "How many t's are in invite?", "gold": "1", "pred": "0", "correct": false, "word": "invite"}
+{"task": "count", "prompt": "Count the h's in the word hornet.", "gold": "1", "pred": "0", "correct": false, "word": "hornet"}
+{"task": "count", "prompt": "How many u's are in credit?", "gold": "0", "pred": "1", "correct": false, "word": "credit"}
+{"task": "count", "prompt": "Count the t's in the word battle.", "gold": "2", "pred": "2", "correct": true, "word": "battle"}
+{"task": "count", "prompt": "How many r are there in merchant?", "gold": "1", "pred": "2", "correct": false, "word": "merchant"}
+{"task": "count", "prompt": "How many j are there in common?", "gold": "0", "pred": "0", "correct": true, "word": "common"}
+{"task": "count", "prompt": "How many t's are in tribe?", "gold": "1", "pred": "1", "correct": true, "word": "tribe"}
+{"task": "count", "prompt": "How many c are there in voice?", "gold": "1", "pred": "1", "correct": true, "word": "voice"}
+{"task": "count", "prompt": "Count the number of times r appears in raspberry.", "gold": "3", "pred": "2", "correct": false, "word": "raspberry"}
+{"task": "count", "prompt": "Count the e's in the word valley.", "gold": "1", "pred": "0", "correct": false, "word": "valley"}
+{"task": "count", "prompt": "Count the r's in the word door.", "gold": "1", "pred": "1", "correct": true, "word": "door"}
+{"task": "count", "prompt": "How many a are there in steady?", "gold": "1", "pred": "0", "correct": false, "word": "steady"}
+{"task": "count", "prompt": "How many times does the letter f appear in fence?", "gold": "1", "pred": "1", "correct": true, "word": "fence"}
+{"task": "count", "prompt": "Count the number of times j appears in invite.", "gold": "0", "pred": "1", "correct": false, "word": "invite"}
+{"task": "count", "prompt": "How many r are there in rapid?", "gold": "1", "pred": "2", "correct": false, "word": "rapid"}
+{"task": "count", "prompt": "How many i are there in whale?", "gold": "0", "pred": "0", "correct": true, "word": "whale"}
+{"task": "count", "prompt": "How many f's are in fountain?", "gold": "1", "pred": "0", "correct": false, "word": "fountain"}
+{"task": "count", "prompt": "How many times does the letter i appear in signal?", "gold": "1", "pred": "1", "correct": true, "word": "signal"}
+{"task": "count", "prompt": "How many a are there in garage?", "gold": "2", "pred": "1", "correct": false, "word": "garage"}
+{"task": "count", "prompt": "Count the number of times n appears in banana.", "gold": "2", "pred": "0", "correct": false, "word": "banana"}
+{"task": "count", "prompt": "Count the a's in the word usual.", "gold": "1", "pred": "1", "correct": true, "word": "usual"}
+{"task": "count", "prompt": "How many i are there in writing?", "gold": "2", "pred": "0", "correct": false, "word": "writing"}
+{"task": "count", "prompt": "Count the c's in the word funny.", "gold": "0", "pred": "1", "correct": false, "word": "funny"}
+{"task": "count", "prompt": "How many times does the letter b appear in biscuit?", "gold": "1", "pred": "0", "correct": false, "word": "biscuit"}
+{"task": "count", "prompt": "How many r are there in trial?", "gold": "1", "pred": "1", "correct": true, "word": "trial"}
+{"task": "count", "prompt": "Count the number of times e appears in practice.", "gold": "1", "pred": "3", "correct": false, "word": "practice"}
+{"task": "count", "prompt": "Count the number of times e appears in cheese.", "gold": "3", "pred": "2", "correct": false, "word": "cheese"}
+{"task": "count", "prompt": "Count the g's in the word gravity.", "gold": "1", "pred": "2", "correct": false, "word": "gravity"}
+{"task": "count", "prompt": "Count the number of times t appears in battle.", "gold": "2", "pred": "2", "correct": true, "word": "battle"}
+{"task": "count", "prompt": "How many o are there in movie?", "gold": "1", "pred": "0", "correct": false, "word": "movie"}
+{"task": "count", "prompt": "Count the number of times s appears in smart.", "gold": "1", "pred": "1", "correct": true, "word": "smart"}
+{"task": "count", "prompt": "How many times does the letter i appear in width?", "gold": "1", "pred": "1", "correct": true, "word": "width"}
+{"task": "count", "prompt": "How many times does the letter h appear in survey?", "gold": "0", "pred": "0", "correct": true, "word": "survey"}
+{"task": "count", "prompt": "Count the n's in the word shiny.", "gold": "1", "pred": "0", "correct": false, "word": "shiny"}
+{"task": "count", "prompt": "How many n are there in princess?", "gold": "1", "pred": "2", "correct": false, "word": "princess"}
+{"task": "count", "prompt": "How many times does the letter b appear in harbor?", "gold": "1", "pred": "1", "correct": true, "word": "harbor"}
+{"task": "count", "prompt": "How many m's are in mitten?", "gold": "1", "pred": "0", "correct": false, "word": "mitten"}
+{"task": "count", "prompt": "Count the number of times q appears in sailboat.", "gold": "0", "pred": "0", "correct": true, "word": "sailboat"}
+{"task": "count", "prompt": "How many times does the letter r appear in kangaroo?", "gold": "1", "pred": "0", "correct": false, "word": "kangaroo"}
+{"task": "count", "prompt": "Count the k's in the word biscuit.", "gold": "0", "pred": "0", "correct": true, "word": "biscuit"}
+{"task": "count", "prompt": "How many times does the letter u appear in idea?", "gold": "0", "pred": "1", "correct": false, "word": "idea"}
+{"task": "count", "prompt": "Count the d's in the word dream.", "gold": "1", "pred": "1", "correct": true, "word": "dream"}
+{"task": "count", "prompt": "How many a are there in basement?", "gold": "1", "pred": "0", "correct": false, "word": "basement"}
+{"task": "count", "prompt": "How many s's are in fashion?", "gold": "1", "pred": "3", "correct": false, "word": "fashion"}
+{"task": "count", "prompt": "How many m are there in swimming?", "gold": "2", "pred": "1", "correct": false, "word": "swimming"}
+{"task": "count", "prompt": "How many times does the letter r appear in trial?", "gold": "1", "pred": "1", "correct": true, "word": "trial"}
+{"task": "count", "prompt": "How many g are there in raspberry?", "gold": "0", "pred": "0", "correct": true, "word": "raspberry"}
+{"task": "count", "prompt": "How many times does the letter x appear in youth?", "gold": "0", "pred": "0", "correct": true, "word": "youth"}
+{"task": "count", "prompt": "How many e are there in handle?", "gold": "1", "pred": "0", "correct": false, "word": "handle"}
+{"task": "count", "prompt": "Count the number of times a appears in kangaroo.", "gold": "2", "pred": "3", "correct": false, "word": "kangaroo"}
+{"task": "count", "prompt": "How many d are there in trend?", "gold": "1", "pred": "0", "correct": false, "word": "trend"}
+{"task": "count", "prompt": "How many p's are in special?", "gold": "1", "pred": "1", "correct": true, "word": "special"}
+{"task": "count", "prompt": "How many o are there in zone?", "gold": "1", "pred": "1", "correct": true, "word": "zone"}
+{"task": "count", "prompt": "How many b are there in trick?", "gold": "0", "pred": "0", "correct": true, "word": "trick"}
+{"task": "count", "prompt": "Count the number of times r appears in pepper.", "gold": "1", "pred": "2", "correct": false, "word": "pepper"}
+{"task": "count", "prompt": "Count the number of times i appears in rugby.", "gold": "0", "pred": "0", "correct": true, "word": "rugby"}
+{"task": "count", "prompt": "How many s are there in salmon?", "gold": "1", "pred": "0", "correct": false, "word": "salmon"}
+{"task": "count", "prompt": "How many times does the letter h appear in child?", "gold": "1", "pred": "1", "correct": true, "word": "child"}
+{"task": "count", "prompt": "Count the h's in the word whisper.", "gold": "1", "pred": "2", "correct": false, "word": "whisper"}
+{"task": "count", "prompt": "Count the p's in the word pepper.", "gold": "3", "pred": "2", "correct": false, "word": "pepper"}
+{"task": "count", "prompt": "How many d's are in shadow?", "gold": "1", "pred": "1", "correct": true, "word": "shadow"}
+{"task": "count", "prompt": "How many b are there in credit?", "gold": "0", "pred": "0", "correct": true, "word": "credit"}
+{"task": "count", "prompt": "Count the a's in the word wild.", "gold": "0", "pred": "2", "correct": false, "word": "wild"}
+{"task": "count", "prompt": "Count the r's in the word trend.", "gold": "1", "pred": "1", "correct": true, "word": "trend"}
+{"task": "count", "prompt": "Count the number of times a appears in hallway.", "gold": "2", "pred": "2", "correct": true, "word": "hallway"}
+{"task": "count", "prompt": "How many e's are in sunset?", "gold": "1", "pred": "0", "correct": false, "word": "sunset"}
+{"task": "count", "prompt": "How many p are there in church?", "gold": "0", "pred": "1", "correct": false, "word": "church"}
+{"task": "count", "prompt": "Count the s's in the word subject.", "gold": "1", "pred": "0", "correct": false, "word": "subject"}
+{"task": "count", "prompt": "How many h's are in shadow?", "gold": "1", "pred": "1", "correct": true, "word": "shadow"}
+{"task": "count", "prompt": "How many times does the letter h appear in folder?", "gold": "0", "pred": "2", "correct": false, "word": "folder"}
+{"task": "count", "prompt": "How many times does the letter n appear in control?", "gold": "1", "pred": "3", "correct": false, "word": "control"}
+{"task": "count", "prompt": "How many b are there in boulder?", "gold": "1", "pred": "0", "correct": false, "word": "boulder"}
+{"task": "count", "prompt": "How many times does the letter o appear in toilet?", "gold": "1", "pred": "1", "correct": true, "word": "toilet"}
+{"task": "count", "prompt": "Count the number of times t appears in attic.", "gold": "2", "pred": "2", "correct": true, "word": "attic"}
+{"task": "count", "prompt": "Count the l's in the word lifted.", "gold": "1", "pred": "1", "correct": true, "word": "lifted"}
+{"task": "count", "prompt": "Count the u's in the word solution.", "gold": "1", "pred": "2", "correct": false, "word": "solution"}
+{"task": "count", "prompt": "Count the number of times w appears in knight.", "gold": "0", "pred": "1", "correct": false, "word": "knight"}
+{"task": "count", "prompt": "Count the e's in the word hornet.", "gold": "1", "pred": "1", "correct": true, "word": "hornet"}
+{"task": "count", "prompt": "How many v are there in field?", "gold": "0", "pred": "1", "correct": false, "word": "field"}
+{"task": "count", "prompt": "How many times does the letter i appear in still?", "gold": "1", "pred": "1", "correct": true, "word": "still"}
+{"task": "count", "prompt": "Count the number of times b appears in label.", "gold": "1", "pred": "2", "correct": false, "word": "label"}
+{"task": "count", "prompt": "Count the number of times t appears in print.", "gold": "1", "pred": "2", "correct": false, "word": "print"}
+{"task": "count", "prompt": "How many m are there in muffin?", "gold": "1", "pred": "0", "correct": false, "word": "muffin"}
+{"task": "count", "prompt": "Count the l's in the word person.", "gold": "0", "pred": "1", "correct": false, "word": "person"}
+{"task": "count", "prompt": "How many times does the letter a appear in sacred?", "gold": "1", "pred": "1", "correct": true, "word": "sacred"}
+{"task": "count", "prompt": "How many r's are in credit?", "gold": "1", "pred": "2", "correct": false, "word": "credit"}
+{"task": "count", "prompt": "Count the number of times b appears in field.", "gold": "0", "pred": "0", "correct": true, "word": "field"}
+{"task": "count", "prompt": "Count the l's in the word small.", "gold": "2", "pred": "0", "correct": false, "word": "small"}
+{"task": "count", "prompt": "How many g are there in garage?", "gold": "2", "pred": "0", "correct": false, "word": "garage"}
+{"task": "count", "prompt": "How many t are there in little?", "gold": "2", "pred": "3", "correct": false, "word": "little"}
+{"task": "count", "prompt": "How many l's are in middle?", "gold": "1", "pred": "2", "correct": false, "word": "middle"}
+{"task": "count", "prompt": "How many n are there in dancing?", "gold": "2", "pred": "3", "correct": false, "word": "dancing"}
+{"task": "count", "prompt": "How many p's are in penguin?", "gold": "1", "pred": "0", "correct": false, "word": "penguin"}
+{"task": "count", "prompt": "How many e are there in scheme?", "gold": "2", "pred": "2", "correct": true, "word": "scheme"}
+{"task": "count", "prompt": "Count the t's in the word mattress.", "gold": "2", "pred": "3", "correct": false, "word": "mattress"}
+{"task": "count", "prompt": "Count the number of times i appears in trial.", "gold": "1", "pred": "0", "correct": false, "word": "trial"}
+{"task": "count", "prompt": "How many times does the letter o appear in kindness?", "gold": "0", "pred": "3", "correct": false, "word": "kindness"}
+{"task": "count", "prompt": "How many times does the letter r appear in primary?", "gold": "2", "pred": "3", "correct": false, "word": "primary"}
+{"task": "count", "prompt": "Count the e's in the word juggle.", "gold": "1", "pred": "0", "correct": false, "word": "juggle"}
+{"task": "count", "prompt": "How many times does the letter m appear in frame?", "gold": "1", "pred": "1", "correct": true, "word": "frame"}
+{"task": "count", "prompt": "How many v's are in invite?", "gold": "1", "pred": "1", "correct": true, "word": "invite"}
+{"task": "count", "prompt": "Count the number of times k appears in smoke.", "gold": "1", "pred": "0", "correct": false, "word": "smoke"}
+{"task": "count", "prompt": "How many z's are in zone?", "gold": "1", "pred": "1", "correct": true, "word": "zone"}
+{"task": "count", "prompt": "Count the number of times a appears in across.", "gold": "1", "pred": "0", "correct": false, "word": "across"}
+{"task": "count", "prompt": "Count the v's in the word fuel.", "gold": "0", "pred": "1", "correct": false, "word": "fuel"}
+{"task": "count", "prompt": "Count the number of times a appears in angle.", "gold": "1", "pred": "2", "correct": false, "word": "angle"}
+{"task": "count", "prompt": "How many e are there in mattress?", "gold": "1", "pred": "3", "correct": false, "word": "mattress"}
+{"task": "count", "prompt": "Count the number of times j appears in guard.", "gold": "0", "pred": "1", "correct": false, "word": "guard"}
+{"task": "count", "prompt": "How many times does the letter e appear in income?", "gold": "1", "pred": "2", "correct": false, "word": "income"}
+{"task": "count", "prompt": "How many t's are in solution?", "gold": "1", "pred": "3", "correct": false, "word": "solution"}
+{"task": "count", "prompt": "How many times does the letter e appear in freedom?", "gold": "2", "pred": "3", "correct": false, "word": "freedom"}
+{"task": "count", "prompt": "How many y are there in lifted?", "gold": "0", "pred": "1", "correct": false, "word": "lifted"}
+{"task": "count", "prompt": "How many e's are in merchant?", "gold": "1", "pred": "3", "correct": false, "word": "merchant"}
+{"task": "count", "prompt": "How many s's are in scissors?", "gold": "4", "pred": "2", "correct": false, "word": "scissors"}
+{"task": "count", "prompt": "Count the d's in the word field.", "gold": "1", "pred": "0", "correct": false, "word": "field"}
+{"task": "count", "prompt": "Count the number of times p appears in powder.", "gold": "1", "pred": "2", "correct": false, "word": "powder"}
+{"task": "count", "prompt": "How many o's are in smoke?", "gold": "1", "pred": "1", "correct": true, "word": "smoke"}
+{"task": "count", "prompt": "How many r are there in across?", "gold": "1", "pred": "2", "correct": false, "word": "across"}
+{"task": "count", "prompt": "How many times does the letter e appear in voice?", "gold": "1", "pred": "0", "correct": false, "word": "voice"}
+{"task": "count", "prompt": "How many w's are in fellow?", "gold": "1", "pred": "1", "correct": true, "word": "fellow"}
+{"task": "count", "prompt": "How many times does the letter l appear in detail?", "gold": "1", "pred": "1", "correct": true, "word": "detail"}
+{"task": "count", "prompt": "Count the number of times h appears in polish.", "gold": "1", "pred": "2", "correct": false, "word": "polish"}
+{"task": "count", "prompt": "How many r are there in archery?", "gold": "2", "pred": "2", "correct": true, "word": "archery"}
+{"task": "count", "prompt": "How many times does the letter m appear in canoe?", "gold": "0", "pred": "0", "correct": true, "word": "canoe"}
+{"task": "count", "prompt": "Count the number of times n appears in shine.", "gold": "1", "pred": "0", "correct": false, "word": "shine"}
+{"task": "count", "prompt": "Count the t's in the word reading.", "gold": "0", "pred": "0", "correct": true, "word": "reading"}
+{"task": "count", "prompt": "Count the number of times l appears in lesson.", "gold": "1", "pred": "0", "correct": false, "word": "lesson"}
+{"task": "count", "prompt": "Count the number of times i appears in rapid.", "gold": "1", "pred": "0", "correct": false, "word": "rapid"}
+{"task": "count", "prompt": "Count the number of times m appears in memory.", "gold": "2", "pred": "3", "correct": false, "word": "memory"}
+{"task": "count", "prompt": "How many times does the letter w appear in rugby?", "gold": "0", "pred": "0", "correct": true, "word": "rugby"}
+{"task": "count", "prompt": "How many times does the letter l appear in school?", "gold": "1", "pred": "1", "correct": true, "word": "school"}
+{"task": "count", "prompt": "Count the number of times i appears in penguin.", "gold": "1", "pred": "0", "correct": false, "word": "penguin"}
+{"task": "count", "prompt": "How many g are there in door?", "gold": "0", "pred": "0", "correct": true, "word": "door"}
+{"task": "count", "prompt": "How many times does the letter v appear in novel?", "gold": "1", "pred": "1", "correct": true, "word": "novel"}
+{"task": "count", "prompt": "How many e are there in steady?", "gold": "1", "pred": "2", "correct": false, "word": "steady"}
+{"task": "count", "prompt": "How many times does the letter w appear in sweater?", "gold": "1", "pred": "0", "correct": false, "word": "sweater"}
+{"task": "count", "prompt": "How many a are there in actual?", "gold": "2", "pred": "0", "correct": false, "word": "actual"}
+{"task": "count", "prompt": "Count the number of times i appears in grain.", "gold": "1", "pred": "0", "correct": false, "word": "grain"}
+{"task": "count", "prompt": "Count the number of times d appears in penguin.", "gold": "0", "pred": "0", "correct": true, "word": "penguin"}
+{"task": "count", "prompt": "Count the number of times e appears in reading.", "gold": "1", "pred": "3", "correct": false, "word": "reading"}
+{"task": "count", "prompt": "How many b are there in whisper?", "gold": "0", "pred": "0", "correct": true, "word": "whisper"}
+{"task": "count", "prompt": "How many h are there in hotel?", "gold": "1", "pred": "1", "correct": true, "word": "hotel"}
+{"task": "count", "prompt": "Count the number of times p appears in person.", "gold": "1", "pred": "2", "correct": false, "word": "person"}
+{"task": "count", "prompt": "How many k's are in milk?", "gold": "1", "pred": "1", "correct": true, "word": "milk"}
+{"task": "count", "prompt": "How many m's are in human?", "gold": "1", "pred": "1", "correct": true, "word": "human"}
+{"task": "count", "prompt": "How many times does the letter r appear in strawberry?", "gold": "3", "pred": "3", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "Count the t's in the word hornet.", "gold": "1", "pred": "1", "correct": true, "word": "hornet"}
+{"task": "count", "prompt": "How many s are there in sunset?", "gold": "2", "pred": "2", "correct": true, "word": "sunset"}
+{"task": "count", "prompt": "Count the number of times m appears in puppy.", "gold": "0", "pred": "2", "correct": false, "word": "puppy"}
+{"task": "count", "prompt": "How many u are there in school?", "gold": "0", "pred": "0", "correct": true, "word": "school"}
+{"task": "count", "prompt": "How many b are there in hornet?", "gold": "0", "pred": "0", "correct": true, "word": "hornet"}
+{"task": "count", "prompt": "How many times does the letter t appear in subject?", "gold": "1", "pred": "1", "correct": true, "word": "subject"}
+{"task": "count", "prompt": "How many times does the letter n appear in resource?", "gold": "0", "pred": "2", "correct": false, "word": "resource"}
+{"task": "count", "prompt": "Count the i's in the word grain.", "gold": "1", "pred": "1", "correct": true, "word": "grain"}
+{"task": "count", "prompt": "Count the number of times s appears in sweater.", "gold": "1", "pred": "2", "correct": false, "word": "sweater"}
+{"task": "count", "prompt": "How many l's are in july?", "gold": "1", "pred": "0", "correct": false, "word": "july"}
+{"task": "count", "prompt": "Count the number of times i appears in signal.", "gold": "1", "pred": "2", "correct": false, "word": "signal"}
+{"task": "count", "prompt": "Count the number of times r appears in survey.", "gold": "1", "pred": "2", "correct": false, "word": "survey"}
+{"task": "count", "prompt": "How many times does the letter b appear in crab?", "gold": "1", "pred": "0", "correct": false, "word": "crab"}
+{"task": "count", "prompt": "How many times does the letter b appear in tribe?", "gold": "1", "pred": "0", "correct": false, "word": "tribe"}
+{"task": "count", "prompt": "How many times does the letter f appear in origin?", "gold": "0", "pred": "1", "correct": false, "word": "origin"}
+{"task": "count", "prompt": "How many o's are in youth?", "gold": "1", "pred": "1", "correct": true, "word": "youth"}
+{"task": "count", "prompt": "Count the number of times a appears in print.", "gold": "0", "pred": "0", "correct": true, "word": "print"}

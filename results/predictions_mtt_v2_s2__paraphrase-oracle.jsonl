@@ -1,0 +1,1000 @@
+{"task": "count", "prompt": "How often is p used in the word permit?", "gold": "1", "pred": "", "correct": false, "word": "permit"}
+{"task": "count", "prompt": "Look at nurse. How many j's do you see?", "gold": "0", "pred": "1", "correct": false, "word": "nurse"}
+{"task": "count", "prompt": "I need to know how many e's the word anxious has.", "gold": "0", "pred": "1", "correct": false, "word": "anxious"}
+{"task": "count", "prompt": "I need to know how many r's the word ubiquitous has.", "gold": "0", "pred": "1", "correct": false, "word": "ubiquitous"}
+{"task": "count", "prompt": "In the word sample, how many times can you find the letter s?", "gold": "1", "pred": "", "correct": false, "word": "sample"}
+{"task": "count", "prompt": "What's the number of m's in anxious?", "gold": "0", "pred": "3", "correct": false, "word": "anxious"}
+{"task": "count", "prompt": "Number of times a occurs in \"always\"?", "gold": "2", "pred": "", "correct": false, "word": "always"}
+{"task": "count", "prompt": "What's the number of y's in roadrunner?", "gold": "0", "pred": "0", "correct": true, "word": "roadrunner"}
+{"task": "count", "prompt": "In the word pepper, how many times can you find the letter p?", "gold": "3", "pred": "", "correct": false, "word": "pepper"}
+{"task": "count", "prompt": "How often is e used in the word candle?", "gold": "1", "pred": "", "correct": false, "word": "candle"}
+{"task": "count", "prompt": "Does forehead contain any r's? Tell me how many.", "gold": "1", "pred": "", "correct": false, "word": "forehead"}
+{"task": "count", "prompt": "How often is t used in the word tomato?", "gold": "2", "pred": "", "correct": false, "word": "tomato"}
+{"task": "count", "prompt": "How many i's does goggles have?", "gold": "0", "pred": "2", "correct": false, "word": "goggles"}
+{"task": "count", "prompt": "How many occurrences of o does woodwork have?", "gold": "3", "pred": "1", "correct": false, "word": "woodwork"}
+{"task": "count", "prompt": "How often is u used in the word ubiquitous?", "gold": "3", "pred": "2", "correct": false, "word": "ubiquitous"}
+{"task": "count", "prompt": "Please count each k in 'skillful'.", "gold": "1", "pred": "l", "correct": false, "word": "skillful"}
+{"task": "count", "prompt": "Tally up every l in complete.", "gold": "1", "pred": "e", "correct": false, "word": "complete"}
+{"task": "count", "prompt": "How often is c used in the word helicopter?", "gold": "1", "pred": "", "correct": false, "word": "helicopter"}
+{"task": "count", "prompt": "In the word dividing, how many times can you find the letter d?", "gold": "2", "pred": "", "correct": false, "word": "dividing"}
+{"task": "count", "prompt": "Does airport contain any s's? Tell me how many.", "gold": "0", "pred": "", "correct": false, "word": "airport"}
+{"task": "count", "prompt": "How often is t used in the word potato?", "gold": "2", "pred": "", "correct": false, "word": "potato"}
+{"task": "count", "prompt": "Please count each r in 'checkers'.", "gold": "1", "pred": "r h r r r", "correct": false, "word": "checkers"}
+{"task": "count", "prompt": "How many l's does nodded have?", "gold": "0", "pred": "0", "correct": true, "word": "nodded"}
+{"task": "count", "prompt": "Number of times s occurs in \"satisfy\"?", "gold": "2", "pred": "", "correct": false, "word": "satisfy"}
+{"task": "count", "prompt": "Give me the count of the letter b in stainless.", "gold": "0", "pred": "", "correct": false, "word": "stainless"}
+{"task": "count", "prompt": "Does fulfill contain any l's? Tell me how many.", "gold": "3", "pred": "", "correct": false, "word": "fulfill"}
+{"task": "count", "prompt": "How often is x used in the word memory?", "gold": "0", "pred": "", "correct": false, "word": "memory"}
+{"task": "count", "prompt": "Tally up every z in zone.", "gold": "1", "pred": "i", "correct": false, "word": "zone"}
+{"task": "count", "prompt": "I need to know how many a's the word produce has.", "gold": "0", "pred": "1", "correct": false, "word": "produce"}
+{"task": "count", "prompt": "Give me the count of the letter r in roadrunner.", "gold": "3", "pred": "", "correct": false, "word": "roadrunner"}
+{"task": "count", "prompt": "Tally up every g in earth.", "gold": "0", "pred": "t g u t t", "correct": false, "word": "earth"}
+{"task": "count", "prompt": "Tally up every b in cabbage.", "gold": "2", "pred": "b", "correct": false, "word": "cabbage"}
+{"task": "count", "prompt": "In the word history, how many times can you find the letter i?", "gold": "1", "pred": "", "correct": false, "word": "history"}
+{"task": "count", "prompt": "In the word occupy, how many times can you find the letter c?", "gold": "2", "pred": "", "correct": false, "word": "occupy"}
+{"task": "count", "prompt": "Please count each m in 'enemies'.", "gold": "1", "pred": "m i", "correct": false, "word": "enemies"}
+{"task": "count", "prompt": "Tally up every p in pepper.", "gold": "3", "pred": "b", "correct": false, "word": "pepper"}
+{"task": "count", "prompt": "What's the number of r's in tomato?", "gold": "0", "pred": "0", "correct": true, "word": "tomato"}
+{"task": "count", "prompt": "Number of times y occurs in \"loyally\"?", "gold": "2", "pred": "", "correct": false, "word": "loyally"}
+{"task": "count", "prompt": "In the word zipper, how many times can you find the letter f?", "gold": "0", "pred": "1", "correct": false, "word": "zipper"}
+{"task": "count", "prompt": "Number of times k occurs in \"kettle\"?", "gold": "1", "pred": "", "correct": false, "word": "kettle"}
+{"task": "count", "prompt": "How many c's does church have?", "gold": "2", "pred": "0", "correct": false, "word": "church"}
+{"task": "count", "prompt": "Give me the count of the letter n in opinion.", "gold": "2", "pred": "n", "correct": false, "word": "opinion"}
+{"task": "count", "prompt": "Please count each k in 'knickknack'.", "gold": "4", "pred": "k k k k", "correct": false, "word": "knickknack"}
+{"task": "count", "prompt": "Look at jigsaw. How many j's do you see?", "gold": "1", "pred": "1", "correct": true, "word": "jigsaw"}
+{"task": "count", "prompt": "What's the number of x's in grudging?", "gold": "0", "pred": "0", "correct": true, "word": "grudging"}
+{"task": "count", "prompt": "Look at climbing. How many i's do you see?", "gold": "2", "pred": "0", "correct": false, "word": "climbing"}
+{"task": "count", "prompt": "Give me the count of the letter o in cactus.", "gold": "0", "pred": "a", "correct": false, "word": "cactus"}
+{"task": "count", "prompt": "Look at surrender. How many a's do you see?", "gold": "0", "pred": "", "correct": false, "word": "surrender"}
+{"task": "count", "prompt": "Tally up every x in mailbox.", "gold": "1", "pred": "b", "correct": false, "word": "mailbox"}
+{"task": "count", "prompt": "How many s's does assess have?", "gold": "4", "pred": "4", "correct": true, "word": "assess"}
+{"task": "count", "prompt": "How many occurrences of w does woodwork have?", "gold": "2", "pred": "0", "correct": false, "word": "woodwork"}
+{"task": "count", "prompt": "Please count each f in 'feather'.", "gold": "1", "pred": "f r", "correct": false, "word": "feather"}
+{"task": "count", "prompt": "How many occurrences of y does loyally have?", "gold": "2", "pred": "2", "correct": true, "word": "loyally"}
+{"task": "count", "prompt": "Please count each a in 'maharaja'.", "gold": "4", "pred": "", "correct": false, "word": "maharaja"}
+{"task": "count", "prompt": "Look at airport. How many o's do you see?", "gold": "1", "pred": "0", "correct": false, "word": "airport"}
+{"task": "count", "prompt": "How often is c used in the word circumstance?", "gold": "3", "pred": "", "correct": false, "word": "circumstance"}
+{"task": "count", "prompt": "Tally up every a in baby.", "gold": "1", "pred": "b", "correct": false, "word": "baby"}
+{"task": "count", "prompt": "Number of times e occurs in \"whenever\"?", "gold": "3", "pred": "", "correct": false, "word": "whenever"}
+{"task": "count", "prompt": "Does dressings contain any n's? Tell me how many.", "gold": "1", "pred": "", "correct": false, "word": "dressings"}
+{"task": "count", "prompt": "Tally up every f in cliff.", "gold": "2", "pred": "f", "correct": false, "word": "cliff"}
+{"task": "count", "prompt": "Give me the count of the letter i in insisting.", "gold": "3", "pred": "", "correct": false, "word": "insisting"}
+{"task": "count", "prompt": "How many k's does dinner have?", "gold": "0", "pred": "0", "correct": true, "word": "dinner"}
+{"task": "count", "prompt": "Look at fluffier. How many f's do you see?", "gold": "3", "pred": "1", "correct": false, "word": "fluffier"}
+{"task": "count", "prompt": "Please count each w in 'jigsaw'.", "gold": "1", "pred": "w a s u e", "correct": false, "word": "jigsaw"}
+{"task": "count", "prompt": "Give me the count of the letter v in canvas.", "gold": "1", "pred": "a", "correct": false, "word": "canvas"}
+{"task": "count", "prompt": "How many t's does smart have?", "gold": "1", "pred": "3", "correct": false, "word": "smart"}
+{"task": "count", "prompt": "Give me the count of the letter c in merchant.", "gold": "1", "pred": "c", "correct": false, "word": "merchant"}
+{"task": "count", "prompt": "I need to know how many m's the word watermelon has.", "gold": "1", "pred": "0", "correct": false, "word": "watermelon"}
+{"task": "count", "prompt": "Give me the count of the letter f in muffin.", "gold": "2", "pred": "f", "correct": false, "word": "muffin"}
+{"task": "count", "prompt": "Number of times q occurs in \"question\"?", "gold": "1", "pred": "1", "correct": true, "word": "question"}
+{"task": "count", "prompt": "Look at knickknack. How many k's do you see?", "gold": "4", "pred": "", "correct": false, "word": "knickknack"}
+{"task": "count", "prompt": "Does cookbook contain any k's? Tell me how many.", "gold": "2", "pred": "", "correct": false, "word": "cookbook"}
+{"task": "count", "prompt": "How often is g used in the word goggles?", "gold": "3", "pred": "", "correct": false, "word": "goggles"}
+{"task": "count", "prompt": "Does canvas contain any u's? Tell me how many.", "gold": "0", "pred": "u", "correct": false, "word": "canvas"}
+{"task": "count", "prompt": "Give me the count of the letter h in caught.", "gold": "1", "pred": "h", "correct": false, "word": "caught"}
+{"task": "count", "prompt": "Number of times u occurs in \"tugging\"?", "gold": "1", "pred": "", "correct": false, "word": "tugging"}
+{"task": "count", "prompt": "What's the number of y's in rugby?", "gold": "1", "pred": "1", "correct": true, "word": "rugby"}
+{"task": "count", "prompt": "Tally up every n in measure.", "gold": "0", "pred": "e", "correct": false, "word": "measure"}
+{"task": "count", "prompt": "Tally up every p in popular.", "gold": "2", "pred": "b b", "correct": false, "word": "popular"}
+{"task": "count", "prompt": "Does doctor contain any d's? Tell me how many.", "gold": "1", "pred": "", "correct": false, "word": "doctor"}
+{"task": "count", "prompt": "How often is a used in the word basketball?", "gold": "2", "pred": "", "correct": false, "word": "basketball"}
+{"task": "count", "prompt": "Please count each o in 'schoolroom'.", "gold": "4", "pred": "o ", "correct": false, "word": "schoolroom"}
+{"task": "count", "prompt": "How many n's does opinion have?", "gold": "2", "pred": "2", "correct": true, "word": "opinion"}
+{"task": "count", "prompt": "Number of times g occurs in \"limiting\"?", "gold": "1", "pred": "", "correct": false, "word": "limiting"}
+{"task": "count", "prompt": "In the word bellflower, how many times can you find the letter b?", "gold": "1", "pred": "e r", "correct": false, "word": "bellflower"}
+{"task": "count", "prompt": "Please count each q in 'complete'.", "gold": "0", "pred": "q", "correct": false, "word": "complete"}
+{"task": "count", "prompt": "Give me the count of the letter n in innovation.", "gold": "3", "pred": "", "correct": false, "word": "innovation"}
+{"task": "count", "prompt": "Tally up every v in orchard.", "gold": "0", "pred": "r a", "correct": false, "word": "orchard"}
+{"task": "count", "prompt": "Does drizzle contain any z's? Tell me how many.", "gold": "2", "pred": "", "correct": false, "word": "drizzle"}
+{"task": "count", "prompt": "Number of times p occurs in \"zipper\"?", "gold": "2", "pred": "", "correct": false, "word": "zipper"}
+{"task": "count", "prompt": "What's the number of h's in hitchhiker?", "gold": "3", "pred": "3", "correct": true, "word": "hitchhiker"}
+{"task": "count", "prompt": "I need to know how many v's the word beetle has.", "gold": "0", "pred": "1", "correct": false, "word": "beetle"}
+{"task": "count", "prompt": "How many occurrences of l does hallelujah have?", "gold": "3", "pred": "0", "correct": false, "word": "hallelujah"}
+{"task": "count", "prompt": "Does grudging contain any g's? Tell me how many.", "gold": "3", "pred": "", "correct": false, "word": "grudging"}
+{"task": "count", "prompt": "Please count each t in 'volleyball'.", "gold": "0", "pred": "t ", "correct": false, "word": "volleyball"}
+{"task": "count", "prompt": "How often is s used in the word satisfy?", "gold": "2", "pred": "", "correct": false, "word": "satisfy"}
+{"task": "count", "prompt": "Number of times s occurs in \"snowfall\"?", "gold": "1", "pred": "", "correct": false, "word": "snowfall"}
+{"task": "count", "prompt": "I need to know how many i's the word dividing has.", "gold": "3", "pred": "0", "correct": false, "word": "dividing"}
+{"task": "count", "prompt": "Look at tentative. How many v's do you see?", "gold": "1", "pred": "0", "correct": false, "word": "tentative"}
+{"task": "count", "prompt": "How often is h used in the word thought?", "gold": "2", "pred": "2", "correct": true, "word": "thought"}
+{"task": "count", "prompt": "Give me the count of the letter u in usual.", "gold": "2", "pred": "u", "correct": false, "word": "usual"}
+{"task": "count", "prompt": "Number of times s occurs in \"caught\"?", "gold": "0", "pred": "", "correct": false, "word": "caught"}
+{"task": "count", "prompt": "Number of times g occurs in \"potato\"?", "gold": "0", "pred": "", "correct": false, "word": "potato"}
+{"task": "count", "prompt": "How many z's does great have?", "gold": "0", "pred": "0", "correct": true, "word": "great"}
+{"task": "count", "prompt": "What's the number of d's in depend?", "gold": "2", "pred": "3", "correct": false, "word": "depend"}
+{"task": "count", "prompt": "Please count each l in 'shell'.", "gold": "2", "pred": "l", "correct": false, "word": "shell"}
+{"task": "count", "prompt": "What's the number of r's in curriculum?", "gold": "2", "pred": "3", "correct": false, "word": "curriculum"}
+{"task": "count", "prompt": "Give me the count of the letter p in sample.", "gold": "1", "pred": "a", "correct": false, "word": "sample"}
+{"task": "count", "prompt": "I need to know how many f's the word fluffier has.", "gold": "3", "pred": "1", "correct": false, "word": "fluffier"}
+{"task": "count", "prompt": "How many f's does become have?", "gold": "0", "pred": "0", "correct": true, "word": "become"}
+{"task": "count", "prompt": "How many h's does hitchhiker have?", "gold": "3", "pred": "3", "correct": true, "word": "hitchhiker"}
+{"task": "count", "prompt": "How many i's does running have?", "gold": "1", "pred": "2", "correct": false, "word": "running"}
+{"task": "count", "prompt": "How often is d used in the word nodded?", "gold": "3", "pred": "", "correct": false, "word": "nodded"}
+{"task": "count", "prompt": "How many p's does pepper have?", "gold": "3", "pred": "2", "correct": false, "word": "pepper"}
+{"task": "count", "prompt": "What's the number of k's in soup?", "gold": "0", "pred": "0", "correct": true, "word": "soup"}
+{"task": "count", "prompt": "How many occurrences of c does circumstance have?", "gold": "3", "pred": "1", "correct": false, "word": "circumstance"}
+{"task": "count", "prompt": "Give me the count of the letter h in hitchhiker.", "gold": "3", "pred": "", "correct": false, "word": "hitchhiker"}
+{"task": "count", "prompt": "Number of times g occurs in \"tugging\"?", "gold": "3", "pred": "", "correct": false, "word": "tugging"}
+{"task": "count", "prompt": "Number of times e occurs in \"novel\"?", "gold": "1", "pred": "", "correct": false, "word": "novel"}
+{"task": "count", "prompt": "Give me the count of the letter h in honest.", "gold": "1", "pred": "h", "correct": false, "word": "honest"}
+{"task": "count", "prompt": "Does glance contain any h's? Tell me how many.", "gold": "0", "pred": "", "correct": false, "word": "glance"}
+{"task": "count", "prompt": "Please count each l in 'valley'.", "gold": "2", "pred": "l u l l", "correct": false, "word": "valley"}
+{"task": "count", "prompt": "How many occurrences of o does nobody have?", "gold": "2", "pred": "0", "correct": false, "word": "nobody"}
+{"task": "count", "prompt": "I need to know how many b's the word rugby has.", "gold": "1", "pred": "1", "correct": true, "word": "rugby"}
+{"task": "count", "prompt": "In the word terrarium, how many times can you find the letter u?", "gold": "1", "pred": "0", "correct": false, "word": "terrarium"}
+{"task": "count", "prompt": "Give me the count of the letter q in curriculum.", "gold": "0", "pred": "", "correct": false, "word": "curriculum"}
+{"task": "count", "prompt": "Look at memorandum. How many m's do you see?", "gold": "3", "pred": "", "correct": false, "word": "memorandum"}
+{"task": "count", "prompt": "Does cucumber contain any u's? Tell me how many.", "gold": "2", "pred": "", "correct": false, "word": "cucumber"}
+{"task": "count", "prompt": "Look at basket. How many a's do you see?", "gold": "1", "pred": "", "correct": false, "word": "basket"}
+{"task": "count", "prompt": "Look at definition. How many t's do you see?", "gold": "1", "pred": "1", "correct": true, "word": "definition"}
+{"task": "count", "prompt": "In the word visit, how many times can you find the letter i?", "gold": "2", "pred": "goat", "correct": false, "word": "visit"}
+{"task": "count", "prompt": "Please count each d in 'dreaded'.", "gold": "3", "pred": "d d", "correct": false, "word": "dreaded"}
+{"task": "count", "prompt": "What's the number of w's in inhibit?", "gold": "0", "pred": "0", "correct": true, "word": "inhibit"}
+{"task": "count", "prompt": "Please count each h in 'knickknack'.", "gold": "0", "pred": "h a k", "correct": false, "word": "knickknack"}
+{"task": "count", "prompt": "Give me the count of the letter a in malaria.", "gold": "3", "pred": "a", "correct": false, "word": "malaria"}
+{"task": "count", "prompt": "How often is k used in the word cookbook?", "gold": "2", "pred": "o", "correct": false, "word": "cookbook"}
+{"task": "count", "prompt": "What's the number of e's in testament?", "gold": "2", "pred": "3", "correct": false, "word": "testament"}
+{"task": "count", "prompt": "How many l's does loyally have?", "gold": "3", "pred": "3", "correct": true, "word": "loyally"}
+{"task": "count", "prompt": "Tally up every e in thing.", "gold": "0", "pred": "t", "correct": false, "word": "thing"}
+{"task": "count", "prompt": "How many k's does knickknack have?", "gold": "4", "pred": "2", "correct": false, "word": "knickknack"}
+{"task": "count", "prompt": "Number of times i occurs in \"mississippi\"?", "gold": "4", "pred": "", "correct": false, "word": "mississippi"}
+{"task": "count", "prompt": "How many occurrences of b does basketball have?", "gold": "2", "pred": "2", "correct": true, "word": "basketball"}
+{"task": "count", "prompt": "How many i's does writing have?", "gold": "2", "pred": "2", "correct": true, "word": "writing"}
+{"task": "count", "prompt": "In the word memorandum, how many times can you find the letter m?", "gold": "3", "pred": "u m", "correct": false, "word": "memorandum"}
+{"task": "count", "prompt": "How often is o used in the word baggage?", "gold": "0", "pred": "0", "correct": true, "word": "baggage"}
+{"task": "count", "prompt": "Please count each d in 'deserted'.", "gold": "2", "pred": "d d u", "correct": false, "word": "deserted"}
+{"task": "count", "prompt": "How often is c used in the word human?", "gold": "0", "pred": "0", "correct": true, "word": "human"}
+{"task": "count", "prompt": "In the word nicaragua, how many times can you find the letter a?", "gold": "3", "pred": "", "correct": false, "word": "nicaragua"}
+{"task": "count", "prompt": "How often is f used in the word frame?", "gold": "1", "pred": "r", "correct": false, "word": "frame"}
+{"task": "count", "prompt": "How often is b used in the word provide?", "gold": "0", "pred": "", "correct": false, "word": "provide"}
+{"task": "count", "prompt": "I need to know how many n's the word perseverance has.", "gold": "1", "pred": "0", "correct": false, "word": "perseverance"}
+{"task": "count", "prompt": "What's the number of p's in smart?", "gold": "0", "pred": "0", "correct": true, "word": "smart"}
+{"task": "count", "prompt": "Look at terror. How many r's do you see?", "gold": "3", "pred": "0", "correct": false, "word": "terror"}
+{"task": "count", "prompt": "Look at cliff. How many f's do you see?", "gold": "2", "pred": "1", "correct": false, "word": "cliff"}
+{"task": "count", "prompt": "Give me the count of the letter c in centerpiece.", "gold": "2", "pred": "", "correct": false, "word": "centerpiece"}
+{"task": "count", "prompt": "In the word wide, how many times can you find the letter l?", "gold": "0", "pred": "", "correct": false, "word": "wide"}
+{"task": "count", "prompt": "Tally up every d in reading.", "gold": "1", "pred": "d", "correct": false, "word": "reading"}
+{"task": "count", "prompt": "Please count each j in 'maharaja'.", "gold": "1", "pred": "j", "correct": false, "word": "maharaja"}
+{"task": "count", "prompt": "Does cookbook contain any o's? Tell me how many.", "gold": "4", "pred": "", "correct": false, "word": "cookbook"}
+{"task": "count", "prompt": "What's the number of h's in church?", "gold": "2", "pred": "2", "correct": true, "word": "church"}
+{"task": "count", "prompt": "In the word fluffier, how many times can you find the letter f?", "gold": "3", "pred": "1", "correct": false, "word": "fluffier"}
+{"task": "count", "prompt": "Tally up every s in glasses.", "gold": "3", "pred": "s", "correct": false, "word": "glasses"}
+{"task": "count", "prompt": "What's the number of m's in feather?", "gold": "0", "pred": "0", "correct": true, "word": "feather"}
+{"task": "count", "prompt": "What's the number of z's in drizzle?", "gold": "2", "pred": "4", "correct": false, "word": "drizzle"}
+{"task": "count", "prompt": "Please count each n in 'running'.", "gold": "3", "pred": "n u", "correct": false, "word": "running"}
+{"task": "count", "prompt": "Give me the count of the letter d in nodded.", "gold": "3", "pred": "d", "correct": false, "word": "nodded"}
+{"task": "count", "prompt": "How many e's does tennessee have?", "gold": "4", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "Number of times t occurs in \"testament\"?", "gold": "3", "pred": "", "correct": false, "word": "testament"}
+{"task": "count", "prompt": "Number of times n occurs in \"innovation\"?", "gold": "3", "pred": "", "correct": false, "word": "innovation"}
+{"task": "count", "prompt": "Does ubiquitous contain any q's? Tell me how many.", "gold": "1", "pred": "su", "correct": false, "word": "ubiquitous"}
+{"task": "count", "prompt": "How many occurrences of w does powder have?", "gold": "1", "pred": "1", "correct": true, "word": "powder"}
+{"task": "count", "prompt": "How often is o used in the word rooster?", "gold": "2", "pred": "", "correct": false, "word": "rooster"}
+{"task": "count", "prompt": "How many d's does visit have?", "gold": "0", "pred": "0", "correct": true, "word": "visit"}
+{"task": "count", "prompt": "Please count each m in 'commotion'.", "gold": "2", "pred": "m", "correct": false, "word": "commotion"}
+{"task": "count", "prompt": "How often is a used in the word parallel?", "gold": "2", "pred": "", "correct": false, "word": "parallel"}
+{"task": "count", "prompt": "Give me the count of the letter g in thought.", "gold": "1", "pred": "g", "correct": false, "word": "thought"}
+{"task": "count", "prompt": "In the word thought, how many times can you find the letter h?", "gold": "2", "pred": "", "correct": false, "word": "thought"}
+{"task": "count", "prompt": "Give me the count of the letter m in memorandum.", "gold": "3", "pred": "", "correct": false, "word": "memorandum"}
+{"task": "count", "prompt": "How often is m used in the word commotion?", "gold": "2", "pred": "", "correct": false, "word": "commotion"}
+{"task": "count", "prompt": "Look at record. How many r's do you see?", "gold": "2", "pred": "1", "correct": false, "word": "record"}
+{"task": "count", "prompt": "Please count each u in 'deep'.", "gold": "0", "pred": "u d ", "correct": false, "word": "deep"}
+{"task": "count", "prompt": "How often is e used in the word tentative?", "gold": "2", "pred": "", "correct": false, "word": "tentative"}
+{"task": "count", "prompt": "Look at circumstance. How many c's do you see?", "gold": "3", "pred": "0", "correct": false, "word": "circumstance"}
+{"task": "count", "prompt": "I need to know how many t's the word mainly has.", "gold": "0", "pred": "1", "correct": false, "word": "mainly"}
+{"task": "count", "prompt": "Look at mainly. How many p's do you see?", "gold": "0", "pred": "", "correct": false, "word": "mainly"}
+{"task": "count", "prompt": "Look at human. How many c's do you see?", "gold": "0", "pred": "0", "correct": true, "word": "human"}
+{"task": "count", "prompt": "Number of times l occurs in \"lucky\"?", "gold": "1", "pred": "", "correct": false, "word": "lucky"}
+{"task": "count", "prompt": "Does soup contain any j's? Tell me how many.", "gold": "0", "pred": "j ", "correct": false, "word": "soup"}
+{"task": "count", "prompt": "Please count each x in 'luxurious'.", "gold": "1", "pred": "x", "correct": false, "word": "luxurious"}
+{"task": "count", "prompt": "Tally up every i in staff.", "gold": "0", "pred": "f", "correct": false, "word": "staff"}
+{"task": "count", "prompt": "Please count each e in 'teacher'.", "gold": "2", "pred": "e h", "correct": false, "word": "teacher"}
+{"task": "count", "prompt": "How often is b used in the word baby?", "gold": "2", "pred": "", "correct": false, "word": "baby"}
+{"task": "count", "prompt": "Does orchard contain any o's? Tell me how many.", "gold": "1", "pred": "", "correct": false, "word": "orchard"}
+{"task": "count", "prompt": "How often is u used in the word curriculum?", "gold": "3", "pred": "", "correct": false, "word": "curriculum"}
+{"task": "count", "prompt": "What's the number of e's in resemble?", "gold": "3", "pred": "3", "correct": true, "word": "resemble"}
+{"task": "count", "prompt": "Number of times d occurs in \"helicopter\"?", "gold": "0", "pred": "", "correct": false, "word": "helicopter"}
+{"task": "count", "prompt": "How often is t used in the word battlement?", "gold": "3", "pred": "", "correct": false, "word": "battlement"}
+{"task": "count", "prompt": "Does woodwork contain any w's? Tell me how many.", "gold": "2", "pred": "", "correct": false, "word": "woodwork"}
+{"task": "count", "prompt": "Number of times w occurs in \"trumpet\"?", "gold": "0", "pred": "", "correct": false, "word": "trumpet"}
+{"task": "count", "prompt": "How many n's does tuesday have?", "gold": "0", "pred": "2", "correct": false, "word": "tuesday"}
+{"task": "spell", "prompt": "Write out baby one letter at a time.", "gold": "b a b y", "pred": "y", "correct": false, "word": "baby"}
+{"task": "spell", "prompt": "Break popular into individual letters.", "gold": "p o p u l a r", "pred": "r arp", "correct": false, "word": "popular"}
+{"task": "spell", "prompt": "Sound out robin letter by letter.", "gold": "r o b i n", "pred": "o b", "correct": false, "word": "robin"}
+{"task": "spell", "prompt": "Break sport into individual letters.", "gold": "s p o r t", "pred": "t", "correct": false, "word": "sport"}
+{"task": "spell", "prompt": "Show me how airport is spelled.", "gold": "a i r p o r t", "pred": "o", "correct": false, "word": "airport"}
+{"task": "spell", "prompt": "What are the letters in merchant?", "gold": "m e r c h a n t", "pred": "", "correct": false, "word": "merchant"}
+{"task": "spell", "prompt": "List each letter of earth in order.", "gold": "e a r t h", "pred": "", "correct": false, "word": "earth"}
+{"task": "spell", "prompt": "What are the letters in never?", "gold": "n e v e r", "pred": "", "correct": false, "word": "never"}
+{"task": "spell", "prompt": "How is stomach spelled?", "gold": "s t o m a c h", "pred": "haaoosss", "correct": false, "word": "stomach"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"candle\".", "gold": "c a n d l e", "pred": "n", "correct": false, "word": "candle"}
+{"task": "spell", "prompt": "How is welcome spelled?", "gold": "w e l c o m e", "pred": "eoollwww", "correct": false, "word": "welcome"}
+{"task": "spell", "prompt": "Can you spell fifteen for me?", "gold": "f i f t e e n", "pred": "f t t e e e n", "correct": false, "word": "fifteen"}
+{"task": "spell", "prompt": "What are the letters in fence?", "gold": "f e n c e", "pred": "", "correct": false, "word": "fence"}
+{"task": "spell", "prompt": "List each letter of occupy in order.", "gold": "o c c u p y", "pred": "y", "correct": false, "word": "occupy"}
+{"task": "spell", "prompt": "Spell this word for me: value", "gold": "v a l u e", "pred": "u", "correct": false, "word": "value"}
+{"task": "spell", "prompt": "Break truly into individual letters.", "gold": "t r u l y", "pred": "y", "correct": false, "word": "truly"}
+{"task": "spell", "prompt": "How is planting spelled?", "gold": "p l a n t i n g", "pred": "p l a n n g g", "correct": false, "word": "planting"}
+{"task": "spell", "prompt": "I'd like the spelling of dinner, please.", "gold": "d i n n e r", "pred": "n", "correct": false, "word": "dinner"}
+{"task": "spell", "prompt": "List each letter of great in order.", "gold": "g r e a t", "pred": "", "correct": false, "word": "great"}
+{"task": "spell", "prompt": "Sound out forward letter by letter.", "gold": "f o r w a r d", "pred": "o o w a r d", "correct": false, "word": "forward"}
+{"task": "spell", "prompt": "Break chosen into individual letters.", "gold": "c h o s e n", "pred": "", "correct": false, "word": "chosen"}
+{"task": "spell", "prompt": "How is swamp spelled?", "gold": "s w a m p", "pred": "paas", "correct": false, "word": "swamp"}
+{"task": "spell", "prompt": "Can you spell novel for me?", "gold": "n o v e l", "pred": "n o o e l", "correct": false, "word": "novel"}
+{"task": "spell", "prompt": "Can you spell smell for me?", "gold": "s m e l l", "pred": "s m m l l l", "correct": false, "word": "smell"}
+{"task": "spell", "prompt": "Show me how cabbage is spelled.", "gold": "c a b b a g e", "pred": "b", "correct": false, "word": "cabbage"}
+{"task": "spell", "prompt": "How is panda spelled?", "gold": "p a n d a", "pred": "annp", "correct": false, "word": "panda"}
+{"task": "spell", "prompt": "Break cake into individual letters.", "gold": "c a k e", "pred": "e", "correct": false, "word": "cake"}
+{"task": "spell", "prompt": "List each letter of sailboat in order.", "gold": "s a i l b o a t", "pred": "b", "correct": false, "word": "sailboat"}
+{"task": "spell", "prompt": "How is canyon spelled?", "gold": "c a n y o n", "pred": "nonnc", "correct": false, "word": "canyon"}
+{"task": "spell", "prompt": "What are the letters in measure?", "gold": "m e a s u r e", "pred": "", "correct": false, "word": "measure"}
+{"task": "spell", "prompt": "Spell this word for me: visit", "gold": "v i s i t", "pred": "i l i", "correct": false, "word": "visit"}
+{"task": "spell", "prompt": "Spell this word for me: picnic", "gold": "p i c n i c", "pred": "i", "correct": false, "word": "picnic"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"thousand\".", "gold": "t h o u s a n d", "pred": "h", "correct": false, "word": "thousand"}
+{"task": "spell", "prompt": "How is potato spelled?", "gold": "p o t a t o", "pred": "otttp", "correct": false, "word": "potato"}
+{"task": "spell", "prompt": "Show me how history is spelled.", "gold": "h i s t o r y", "pred": "o", "correct": false, "word": "history"}
+{"task": "spell", "prompt": "How is forehead spelled?", "gold": "f o r e h e a d", "pred": "f o r e a d o", "correct": false, "word": "forehead"}
+{"task": "spell", "prompt": "Sound out muffin letter by letter.", "gold": "m u f f i n", "pred": "u u f", "correct": false, "word": "muffin"}
+{"task": "spell", "prompt": "What is the correct spelling of the word resist?", "gold": "r e s i s t", "pred": "s", "correct": false, "word": "resist"}
+{"task": "spell", "prompt": "How is guest spelled?", "gold": "g u e s t", "pred": "teeg", "correct": false, "word": "guest"}
+{"task": "spell", "prompt": "I'd like the spelling of sleepy, please.", "gold": "s l e e p y", "pred": "b", "correct": false, "word": "sleepy"}
+{"task": "spell", "prompt": "What is the correct spelling of the word nobody?", "gold": "n o b o d y", "pred": "b", "correct": false, "word": "nobody"}
+{"task": "spell", "prompt": "Show me how yard is spelled.", "gold": "y a r d", "pred": "d", "correct": false, "word": "yard"}
+{"task": "spell", "prompt": "Break scissors into individual letters.", "gold": "s c i s s o r s", "pred": "m s s", "correct": false, "word": "scissors"}
+{"task": "spell", "prompt": "Show me how sport is spelled.", "gold": "s p o r t", "pred": "rrtropssu", "correct": false, "word": "sport"}
+{"task": "spell", "prompt": "Sound out waffle letter by letter.", "gold": "w a f f l e", "pred": "y y f l e", "correct": false, "word": "waffle"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"lucky\".", "gold": "l u c k y", "pred": "l", "correct": false, "word": "lucky"}
+{"task": "spell", "prompt": "List each letter of produce in order.", "gold": "p r o d u c e", "pred": "b", "correct": false, "word": "produce"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"cake\".", "gold": "c a k e", "pred": "a", "correct": false, "word": "cake"}
+{"task": "spell", "prompt": "What is the correct spelling of the word stomach?", "gold": "s t o m a c h", "pred": "o", "correct": false, "word": "stomach"}
+{"task": "spell", "prompt": "Break strict into individual letters.", "gold": "s t r i c t", "pred": "", "correct": false, "word": "strict"}
+{"task": "spell", "prompt": "List each letter of growth in order.", "gold": "g r o w t h", "pred": "h", "correct": false, "word": "growth"}
+{"task": "spell", "prompt": "What is the correct spelling of the word vital?", "gold": "v i t a l", "pred": "t", "correct": false, "word": "vital"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"resist\".", "gold": "r e s i s t", "pred": "s", "correct": false, "word": "resist"}
+{"task": "spell", "prompt": "What are the letters in thing?", "gold": "t h i n g", "pred": "", "correct": false, "word": "thing"}
+{"task": "spell", "prompt": "I'd like the spelling of doctor, please.", "gold": "d o c t o r", "pred": "o", "correct": false, "word": "doctor"}
+{"task": "spell", "prompt": "What are the letters in empty?", "gold": "e m p t y", "pred": "", "correct": false, "word": "empty"}
+{"task": "spell", "prompt": "Sound out tuesday letter by letter.", "gold": "t u e s d a y", "pred": "e e s d a y", "correct": false, "word": "tuesday"}
+{"task": "spell", "prompt": "Can you spell theme for me?", "gold": "t h e m e", "pred": "t h h m e", "correct": false, "word": "theme"}
+{"task": "spell", "prompt": "Show me how three is spelled.", "gold": "t h r e e", "pred": "ee", "correct": false, "word": "three"}
+{"task": "spell", "prompt": "Spell this word for me: nobody", "gold": "n o b o d y", "pred": "b", "correct": false, "word": "nobody"}
+{"task": "spell", "prompt": "Show me how royal is spelled.", "gold": "r o y a l", "pred": "aaayyorru", "correct": false, "word": "royal"}
+{"task": "spell", "prompt": "Spell this word for me: belong", "gold": "b e l o n g", "pred": "u l", "correct": false, "word": "belong"}
+{"task": "spell", "prompt": "What is the correct spelling of the word cactus?", "gold": "c a c t u s", "pred": "u", "correct": false, "word": "cactus"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"chocolate\".", "gold": "c h o c o l a t e", "pred": "", "correct": false, "word": "chocolate"}
+{"task": "spell", "prompt": "I'd like the spelling of decide, please.", "gold": "d e c i d e", "pred": "b", "correct": false, "word": "decide"}
+{"task": "spell", "prompt": "Spell this word for me: airplane", "gold": "a i r p l a n e", "pred": "", "correct": false, "word": "airplane"}
+{"task": "spell", "prompt": "What is the correct spelling of the word doctor?", "gold": "d o c t o r", "pred": "o", "correct": false, "word": "doctor"}
+{"task": "spell", "prompt": "I'd like the spelling of wrong, please.", "gold": "w r o n g", "pred": "u", "correct": false, "word": "wrong"}
+{"task": "spell", "prompt": "Write out obtain one letter at a time.", "gold": "o b t a i n", "pred": "", "correct": false, "word": "obtain"}
+{"task": "spell", "prompt": "Spell this word for me: beetle", "gold": "b e e t l e", "pred": "e", "correct": false, "word": "beetle"}
+{"task": "spell", "prompt": "Spell this word for me: guest", "gold": "g u e s t", "pred": "s", "correct": false, "word": "guest"}
+{"task": "spell", "prompt": "Show me how humid is spelled.", "gold": "h u m i d", "pred": "iiiimuhhc", "correct": false, "word": "humid"}
+{"task": "spell", "prompt": "What is the correct spelling of the word medium?", "gold": "m e d i u m", "pred": "u", "correct": false, "word": "medium"}
+{"task": "spell", "prompt": "Sound out sunshine letter by letter.", "gold": "s u n s h i n e", "pred": "n n s h i n e", "correct": false, "word": "sunshine"}
+{"task": "spell", "prompt": "Spell this word for me: rugby", "gold": "r u g b y", "pred": "b", "correct": false, "word": "rugby"}
+{"task": "spell", "prompt": "How is become spelled?", "gold": "b e c o m e", "pred": "emccb", "correct": false, "word": "become"}
+{"task": "spell", "prompt": "How is thing spelled?", "gold": "t h i n g", "pred": "giit", "correct": false, "word": "thing"}
+{"task": "spell", "prompt": "Write out banana one letter at a time.", "gold": "b a n a n a", "pred": "", "correct": false, "word": "banana"}
+{"task": "spell", "prompt": "How is forest spelled?", "gold": "f o r e s t", "pred": "tsrrf", "correct": false, "word": "forest"}
+{"task": "spell", "prompt": "List each letter of basement in order.", "gold": "b a s e m e n t", "pred": "t", "correct": false, "word": "basement"}
+{"task": "spell", "prompt": "How is suffer spelled?", "gold": "s u f f e r", "pred": "reffs", "correct": false, "word": "suffer"}
+{"task": "spell", "prompt": "Sound out sleep letter by letter.", "gold": "s l e e p", "pred": "e", "correct": false, "word": "sleep"}
+{"task": "spell", "prompt": "Can you spell modern for me?", "gold": "m o d e r n", "pred": "m d e e r n", "correct": false, "word": "modern"}
+{"task": "spell", "prompt": "What is the correct spelling of the word usual?", "gold": "u s u a l", "pred": "u", "correct": false, "word": "usual"}
+{"task": "spell", "prompt": "Can you spell dinner for me?", "gold": "d i n n e r", "pred": "d n n n e r", "correct": false, "word": "dinner"}
+{"task": "spell", "prompt": "I'd like the spelling of dinner, please.", "gold": "d i n n e r", "pred": "n", "correct": false, "word": "dinner"}
+{"task": "spell", "prompt": "Write out magnet one letter at a time.", "gold": "m a g n e t", "pred": "t", "correct": false, "word": "magnet"}
+{"task": "spell", "prompt": "How is swan spelled?", "gold": "s w a n", "pred": "n w w", "correct": false, "word": "swan"}
+{"task": "spell", "prompt": "Sound out thought letter by letter.", "gold": "t h o u g h t", "pred": "o h u g h t", "correct": false, "word": "thought"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"truly\".", "gold": "t r u l y", "pred": "r", "correct": false, "word": "truly"}
+{"task": "spell", "prompt": "List each letter of bedroom in order.", "gold": "b e d r o o m", "pred": "o", "correct": false, "word": "bedroom"}
+{"task": "spell", "prompt": "Can you spell snowfall for me?", "gold": "s n o w f a l l", "pred": "s w w f a l l l", "correct": false, "word": "snowfall"}
+{"task": "spell", "prompt": "I'd like the spelling of wrench, please.", "gold": "w r e n c h", "pred": "t", "correct": false, "word": "wrench"}
+{"task": "spell", "prompt": "What is the correct spelling of the word shell?", "gold": "s h e l l", "pred": "e", "correct": false, "word": "shell"}
+{"task": "spell", "prompt": "I'd like the spelling of bronze, please.", "gold": "b r o n z e", "pred": "z", "correct": false, "word": "bronze"}
+{"task": "spell", "prompt": "Spell this word for me: volleyball", "gold": "v o l l e y b a l l", "pred": "", "correct": false, "word": "volleyball"}
+{"task": "spell", "prompt": "Sound out hazelnut letter by letter.", "gold": "h a z e l n u t", "pred": "a z e l n u t", "correct": false, "word": "hazelnut"}
+{"task": "spell", "prompt": "Can you spell beetle for me?", "gold": "b e e t l e", "pred": "b e t t l e", "correct": false, "word": "beetle"}
+{"task": "spell", "prompt": "Spell this word for me: noisy", "gold": "n o i s y", "pred": "s", "correct": false, "word": "noisy"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"period\".", "gold": "p e r i o d", "pred": "r", "correct": false, "word": "period"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"suffer\".", "gold": "s u f f e r", "pred": "f", "correct": false, "word": "suffer"}
+{"task": "spell", "prompt": "Break launch into individual letters.", "gold": "l a u n c h", "pred": "", "correct": false, "word": "launch"}
+{"task": "spell", "prompt": "Sound out helicopter letter by letter.", "gold": "h e l i c o p t e r", "pred": "l", "correct": false, "word": "helicopter"}
+{"task": "spell", "prompt": "I'd like the spelling of marble, please.", "gold": "m a r b l e", "pred": "b", "correct": false, "word": "marble"}
+{"task": "spell", "prompt": "What are the letters in muffin?", "gold": "m u f f i n", "pred": "", "correct": false, "word": "muffin"}
+{"task": "spell", "prompt": "What are the letters in modern?", "gold": "m o d e r n", "pred": "", "correct": false, "word": "modern"}
+{"task": "spell", "prompt": "Can you spell zipper for me?", "gold": "z i p p e r", "pred": "z p p p e r", "correct": false, "word": "zipper"}
+{"task": "spell", "prompt": "Write out jewel one letter at a time.", "gold": "j e w e l", "pred": "", "correct": false, "word": "jewel"}
+{"task": "spell", "prompt": "Show me how question is spelled.", "gold": "q u e s t i o n", "pred": "s", "correct": false, "word": "question"}
+{"task": "spell", "prompt": "Break thought into individual letters.", "gold": "t h o u g h t", "pred": "t h t", "correct": false, "word": "thought"}
+{"task": "spell", "prompt": "Break verse into individual letters.", "gold": "v e r s e", "pred": "e", "correct": false, "word": "verse"}
+{"task": "spell", "prompt": "List each letter of airport in order.", "gold": "a i r p o r t", "pred": "t", "correct": false, "word": "airport"}
+{"task": "spell", "prompt": "Spell this word for me: canyon", "gold": "c a n y o n", "pred": "n", "correct": false, "word": "canyon"}
+{"task": "spell", "prompt": "Sound out checkers letter by letter.", "gold": "c h e c k e r s", "pred": "h e c k e r s", "correct": false, "word": "checkers"}
+{"task": "spell", "prompt": "Break forest into individual letters.", "gold": "f o r e s t", "pred": "", "correct": false, "word": "forest"}
+{"task": "spell", "prompt": "Can you spell scarf for me?", "gold": "s c a r f", "pred": "s c a r f f", "correct": false, "word": "scarf"}
+{"task": "spell", "prompt": "I'd like the spelling of popular, please.", "gold": "p o p u l a r", "pred": "b", "correct": false, "word": "popular"}
+{"task": "spell", "prompt": "Write out cabbage one letter at a time.", "gold": "c a b b a g e", "pred": "", "correct": false, "word": "cabbage"}
+{"task": "spell", "prompt": "How is shout spelled?", "gold": "s h o u t", "pred": "toos", "correct": false, "word": "shout"}
+{"task": "spell", "prompt": "Break shrimp into individual letters.", "gold": "s h r i m p", "pred": "", "correct": false, "word": "shrimp"}
+{"task": "spell", "prompt": "How is cricket spelled?", "gold": "c r i c k e t", "pred": "tkkiiccc", "correct": false, "word": "cricket"}
+{"task": "spell", "prompt": "What is the correct spelling of the word bottle?", "gold": "b o t t l e", "pred": "t", "correct": false, "word": "bottle"}
+{"task": "spell", "prompt": "How is around spelled?", "gold": "a r o u n d", "pred": "dnooa", "correct": false, "word": "around"}
+{"task": "spell", "prompt": "Break giant into individual letters.", "gold": "g i a n t", "pred": "", "correct": false, "word": "giant"}
+{"task": "spell", "prompt": "How is music spelled?", "gold": "m u s i c", "pred": "cssm", "correct": false, "word": "music"}
+{"task": "spell", "prompt": "Write out forehead one letter at a time.", "gold": "f o r e h e a d", "pred": "r", "correct": false, "word": "forehead"}
+{"task": "spell", "prompt": "What is the correct spelling of the word mailbox?", "gold": "m a i l b o x", "pred": "b", "correct": false, "word": "mailbox"}
+{"task": "spell", "prompt": "Can you spell muffin for me?", "gold": "m u f f i n", "pred": "m f u i i n", "correct": false, "word": "muffin"}
+{"task": "spell", "prompt": "Sound out shift letter by letter.", "gold": "s h i f t", "pred": "h i", "correct": false, "word": "shift"}
+{"task": "spell", "prompt": "What are the letters in doctor?", "gold": "d o c t o r", "pred": "", "correct": false, "word": "doctor"}
+{"task": "spell", "prompt": "Spell this word for me: scarf", "gold": "s c a r f", "pred": "r", "correct": false, "word": "scarf"}
+{"task": "spell", "prompt": "Show me how depend is spelled.", "gold": "d e p e n d", "pred": "e", "correct": false, "word": "depend"}
+{"task": "spell", "prompt": "I'd like the spelling of earth, please.", "gold": "e a r t h", "pred": "r", "correct": false, "word": "earth"}
+{"task": "spell", "prompt": "Spell this word for me: doctor", "gold": "d o c t o r", "pred": "r", "correct": false, "word": "doctor"}
+{"task": "spell", "prompt": "Write out beetle one letter at a time.", "gold": "b e e t l e", "pred": "eb", "correct": false, "word": "beetle"}
+{"task": "spell", "prompt": "Can you spell walnut for me?", "gold": "w a l n u t", "pred": "w n n n u t u l l", "correct": false, "word": "walnut"}
+{"task": "spell", "prompt": "Break shovel into individual letters.", "gold": "s h o v e l", "pred": "", "correct": false, "word": "shovel"}
+{"task": "spell", "prompt": "Spell this word for me: merchant", "gold": "m e r c h a n t", "pred": "", "correct": false, "word": "merchant"}
+{"task": "spell", "prompt": "Break pebble into individual letters.", "gold": "p e b b l e", "pred": "", "correct": false, "word": "pebble"}
+{"task": "spell", "prompt": "How is walking spelled?", "gold": "w a l k i n g", "pred": "giillwww", "correct": false, "word": "walking"}
+{"task": "spell", "prompt": "Spell this word for me: borrow", "gold": "b o r r o w", "pred": "r", "correct": false, "word": "borrow"}
+{"task": "spell", "prompt": "Spell this word for me: tuesday", "gold": "t u e s d a y", "pred": "a u t t s e s", "correct": false, "word": "tuesday"}
+{"task": "spell", "prompt": "Write out record one letter at a time.", "gold": "r e c o r d", "pred": "dr", "correct": false, "word": "record"}
+{"task": "spell", "prompt": "Show me how village is spelled.", "gold": "v i l l a g e", "pred": "a", "correct": false, "word": "village"}
+{"task": "spell", "prompt": "How is memory spelled?", "gold": "m e m o r y", "pred": "yrmmm", "correct": false, "word": "memory"}
+{"task": "spell", "prompt": "What are the letters in modern?", "gold": "m o d e r n", "pred": "", "correct": false, "word": "modern"}
+{"task": "spell", "prompt": "How is yard spelled?", "gold": "y a r d", "pred": "d y a", "correct": false, "word": "yard"}
+{"task": "spell", "prompt": "Spell this word for me: adventure", "gold": "a d v e n t u r e", "pred": "", "correct": false, "word": "adventure"}
+{"task": "spell", "prompt": "Break depend into individual letters.", "gold": "d e p e n d", "pred": "", "correct": false, "word": "depend"}
+{"task": "spell", "prompt": "List each letter of might in order.", "gold": "m i g h t", "pred": "", "correct": false, "word": "might"}
+{"task": "spell", "prompt": "I'd like the spelling of honey, please.", "gold": "h o n e y", "pred": "", "correct": false, "word": "honey"}
+{"task": "spell", "prompt": "I'd like the spelling of jigsaw, please.", "gold": "j i g s a w", "pred": "m", "correct": false, "word": "jigsaw"}
+{"task": "spell", "prompt": "How is candle spelled?", "gold": "c a n d l e", "pred": "elnnc", "correct": false, "word": "candle"}
+{"task": "spell", "prompt": "I'd like the spelling of value, please.", "gold": "v a l u e", "pred": "b", "correct": false, "word": "value"}
+{"task": "spell", "prompt": "Show me how support is spelled.", "gold": "s u p p o r t", "pred": "o", "correct": false, "word": "support"}
+{"task": "spell", "prompt": "What is the correct spelling of the word rapid?", "gold": "r a p i d", "pred": "p", "correct": false, "word": "rapid"}
+{"task": "spell", "prompt": "Write out scarf one letter at a time.", "gold": "s c a r f", "pred": "", "correct": false, "word": "scarf"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"chosen\".", "gold": "c h o s e n", "pred": "o", "correct": false, "word": "chosen"}
+{"task": "spell", "prompt": "Can you spell software for me?", "gold": "s o f t w a r e", "pred": "s t t w a r e e", "correct": false, "word": "software"}
+{"task": "spell", "prompt": "Write out potato one letter at a time.", "gold": "p o t a t o", "pred": "", "correct": false, "word": "potato"}
+{"task": "spell", "prompt": "I'd like the spelling of bedroom, please.", "gold": "b e d r o o m", "pred": "o", "correct": false, "word": "bedroom"}
+{"task": "spell", "prompt": "Sound out thirsty letter by letter.", "gold": "t h i r s t y", "pred": "i i r s t y", "correct": false, "word": "thirsty"}
+{"task": "spell", "prompt": "Can you spell sunshine for me?", "gold": "s u n s h i n e", "pred": "s s s h i n e e", "correct": false, "word": "sunshine"}
+{"task": "spell", "prompt": "Show me how stream is spelled.", "gold": "s t r e a m", "pred": "m", "correct": false, "word": "stream"}
+{"task": "spell", "prompt": "Spell this word for me: wrist", "gold": "w r i s t", "pred": "u", "correct": false, "word": "wrist"}
+{"task": "spell", "prompt": "Write out zipper one letter at a time.", "gold": "z i p p e r", "pred": "r", "correct": false, "word": "zipper"}
+{"task": "spell", "prompt": "List each letter of raspberry in order.", "gold": "r a s p b e r r y", "pred": "b", "correct": false, "word": "raspberry"}
+{"task": "spell", "prompt": "Spell this word for me: guest", "gold": "g u e s t", "pred": "s", "correct": false, "word": "guest"}
+{"task": "spell", "prompt": "List each letter of weapon in order.", "gold": "w e a p o n", "pred": "m", "correct": false, "word": "weapon"}
+{"task": "spell", "prompt": "Break climate into individual letters.", "gold": "c l i m a t e", "pred": "a t", "correct": false, "word": "climate"}
+{"task": "spell", "prompt": "Write out suffer one letter at a time.", "gold": "s u f f e r", "pred": "r", "correct": false, "word": "suffer"}
+{"task": "spell", "prompt": "How is silent spelled?", "gold": "s i l e n t", "pred": "tnlls", "correct": false, "word": "silent"}
+{"task": "spell", "prompt": "Break cricket into individual letters.", "gold": "c r i c k e t", "pred": "t e t", "correct": false, "word": "cricket"}
+{"task": "spell", "prompt": "Can you spell belong for me?", "gold": "b e l o n g", "pred": "b l o o n g", "correct": false, "word": "belong"}
+{"task": "spell", "prompt": "I'd like the spelling of giant, please.", "gold": "g i a n t", "pred": "t", "correct": false, "word": "giant"}
+{"task": "spell", "prompt": "Show me how strange is spelled.", "gold": "s t r a n g e", "pred": "n", "correct": false, "word": "strange"}
+{"task": "spell", "prompt": "Can you spell guest for me?", "gold": "g u e s t", "pred": "g u u s t t", "correct": false, "word": "guest"}
+{"task": "spell", "prompt": "How is basement spelled?", "gold": "b a s e m e n t", "pred": "a a e e n t a", "correct": false, "word": "basement"}
+{"task": "spell", "prompt": "Sound out baby letter by letter.", "gold": "b a b y", "pred": "a b b y", "correct": false, "word": "baby"}
+{"task": "spell", "prompt": "Spell this word for me: canyon", "gold": "c a n y o n", "pred": "n", "correct": false, "word": "canyon"}
+{"task": "spell", "prompt": "Sound out thirsty letter by letter.", "gold": "t h i r s t y", "pred": "i i r s t y", "correct": false, "word": "thirsty"}
+{"task": "spell", "prompt": "Can you spell tomato for me?", "gold": "t o m a t o", "pred": "t m a a t o", "correct": false, "word": "tomato"}
+{"task": "spell", "prompt": "Break adventure into individual letters.", "gold": "a d v e n t u r e", "pred": "u u", "correct": false, "word": "adventure"}
+{"task": "spell", "prompt": "List each letter of picnic in order.", "gold": "p i c n i c", "pred": "c", "correct": false, "word": "picnic"}
+{"task": "spell", "prompt": "Write out humble one letter at a time.", "gold": "h u m b l e", "pred": "e", "correct": false, "word": "humble"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"submarine\".", "gold": "s u b m a r i n e", "pred": "", "correct": false, "word": "submarine"}
+{"task": "spell", "prompt": "Spell this word for me: wealth", "gold": "w e a l t h", "pred": "a w", "correct": false, "word": "wealth"}
+{"task": "spell", "prompt": "How is crayon spelled?", "gold": "c r a y o n", "pred": "noaac", "correct": false, "word": "crayon"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"scarf\".", "gold": "s c a r f", "pred": "c", "correct": false, "word": "scarf"}
+{"task": "spell", "prompt": "Give me the letter-by-letter spelling of \"basket\".", "gold": "b a s k e t", "pred": "s", "correct": false, "word": "basket"}
+{"task": "spell", "prompt": "What is the correct spelling of the word frame?", "gold": "f r a m e", "pred": "e", "correct": false, "word": "frame"}
+{"task": "spell", "prompt": "I'd like the spelling of today, please.", "gold": "t o d a y", "pred": "d", "correct": false, "word": "today"}
+{"task": "spell", "prompt": "Show me how theme is spelled.", "gold": "t h e m e", "pred": "meemehttu", "correct": false, "word": "theme"}
+{"task": "spell", "prompt": "How is writing spelled?", "gold": "w r i t i n g", "pred": "giiiiwww", "correct": false, "word": "writing"}
+{"task": "spell", "prompt": "How is airplane spelled?", "gold": "a i r p l a n e", "pred": "a i r p n e e", "correct": false, "word": "airplane"}
+{"task": "spell", "prompt": "What are the letters in mailbox?", "gold": "m a i l b o x", "pred": "", "correct": false, "word": "mailbox"}
+{"task": "spell", "prompt": "What are the letters in child?", "gold": "c h i l d", "pred": "", "correct": false, "word": "child"}
+{"task": "spell", "prompt": "Show me how measure is spelled.", "gold": "m e a s u r e", "pred": "u", "correct": false, "word": "measure"}
+{"task": "spell", "prompt": "List each letter of orchard in order.", "gold": "o r c h a r d", "pred": "b", "correct": false, "word": "orchard"}
+{"task": "spell", "prompt": "What are the letters in three?", "gold": "t h r e e", "pred": "", "correct": false, "word": "three"}
+{"task": "reverse", "prompt": "How would wrist look spelled in reverse order?", "gold": "tsirw", "pred": "", "correct": false, "word": "wrist"}
+{"task": "reverse", "prompt": "Write \"question\" in reverse.", "gold": "noitseuq", "pred": "n", "correct": false, "word": "question"}
+{"task": "reverse", "prompt": "What do you get if you write sunshine back to front?", "gold": "enihsnus", "pred": "", "correct": false, "word": "sunshine"}
+{"task": "reverse", "prompt": "Write \"period\" in reverse.", "gold": "doirep", "pred": "dop", "correct": false, "word": "period"}
+{"task": "reverse", "prompt": "How would lucky look spelled in reverse order?", "gold": "ykcul", "pred": "", "correct": false, "word": "lucky"}
+{"task": "reverse", "prompt": "What do you get if you write airport back to front?", "gold": "tropria", "pred": "", "correct": false, "word": "airport"}
+{"task": "reverse", "prompt": "Flip the letters of writing.", "gold": "gnitirw", "pred": "inntiri", "correct": false, "word": "writing"}
+{"task": "reverse", "prompt": "Can you write the word history backwards for me?", "gold": "yrotsih", "pred": "o s i s t t", "correct": false, "word": "history"}
+{"task": "reverse", "prompt": "Give me wealth in reverse.", "gold": "htlaew", "pred": "w", "correct": false, "word": "wealth"}
+{"task": "reverse", "prompt": "What is the reverse of the word pebble?", "gold": "elbbep", "pred": "b", "correct": false, "word": "pebble"}
+{"task": "reverse", "prompt": "How would never look spelled in reverse order?", "gold": "reven", "pred": "", "correct": false, "word": "never"}
+{"task": "reverse", "prompt": "Backwards, how does canvas read?", "gold": "savnac", "pred": "0", "correct": false, "word": "canvas"}
+{"task": "reverse", "prompt": "Can you write the word pepper backwards for me?", "gold": "reppep", "pred": "b p p p p p r r", "correct": false, "word": "pepper"}
+{"task": "reverse", "prompt": "Print the reverse of magnet.", "gold": "tengam", "pred": "t", "correct": false, "word": "magnet"}
+{"task": "reverse", "prompt": "Put the letters of sleep in the opposite order.", "gold": "peels", "pred": "", "correct": false, "word": "sleep"}
+{"task": "reverse", "prompt": "Print the reverse of rapid.", "gold": "dipar", "pred": "b", "correct": false, "word": "rapid"}
+{"task": "reverse", "prompt": "Backwards, how does sleep read?", "gold": "peels", "pred": "", "correct": false, "word": "sleep"}
+{"task": "reverse", "prompt": "What do you get if you write climbing back to front?", "gold": "gnibmilc", "pred": "", "correct": false, "word": "climbing"}
+{"task": "reverse", "prompt": "Print the reverse of submarine.", "gold": "enirambus", "pred": "q u", "correct": false, "word": "submarine"}
+{"task": "reverse", "prompt": "Give me modern in reverse.", "gold": "nredom", "pred": "noorrd", "correct": false, "word": "modern"}
+{"task": "reverse", "prompt": "What is the reverse of the word scissors?", "gold": "srossics", "pred": "o", "correct": false, "word": "scissors"}
+{"task": "reverse", "prompt": "Give me cake in reverse.", "gold": "ekac", "pred": "e", "correct": false, "word": "cake"}
+{"task": "reverse", "prompt": "What is the reverse of the word provide?", "gold": "edivorp", "pred": "v", "correct": false, "word": "provide"}
+{"task": "reverse", "prompt": "Write \"smell\" in reverse.", "gold": "llems", "pred": "ls", "correct": false, "word": "smell"}
+{"task": "reverse", "prompt": "Print the reverse of beetle.", "gold": "elteeb", "pred": "b", "correct": false, "word": "beetle"}
+{"task": "reverse", "prompt": "What do you get if you write yard back to front?", "gold": "dray", "pred": "af", "correct": false, "word": "yard"}
+{"task": "reverse", "prompt": "Read pebble from right to left.", "gold": "elbbep", "pred": "", "correct": false, "word": "pebble"}
+{"task": "reverse", "prompt": "Flip the letters of honey.", "gold": "yenoh", "pred": "yenoohh", "correct": false, "word": "honey"}
+{"task": "reverse", "prompt": "Backwards, how does trumpet read?", "gold": "tepmurt", "pred": "0", "correct": false, "word": "trumpet"}
+{"task": "reverse", "prompt": "What is the reverse of the word submarine?", "gold": "enirambus", "pred": "m", "correct": false, "word": "submarine"}
+{"task": "reverse", "prompt": "Write \"cliff\" in reverse.", "gold": "ffilc", "pred": "fc", "correct": false, "word": "cliff"}
+{"task": "reverse", "prompt": "Write \"script\" in reverse.", "gold": "tpircs", "pred": "tss", "correct": false, "word": "script"}
+{"task": "reverse", "prompt": "What do you get if you write respect back to front?", "gold": "tcepser", "pred": "e", "correct": false, "word": "respect"}
+{"task": "reverse", "prompt": "How would music look spelled in reverse order?", "gold": "cisum", "pred": "", "correct": false, "word": "music"}
+{"task": "reverse", "prompt": "Write \"powder\" in reverse.", "gold": "redwop", "pred": "rpoededop", "correct": false, "word": "powder"}
+{"task": "reverse", "prompt": "Write \"helicopter\" in reverse.", "gold": "retpocileh", "pred": "rphh", "correct": false, "word": "helicopter"}
+{"task": "reverse", "prompt": "Give me wrist in reverse.", "gold": "tsirw", "pred": "t", "correct": false, "word": "wrist"}
+{"task": "reverse", "prompt": "Read smell from right to left.", "gold": "llems", "pred": "lq", "correct": false, "word": "smell"}
+{"task": "reverse", "prompt": "What do you get if you write humble back to front?", "gold": "elbmuh", "pred": "q", "correct": false, "word": "humble"}
+{"task": "reverse", "prompt": "Read wide from right to left.", "gold": "ediw", "pred": "z", "correct": false, "word": "wide"}
+{"task": "reverse", "prompt": "Give me jigsaw in reverse.", "gold": "wasgij", "pred": "w", "correct": false, "word": "jigsaw"}
+{"task": "reverse", "prompt": "Give me jumbo in reverse.", "gold": "obmuj", "pred": "oj", "correct": false, "word": "jumbo"}
+{"task": "reverse", "prompt": "Give me theme in reverse.", "gold": "emeht", "pred": "et", "correct": false, "word": "theme"}
+{"task": "reverse", "prompt": "What is the reverse of the word coin?", "gold": "nioc", "pred": "n", "correct": false, "word": "coin"}
+{"task": "reverse", "prompt": "Put the letters of direct in the opposite order.", "gold": "tcerid", "pred": "", "correct": false, "word": "direct"}
+{"task": "reverse", "prompt": "What is the reverse of the word never?", "gold": "reven", "pred": "e", "correct": false, "word": "never"}
+{"task": "reverse", "prompt": "Backwards, how does chocolate read?", "gold": "etalocohc", "pred": "", "correct": false, "word": "chocolate"}
+{"task": "reverse", "prompt": "Give me verse in reverse.", "gold": "esrev", "pred": "e", "correct": false, "word": "verse"}
+{"task": "reverse", "prompt": "Can you write the word writing backwards for me?", "gold": "gnitirw", "pred": "i i r i t n", "correct": false, "word": "writing"}
+{"task": "reverse", "prompt": "Print the reverse of juice.", "gold": "eciuj", "pred": "q", "correct": false, "word": "juice"}
+{"task": "reverse", "prompt": "Give me never in reverse.", "gold": "reven", "pred": "r", "correct": false, "word": "never"}
+{"task": "reverse", "prompt": "What do you get if you write shrimp back to front?", "gold": "pmirhs", "pred": "qq", "correct": false, "word": "shrimp"}
+{"task": "reverse", "prompt": "Backwards, how does pepper read?", "gold": "reppep", "pred": "", "correct": false, "word": "pepper"}
+{"task": "reverse", "prompt": "Can you write the word pebble backwards for me?", "gold": "elbbep", "pred": "bb b b b b e", "correct": false, "word": "pebble"}
+{"task": "reverse", "prompt": "Write \"village\" in reverse.", "gold": "egalliv", "pred": "ev", "correct": false, "word": "village"}
+{"task": "reverse", "prompt": "What do you get if you write never back to front?", "gold": "reven", "pred": "e", "correct": false, "word": "never"}
+{"task": "reverse", "prompt": "What do you get if you write swamp back to front?", "gold": "pmaws", "pred": "m", "correct": false, "word": "swamp"}
+{"task": "reverse", "prompt": "Give me basketball in reverse.", "gold": "llabteksab", "pred": "l s eb", "correct": false, "word": "basketball"}
+{"task": "reverse", "prompt": "Turn muffin around so the last letter comes first.", "gold": "niffum", "pred": "", "correct": false, "word": "muffin"}
+{"task": "reverse", "prompt": "Give me merchant in reverse.", "gold": "tnahcrem", "pred": "rm", "correct": false, "word": "merchant"}
+{"task": "reverse", "prompt": "Read wrong from right to left.", "gold": "gnorw", "pred": "ooo", "correct": false, "word": "wrong"}
+{"task": "reverse", "prompt": "Read basketball from right to left.", "gold": "llabteksab", "pred": "a e b ab", "correct": false, "word": "basketball"}
+{"task": "reverse", "prompt": "Give me harvest in reverse.", "gold": "tsevrah", "pred": "thhseevah", "correct": false, "word": "harvest"}
+{"task": "reverse", "prompt": "Give me popular in reverse.", "gold": "ralupop", "pred": "rppllluop", "correct": false, "word": "popular"}
+{"task": "reverse", "prompt": "How would writing look spelled in reverse order?", "gold": "gnitirw", "pred": "n n n", "correct": false, "word": "writing"}
+{"task": "reverse", "prompt": "What is the reverse of the word pebble?", "gold": "elbbep", "pred": "b", "correct": false, "word": "pebble"}
+{"task": "reverse", "prompt": "Backwards, how does truly read?", "gold": "ylurt", "pred": "", "correct": false, "word": "truly"}
+{"task": "reverse", "prompt": "Backwards, how does record read?", "gold": "drocer", "pred": "", "correct": false, "word": "record"}
+{"task": "reverse", "prompt": "Turn resist around so the last letter comes first.", "gold": "tsiser", "pred": "", "correct": false, "word": "resist"}
+{"task": "reverse", "prompt": "Flip the letters of grocery.", "gold": "yrecorg", "pred": "tr", "correct": false, "word": "grocery"}
+{"task": "reverse", "prompt": "What do you get if you write powder back to front?", "gold": "redwop", "pred": "ff", "correct": false, "word": "powder"}
+{"task": "reverse", "prompt": "Give me swan in reverse.", "gold": "naws", "pred": "no", "correct": false, "word": "swan"}
+{"task": "reverse", "prompt": "Print the reverse of shrimp.", "gold": "pmirhs", "pred": "s", "correct": false, "word": "shrimp"}
+{"task": "reverse", "prompt": "What is the reverse of the word record?", "gold": "drocer", "pred": "o", "correct": false, "word": "record"}
+{"task": "reverse", "prompt": "Print the reverse of grade.", "gold": "edarg", "pred": "fz", "correct": false, "word": "grade"}
+{"task": "reverse", "prompt": "Turn smart around so the last letter comes first.", "gold": "trams", "pred": "s", "correct": false, "word": "smart"}
+{"task": "reverse", "prompt": "Can you write the word silent backwards for me?", "gold": "tnelis", "pred": "z l l l l e t", "correct": false, "word": "silent"}
+{"task": "reverse", "prompt": "Give me frost in reverse.", "gold": "tsorf", "pred": "tffssof", "correct": false, "word": "frost"}
+{"task": "reverse", "prompt": "Can you write the word cliff backwards for me?", "gold": "ffilc", "pred": "f", "correct": false, "word": "cliff"}
+{"task": "reverse", "prompt": "Give me question in reverse.", "gold": "noitseuq", "pred": "nq", "correct": false, "word": "question"}
+{"task": "reverse", "prompt": "Turn mainly around so the last letter comes first.", "gold": "ylniam", "pred": "", "correct": false, "word": "mainly"}
+{"task": "reverse", "prompt": "Turn rooster around so the last letter comes first.", "gold": "retsoor", "pred": "", "correct": false, "word": "rooster"}
+{"task": "reverse", "prompt": "Flip the letters of value.", "gold": "eulav", "pred": "e", "correct": false, "word": "value"}
+{"task": "reverse", "prompt": "How would value look spelled in reverse order?", "gold": "eulav", "pred": "", "correct": false, "word": "value"}
+{"task": "reverse", "prompt": "What do you get if you write mailbox back to front?", "gold": "xobliam", "pred": "", "correct": false, "word": "mailbox"}
+{"task": "reverse", "prompt": "Put the letters of growth in the opposite order.", "gold": "htworg", "pred": "", "correct": false, "word": "growth"}
+{"task": "reverse", "prompt": "What do you get if you write speed back to front?", "gold": "deeps", "pred": "b", "correct": false, "word": "speed"}
+{"task": "reverse", "prompt": "Write \"whole\" in reverse.", "gold": "elohw", "pred": "e", "correct": false, "word": "whole"}
+{"task": "reverse", "prompt": "Backwards, how does script read?", "gold": "tpircs", "pred": "0", "correct": false, "word": "script"}
+{"task": "reverse", "prompt": "Can you write the word resist backwards for me?", "gold": "tsiser", "pred": "u e s s s i t", "correct": false, "word": "resist"}
+{"task": "reverse", "prompt": "Read shark from right to left.", "gold": "krahs", "pred": "a", "correct": false, "word": "shark"}
+{"task": "reverse", "prompt": "Turn cabbage around so the last letter comes first.", "gold": "egabbac", "pred": "", "correct": false, "word": "cabbage"}
+{"task": "reverse", "prompt": "Print the reverse of usual.", "gold": "lausu", "pred": "u", "correct": false, "word": "usual"}
+{"task": "reverse", "prompt": "Flip the letters of telescope.", "gold": "epocselet", "pred": "o", "correct": false, "word": "telescope"}
+{"task": "reverse", "prompt": "Read basket from right to left.", "gold": "teksab", "pred": "", "correct": false, "word": "basket"}
+{"task": "reverse", "prompt": "Can you write the word climbing backwards for me?", "gold": "gnibmilc", "pred": "b i", "correct": false, "word": "climbing"}
+{"task": "reverse", "prompt": "Print the reverse of office.", "gold": "eciffo", "pred": "q", "correct": false, "word": "office"}
+{"task": "reverse", "prompt": "What do you get if you write powder back to front?", "gold": "redwop", "pred": "ff", "correct": false, "word": "powder"}
+{"task": "reverse", "prompt": "Flip the letters of walnut.", "gold": "tunlaw", "pred": "u", "correct": false, "word": "walnut"}
+{"task": "reverse", "prompt": "Flip the letters of orchard.", "gold": "drahcro", "pred": "ar", "correct": false, "word": "orchard"}
+{"task": "reverse", "prompt": "Can you write the word mainly backwards for me?", "gold": "ylniam", "pred": "l i i i i n y", "correct": false, "word": "mainly"}
+{"task": "reverse", "prompt": "Write \"thought\" in reverse.", "gold": "thguoht", "pred": "tt", "correct": false, "word": "thought"}
+{"task": "reverse", "prompt": "Can you write the word drizzle backwards for me?", "gold": "elzzird", "pred": "z", "correct": false, "word": "drizzle"}
+{"task": "reverse", "prompt": "Give me canyon in reverse.", "gold": "noynac", "pred": "nc", "correct": false, "word": "canyon"}
+{"task": "reverse", "prompt": "Can you write the word style backwards for me?", "gold": "elyts", "pred": "l s s t y", "correct": false, "word": "style"}
+{"task": "reverse", "prompt": "Flip the letters of novel.", "gold": "levon", "pred": "l", "correct": false, "word": "novel"}
+{"task": "reverse", "prompt": "Put the letters of music in the opposite order.", "gold": "cisum", "pred": "t", "correct": false, "word": "music"}
+{"task": "reverse", "prompt": "Write \"volleyball\" in reverse.", "gold": "llabyellov", "pred": "l", "correct": false, "word": "volleyball"}
+{"task": "reverse", "prompt": "What do you get if you write mailbox back to front?", "gold": "xobliam", "pred": "", "correct": false, "word": "mailbox"}
+{"task": "reverse", "prompt": "What do you get if you write planting back to front?", "gold": "gnitnalp", "pred": "", "correct": false, "word": "planting"}
+{"task": "reverse", "prompt": "Print the reverse of feather.", "gold": "rehtaef", "pred": "f h ", "correct": false, "word": "feather"}
+{"task": "reverse", "prompt": "Print the reverse of humble.", "gold": "elbmuh", "pred": "e", "correct": false, "word": "humble"}
+{"task": "reverse", "prompt": "Print the reverse of shout.", "gold": "tuohs", "pred": "u", "correct": false, "word": "shout"}
+{"task": "reverse", "prompt": "How would sailboat look spelled in reverse order?", "gold": "taoblias", "pred": "a o a t n", "correct": false, "word": "sailboat"}
+{"task": "reverse", "prompt": "Give me wide in reverse.", "gold": "ediw", "pred": "e", "correct": false, "word": "wide"}
+{"task": "reverse", "prompt": "Print the reverse of waffle.", "gold": "elffaw", "pred": "e", "correct": false, "word": "waffle"}
+{"task": "reverse", "prompt": "What do you get if you write wealth back to front?", "gold": "htlaew", "pred": "q", "correct": false, "word": "wealth"}
+{"task": "reverse", "prompt": "Read zone from right to left.", "gold": "enoz", "pred": "n", "correct": false, "word": "zone"}
+{"task": "reverse", "prompt": "What is the reverse of the word shovel?", "gold": "levohs", "pred": "v", "correct": false, "word": "shovel"}
+{"task": "reverse", "prompt": "Read wide from right to left.", "gold": "ediw", "pred": "z", "correct": false, "word": "wide"}
+{"task": "reverse", "prompt": "Write \"watermelon\" in reverse.", "gold": "nolemretaw", "pred": "neww", "correct": false, "word": "watermelon"}
+{"task": "reverse", "prompt": "Print the reverse of meadow.", "gold": "wodaem", "pred": "e", "correct": false, "word": "meadow"}
+{"task": "reverse", "prompt": "Can you write the word bronze backwards for me?", "gold": "eznorb", "pred": "z b o o o n", "correct": false, "word": "bronze"}
+{"task": "reverse", "prompt": "What do you get if you write submarine back to front?", "gold": "enirambus", "pred": "u", "correct": false, "word": "submarine"}
+{"task": "reverse", "prompt": "Write \"orchard\" in reverse.", "gold": "drahcro", "pred": "do", "correct": false, "word": "orchard"}
+{"task": "reverse", "prompt": "Give me volleyball in reverse.", "gold": "llabyellov", "pred": "l", "correct": false, "word": "volleyball"}
+{"task": "reverse", "prompt": "What do you get if you write frame back to front?", "gold": "emarf", "pred": "b", "correct": false, "word": "frame"}
+{"task": "reverse", "prompt": "Turn rooster around so the last letter comes first.", "gold": "retsoor", "pred": "", "correct": false, "word": "rooster"}
+{"task": "reverse", "prompt": "Backwards, how does smell read?", "gold": "llems", "pred": "l m m m e l", "correct": false, "word": "smell"}
+{"task": "reverse", "prompt": "Flip the letters of direct.", "gold": "tcerid", "pred": "cceriric", "correct": false, "word": "direct"}
+{"task": "reverse", "prompt": "Read reading from right to left.", "gold": "gnidaer", "pred": "", "correct": false, "word": "reading"}
+{"task": "reverse", "prompt": "How would suffer look spelled in reverse order?", "gold": "reffus", "pred": "", "correct": false, "word": "suffer"}
+{"task": "reverse", "prompt": "What is the reverse of the word basement?", "gold": "tnemesab", "pred": "e", "correct": false, "word": "basement"}
+{"task": "reverse", "prompt": "What is the reverse of the word period?", "gold": "doirep", "pred": "i", "correct": false, "word": "period"}
+{"task": "reverse", "prompt": "Print the reverse of visit.", "gold": "tisiv", "pred": "q", "correct": false, "word": "visit"}
+{"task": "reverse", "prompt": "Put the letters of provide in the opposite order.", "gold": "edivorp", "pred": "", "correct": false, "word": "provide"}
+{"task": "reverse", "prompt": "What do you get if you write always back to front?", "gold": "syawla", "pred": "q", "correct": false, "word": "always"}
+{"task": "reverse", "prompt": "What is the reverse of the word forest?", "gold": "tserof", "pred": "e", "correct": false, "word": "forest"}
+{"task": "reverse", "prompt": "Print the reverse of vital.", "gold": "lativ", "pred": "q", "correct": false, "word": "vital"}
+{"task": "reverse", "prompt": "Backwards, how does adventure read?", "gold": "erutnevda", "pred": "", "correct": false, "word": "adventure"}
+{"task": "reverse", "prompt": "Flip the letters of wrist.", "gold": "tsirw", "pred": "tsiri", "correct": false, "word": "wrist"}
+{"task": "reverse", "prompt": "How would shell look spelled in reverse order?", "gold": "llehs", "pred": "", "correct": false, "word": "shell"}
+{"task": "reverse", "prompt": "What do you get if you write checkers back to front?", "gold": "srekcehc", "pred": "", "correct": false, "word": "checkers"}
+{"task": "reverse", "prompt": "Can you write the word pepper backwards for me?", "gold": "reppep", "pred": "b p p p p p r r", "correct": false, "word": "pepper"}
+{"task": "reverse", "prompt": "What is the reverse of the word powder?", "gold": "redwop", "pred": "d", "correct": false, "word": "powder"}
+{"task": "reverse", "prompt": "How would royal look spelled in reverse order?", "gold": "layor", "pred": "", "correct": false, "word": "royal"}
+{"task": "reverse", "prompt": "Read history from right to left.", "gold": "yrotsih", "pred": "", "correct": false, "word": "history"}
+{"task": "reverse", "prompt": "Can you write the word cake backwards for me?", "gold": "ekac", "pred": "e a c e k k", "correct": false, "word": "cake"}
+{"task": "reverse", "prompt": "Print the reverse of trend.", "gold": "dnert", "pred": "fz", "correct": false, "word": "trend"}
+{"task": "reverse", "prompt": "Can you write the word forehead backwards for me?", "gold": "daeherof", "pred": "r r r", "correct": false, "word": "forehead"}
+{"task": "reverse", "prompt": "Turn staff around so the last letter comes first.", "gold": "ffats", "pred": "s", "correct": false, "word": "staff"}
+{"task": "reverse", "prompt": "Backwards, how does telescope read?", "gold": "epocselet", "pred": "", "correct": false, "word": "telescope"}
+{"task": "reverse", "prompt": "Give me truly in reverse.", "gold": "ylurt", "pred": "yt", "correct": false, "word": "truly"}
+{"task": "reverse", "prompt": "Give me launch in reverse.", "gold": "hcnual", "pred": "n", "correct": false, "word": "launch"}
+{"task": "reverse", "prompt": "Flip the letters of sleepy.", "gold": "ypeels", "pred": "p", "correct": false, "word": "sleepy"}
+{"task": "reverse", "prompt": "Write \"canyon\" in reverse.", "gold": "noynac", "pred": "noc", "correct": false, "word": "canyon"}
+{"task": "reverse", "prompt": "Turn wide around so the last letter comes first.", "gold": "ediw", "pred": "u", "correct": false, "word": "wide"}
+{"task": "reverse", "prompt": "Turn cake around so the last letter comes first.", "gold": "ekac", "pred": "u", "correct": false, "word": "cake"}
+{"task": "reverse", "prompt": "Can you write the word kettle backwards for me?", "gold": "elttek", "pred": "t", "correct": false, "word": "kettle"}
+{"task": "reverse", "prompt": "Put the letters of thought in the opposite order.", "gold": "thguoht", "pred": "h", "correct": false, "word": "thought"}
+{"task": "reverse", "prompt": "How would belong look spelled in reverse order?", "gold": "gnoleb", "pred": "g o g", "correct": false, "word": "belong"}
+{"task": "reverse", "prompt": "Write \"folder\" in reverse.", "gold": "redlof", "pred": "rff", "correct": false, "word": "folder"}
+{"task": "reverse", "prompt": "Flip the letters of today.", "gold": "yadot", "pred": "y", "correct": false, "word": "today"}
+{"task": "reverse", "prompt": "Can you write the word scheme backwards for me?", "gold": "emehcs", "pred": "b s h h e e e", "correct": false, "word": "scheme"}
+{"task": "reverse", "prompt": "Turn cliff around so the last letter comes first.", "gold": "ffilc", "pred": "c", "correct": false, "word": "cliff"}
+{"task": "reverse", "prompt": "Print the reverse of basketball.", "gold": "llabteksab", "pred": "b", "correct": false, "word": "basketball"}
+{"task": "reverse", "prompt": "Can you write the word basketball backwards for me?", "gold": "llabteksab", "pred": "b", "correct": false, "word": "basketball"}
+{"task": "reverse", "prompt": "Read stomach from right to left.", "gold": "hcamots", "pred": "", "correct": false, "word": "stomach"}
+{"task": "reverse", "prompt": "Print the reverse of wealth.", "gold": "htlaew", "pred": "e", "correct": false, "word": "wealth"}
+{"task": "reverse", "prompt": "Turn strange around so the last letter comes first.", "gold": "egnarts", "pred": "s", "correct": false, "word": "strange"}
+{"task": "reverse", "prompt": "How would shovel look spelled in reverse order?", "gold": "levohs", "pred": "", "correct": false, "word": "shovel"}
+{"task": "reverse", "prompt": "Can you write the word provide backwards for me?", "gold": "edivorp", "pred": "b b r o v e", "correct": false, "word": "provide"}
+{"task": "reverse", "prompt": "What do you get if you write history back to front?", "gold": "yrotsih", "pred": "", "correct": false, "word": "history"}
+{"task": "reverse", "prompt": "What do you get if you write basketball back to front?", "gold": "llabteksab", "pred": "a", "correct": false, "word": "basketball"}
+{"task": "reverse", "prompt": "How would basement look spelled in reverse order?", "gold": "tnemesab", "pred": "t e", "correct": false, "word": "basement"}
+{"task": "reverse", "prompt": "What is the reverse of the word wide?", "gold": "ediw", "pred": "e", "correct": false, "word": "wide"}
+{"task": "reverse", "prompt": "Put the letters of baby in the opposite order.", "gold": "ybab", "pred": "l", "correct": false, "word": "baby"}
+{"task": "reverse", "prompt": "What do you get if you write launch back to front?", "gold": "hcnual", "pred": "qf", "correct": false, "word": "launch"}
+{"task": "reverse", "prompt": "Print the reverse of depend.", "gold": "dneped", "pred": "z", "correct": false, "word": "depend"}
+{"task": "reverse", "prompt": "Backwards, how does resist read?", "gold": "tsiser", "pred": "0", "correct": false, "word": "resist"}
+{"task": "reverse", "prompt": "How would deep look spelled in reverse order?", "gold": "peed", "pred": "b", "correct": false, "word": "deep"}
+{"task": "reverse", "prompt": "Flip the letters of airport.", "gold": "tropria", "pred": "oropriaa p", "correct": false, "word": "airport"}
+{"task": "reverse", "prompt": "Give me human in reverse.", "gold": "namuh", "pred": "nofaaah", "correct": false, "word": "human"}
+{"task": "reverse", "prompt": "What is the reverse of the word pebble?", "gold": "elbbep", "pred": "b", "correct": false, "word": "pebble"}
+{"task": "reverse", "prompt": "What is the reverse of the word three?", "gold": "eerht", "pred": "e", "correct": false, "word": "three"}
+{"task": "reverse", "prompt": "Put the letters of nurse in the opposite order.", "gold": "esrun", "pred": "e", "correct": false, "word": "nurse"}
+{"task": "reverse", "prompt": "Flip the letters of style.", "gold": "elyts", "pred": "elytsss", "correct": false, "word": "style"}
+{"task": "reverse", "prompt": "Print the reverse of airplane.", "gold": "enalpria", "pred": "x", "correct": false, "word": "airplane"}
+{"task": "reverse", "prompt": "Backwards, how does airport read?", "gold": "tropria", "pred": "0", "correct": false, "word": "airport"}
+{"task": "reverse", "prompt": "Give me trend in reverse.", "gold": "dnert", "pred": "defnnrt", "correct": false, "word": "trend"}
+{"task": "reverse", "prompt": "What is the reverse of the word nurse?", "gold": "esrun", "pred": "s", "correct": false, "word": "nurse"}
+{"task": "reverse", "prompt": "Backwards, how does pepper read?", "gold": "reppep", "pred": "", "correct": false, "word": "pepper"}
+{"task": "reverse", "prompt": "Can you write the word snowfall backwards for me?", "gold": "llafwons", "pred": "f", "correct": false, "word": "snowfall"}
+{"task": "reverse", "prompt": "Backwards, how does village read?", "gold": "egalliv", "pred": "0", "correct": false, "word": "village"}
+{"task": "reverse", "prompt": "Read jumbo from right to left.", "gold": "obmuj", "pred": "oo", "correct": false, "word": "jumbo"}
+{"task": "reverse", "prompt": "Put the letters of opinion in the opposite order.", "gold": "noinipo", "pred": "", "correct": false, "word": "opinion"}
+{"task": "reverse", "prompt": "How would obtain look spelled in reverse order?", "gold": "niatbo", "pred": "", "correct": false, "word": "obtain"}
+{"task": "reverse", "prompt": "Write \"walking\" in reverse.", "gold": "gniklaw", "pred": "dw", "correct": false, "word": "walking"}
+{"task": "reverse", "prompt": "Flip the letters of juice.", "gold": "eciuj", "pred": "e", "correct": false, "word": "juice"}
+{"task": "reverse", "prompt": "Print the reverse of fifteen.", "gold": "neetfif", "pred": "f", "correct": false, "word": "fifteen"}
+{"task": "nth", "prompt": "Which character is at position 5 in submarine?", "gold": "a", "pred": "0", "correct": false, "word": "submarine"}
+{"task": "nth", "prompt": "Of the letters in bedroom, which is 3rd?", "gold": "d", "pred": "o", "correct": false, "word": "bedroom"}
+{"task": "nth", "prompt": "In almond, which letter is sixth?", "gold": "d", "pred": "", "correct": false, "word": "almond"}
+{"task": "nth", "prompt": "Of the letters in waffle, which is fourth?", "gold": "f", "pred": "", "correct": false, "word": "waffle"}
+{"task": "nth", "prompt": "shark: what's the second character?", "gold": "h", "pred": "aauaaa", "correct": false, "word": "shark"}
+{"task": "nth", "prompt": "Find the 4th letter of \"truly\".", "gold": "l", "pred": "y", "correct": false, "word": "truly"}
+{"task": "nth", "prompt": "What letter is in position 4 of the word medium?", "gold": "i", "pred": "d", "correct": false, "word": "medium"}
+{"task": "nth", "prompt": "Pick out the 1st letter from submarine.", "gold": "s", "pred": "0", "correct": false, "word": "submarine"}
+{"task": "nth", "prompt": "What's letter number 6 of mailbox?", "gold": "o", "pred": "", "correct": false, "word": "mailbox"}
+{"task": "nth", "prompt": "airplane: what's the fourth character?", "gold": "p", "pred": "e", "correct": false, "word": "airplane"}
+{"task": "nth", "prompt": "Find the third letter of \"magnet\".", "gold": "g", "pred": "a", "correct": false, "word": "magnet"}
+{"task": "nth", "prompt": "What's letter number 2 of chosen?", "gold": "h", "pred": "", "correct": false, "word": "chosen"}
+{"task": "nth", "prompt": "reflect: what's the fifth character?", "gold": "e", "pred": "r", "correct": false, "word": "reflect"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 2 in cheese?", "gold": "h", "pred": "0", "correct": false, "word": "cheese"}
+{"task": "nth", "prompt": "Which letter comes third in the word tomato?", "gold": "m", "pred": "o", "correct": false, "word": "tomato"}
+{"task": "nth", "prompt": "Pick out the 4th letter from baby.", "gold": "y", "pred": "y", "correct": true, "word": "baby"}
+{"task": "nth", "prompt": "thing: what's the third character?", "gold": "i", "pred": "au gn g g n", "correct": false, "word": "thing"}
+{"task": "nth", "prompt": "Can you tell me the third letter in curtain?", "gold": "r", "pred": "a", "correct": false, "word": "curtain"}
+{"task": "nth", "prompt": "Find the seventh letter of \"produce\".", "gold": "e", "pred": "c", "correct": false, "word": "produce"}
+{"task": "nth", "prompt": "What letter is in position 5 of the word mailbox?", "gold": "b", "pred": "b", "correct": true, "word": "mailbox"}
+{"task": "nth", "prompt": "Looking at talking, what is its 5th letter?", "gold": "i", "pred": "", "correct": false, "word": "talking"}
+{"task": "nth", "prompt": "Can you tell me the seventh letter in thousand?", "gold": "n", "pred": "u", "correct": false, "word": "thousand"}
+{"task": "nth", "prompt": "In sleepy, which letter is 1st?", "gold": "s", "pred": "", "correct": false, "word": "sleepy"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 1 in round?", "gold": "r", "pred": "1", "correct": false, "word": "round"}
+{"task": "nth", "prompt": "Looking at planting, what is its eighth letter?", "gold": "g", "pred": "", "correct": false, "word": "planting"}
+{"task": "nth", "prompt": "Pick out the sixth letter from belong.", "gold": "g", "pred": "g", "correct": true, "word": "belong"}
+{"task": "nth", "prompt": "Looking at airplane, what is its fourth letter?", "gold": "p", "pred": "", "correct": false, "word": "airplane"}
+{"task": "nth", "prompt": "Which letter comes sixth in the word banana?", "gold": "a", "pred": "", "correct": false, "word": "banana"}
+{"task": "nth", "prompt": "shell: what's the fifth character?", "gold": "l", "pred": "e l l l l o", "correct": false, "word": "shell"}
+{"task": "nth", "prompt": "In might, which letter is 2nd?", "gold": "i", "pred": "h h", "correct": false, "word": "might"}
+{"task": "nth", "prompt": "cactus: what's the first character?", "gold": "c", "pred": "c u u t s c c", "correct": false, "word": "cactus"}
+{"task": "nth", "prompt": "Pick out the 6th letter from canvas.", "gold": "s", "pred": "s", "correct": true, "word": "canvas"}
+{"task": "nth", "prompt": "Of the letters in drizzle, which is 6th?", "gold": "l", "pred": "", "correct": false, "word": "drizzle"}
+{"task": "nth", "prompt": "What letter is in position 4 of the word royal?", "gold": "a", "pred": "l", "correct": false, "word": "royal"}
+{"task": "nth", "prompt": "Can you tell me the first letter in growth?", "gold": "g", "pred": "o", "correct": false, "word": "growth"}
+{"task": "nth", "prompt": "Pick out the 3rd letter from snowfall.", "gold": "o", "pred": "o", "correct": true, "word": "snowfall"}
+{"task": "nth", "prompt": "Pick out the fifth letter from pepper.", "gold": "e", "pred": "", "correct": false, "word": "pepper"}
+{"task": "nth", "prompt": "Looking at pepper, what is its 5th letter?", "gold": "e", "pred": "", "correct": false, "word": "pepper"}
+{"task": "nth", "prompt": "Find the 2nd letter of \"trumpet\".", "gold": "r", "pred": "r", "correct": true, "word": "trumpet"}
+{"task": "nth", "prompt": "Which character is at position 4 in always?", "gold": "a", "pred": "0", "correct": false, "word": "always"}
+{"task": "nth", "prompt": "Find the 5th letter of \"jumbo\".", "gold": "o", "pred": "b", "correct": false, "word": "jumbo"}
+{"task": "nth", "prompt": "Which letter comes second in the word today?", "gold": "o", "pred": "", "correct": false, "word": "today"}
+{"task": "nth", "prompt": "pepper: what's the fifth character?", "gold": "e", "pred": "p err r p p p", "correct": false, "word": "pepper"}
+{"task": "nth", "prompt": "Find the 2nd letter of \"wrench\".", "gold": "r", "pred": "r", "correct": true, "word": "wrench"}
+{"task": "nth", "prompt": "Pick out the second letter from drizzle.", "gold": "r", "pred": "r", "correct": true, "word": "drizzle"}
+{"task": "nth", "prompt": "Which letter comes 3rd in the word forest?", "gold": "r", "pred": "f", "correct": false, "word": "forest"}
+{"task": "nth", "prompt": "Of the letters in shark, which is second?", "gold": "h", "pred": "", "correct": false, "word": "shark"}
+{"task": "nth", "prompt": "Find the 1st letter of \"tomato\".", "gold": "t", "pred": "t", "correct": true, "word": "tomato"}
+{"task": "nth", "prompt": "Of the letters in always, which is sixth?", "gold": "s", "pred": "", "correct": false, "word": "always"}
+{"task": "nth", "prompt": "Which character is at position 5 in reading?", "gold": "i", "pred": "0", "correct": false, "word": "reading"}
+{"task": "nth", "prompt": "Which letter comes third in the word scheme?", "gold": "h", "pred": "0", "correct": false, "word": "scheme"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 3 in guest?", "gold": "e", "pred": "0", "correct": false, "word": "guest"}
+{"task": "nth", "prompt": "sight: what's the 1st character?", "gold": "s", "pred": "g t t t h g", "correct": false, "word": "sight"}
+{"task": "nth", "prompt": "Can you tell me the fifth letter in resist?", "gold": "s", "pred": "s", "correct": true, "word": "resist"}
+{"task": "nth", "prompt": "Pick out the first letter from smell.", "gold": "s", "pred": "s", "correct": true, "word": "smell"}
+{"task": "nth", "prompt": "Can you tell me the 1st letter in running?", "gold": "r", "pred": "u", "correct": false, "word": "running"}
+{"task": "nth", "prompt": "Of the letters in chocolate, which is second?", "gold": "h", "pred": "", "correct": false, "word": "chocolate"}
+{"task": "nth", "prompt": "In glance, which letter is second?", "gold": "l", "pred": "", "correct": false, "word": "glance"}
+{"task": "nth", "prompt": "Looking at thought, what is its third letter?", "gold": "o", "pred": "", "correct": false, "word": "thought"}
+{"task": "nth", "prompt": "Of the letters in become, which is third?", "gold": "c", "pred": "", "correct": false, "word": "become"}
+{"task": "nth", "prompt": "Can you tell me the 6th letter in village?", "gold": "g", "pred": "b", "correct": false, "word": "village"}
+{"task": "nth", "prompt": "Looking at anxious, what is its fourth letter?", "gold": "i", "pred": "", "correct": false, "word": "anxious"}
+{"task": "nth", "prompt": "Find the 6th letter of \"permit\".", "gold": "t", "pred": "i", "correct": false, "word": "permit"}
+{"task": "nth", "prompt": "Pick out the 5th letter from trumpet.", "gold": "p", "pred": "t", "correct": false, "word": "trumpet"}
+{"task": "nth", "prompt": "What's letter number 2 of candle?", "gold": "a", "pred": "", "correct": false, "word": "candle"}
+{"task": "nth", "prompt": "What letter is in position 6 of the word pencil?", "gold": "l", "pred": "i", "correct": false, "word": "pencil"}
+{"task": "nth", "prompt": "What letter is in position 5 of the word launch?", "gold": "c", "pred": "a", "correct": false, "word": "launch"}
+{"task": "nth", "prompt": "Looking at driver, what is its 6th letter?", "gold": "r", "pred": "", "correct": false, "word": "driver"}
+{"task": "nth", "prompt": "guest: what's the fourth character?", "gold": "s", "pred": "el tts f", "correct": false, "word": "guest"}
+{"task": "nth", "prompt": "Can you tell me the third letter in picnic?", "gold": "c", "pred": "i", "correct": false, "word": "picnic"}
+{"task": "nth", "prompt": "What letter is in position 6 of the word basketball?", "gold": "t", "pred": "a", "correct": false, "word": "basketball"}
+{"task": "nth", "prompt": "Looking at jigsaw, what is its 2nd letter?", "gold": "i", "pred": "1", "correct": false, "word": "jigsaw"}
+{"task": "nth", "prompt": "Looking at magnet, what is its 2nd letter?", "gold": "a", "pred": "", "correct": false, "word": "magnet"}
+{"task": "nth", "prompt": "Can you tell me the fifth letter in shark?", "gold": "k", "pred": "a", "correct": false, "word": "shark"}
+{"task": "nth", "prompt": "In theme, which letter is 2nd?", "gold": "h", "pred": "m", "correct": false, "word": "theme"}
+{"task": "nth", "prompt": "Which character is at position 5 in music?", "gold": "c", "pred": "0", "correct": false, "word": "music"}
+{"task": "nth", "prompt": "What's letter number 2 of cricket?", "gold": "r", "pred": "", "correct": false, "word": "cricket"}
+{"task": "nth", "prompt": "Which letter comes second in the word around?", "gold": "r", "pred": "", "correct": false, "word": "around"}
+{"task": "nth", "prompt": "In scissors, which letter is first?", "gold": "s", "pred": "", "correct": false, "word": "scissors"}
+{"task": "nth", "prompt": "In style, which letter is first?", "gold": "s", "pred": "t y l l e", "correct": false, "word": "style"}
+{"task": "nth", "prompt": "In basement, which letter is 8th?", "gold": "t", "pred": "", "correct": false, "word": "basement"}
+{"task": "nth", "prompt": "What letter is in position 1 of the word novel?", "gold": "n", "pred": "l", "correct": false, "word": "novel"}
+{"task": "nth", "prompt": "Pick out the 3rd letter from watermelon.", "gold": "t", "pred": "m", "correct": false, "word": "watermelon"}
+{"task": "nth", "prompt": "Of the letters in respect, which is 1st?", "gold": "r", "pred": "", "correct": false, "word": "respect"}
+{"task": "nth", "prompt": "Of the letters in running, which is second?", "gold": "u", "pred": "", "correct": false, "word": "running"}
+{"task": "nth", "prompt": "Find the 3rd letter of \"checkers\".", "gold": "e", "pred": "c", "correct": false, "word": "checkers"}
+{"task": "nth", "prompt": "frame: what's the fourth character?", "gold": "m", "pred": "alueee", "correct": false, "word": "frame"}
+{"task": "nth", "prompt": "Find the fourth letter of \"scheme\".", "gold": "e", "pred": "h", "correct": false, "word": "scheme"}
+{"task": "nth", "prompt": "Which character is at position 4 in modern?", "gold": "e", "pred": "0", "correct": false, "word": "modern"}
+{"task": "nth", "prompt": "What letter is in position 4 of the word wrench?", "gold": "n", "pred": "h", "correct": false, "word": "wrench"}
+{"task": "nth", "prompt": "What's letter number 7 of dancing?", "gold": "g", "pred": "", "correct": false, "word": "dancing"}
+{"task": "nth", "prompt": "What letter is in position 4 of the word view?", "gold": "w", "pred": "e", "correct": false, "word": "view"}
+{"task": "nth", "prompt": "What's letter number 1 of swan?", "gold": "s", "pred": "n", "correct": false, "word": "swan"}
+{"task": "nth", "prompt": "In walnut, which letter is first?", "gold": "w", "pred": "w", "correct": true, "word": "walnut"}
+{"task": "nth", "prompt": "What's letter number 3 of depend?", "gold": "p", "pred": "e", "correct": false, "word": "depend"}
+{"task": "nth", "prompt": "Of the letters in obtain, which is 4th?", "gold": "a", "pred": "", "correct": false, "word": "obtain"}
+{"task": "nth", "prompt": "What letter is in position 1 of the word zone?", "gold": "z", "pred": "n", "correct": false, "word": "zone"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 3 in scissors?", "gold": "i", "pred": "1", "correct": false, "word": "scissors"}
+{"task": "nth", "prompt": "In growth, which letter is fifth?", "gold": "t", "pred": "", "correct": false, "word": "growth"}
+{"task": "nth", "prompt": "Find the second letter of \"basket\".", "gold": "a", "pred": "b", "correct": false, "word": "basket"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 4 in smart?", "gold": "r", "pred": "1", "correct": false, "word": "smart"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 6 in chosen?", "gold": "n", "pred": "0", "correct": false, "word": "chosen"}
+{"task": "nth", "prompt": "Looking at empty, what is its 1st letter?", "gold": "e", "pred": "1", "correct": false, "word": "empty"}
+{"task": "nth", "prompt": "Looking at resist, what is its sixth letter?", "gold": "t", "pred": "1", "correct": false, "word": "resist"}
+{"task": "nth", "prompt": "In crayon, which letter is sixth?", "gold": "n", "pred": "", "correct": false, "word": "crayon"}
+{"task": "nth", "prompt": "What's letter number 2 of period?", "gold": "e", "pred": "", "correct": false, "word": "period"}
+{"task": "nth", "prompt": "What letter is in position 10 of the word basketball?", "gold": "l", "pred": "k", "correct": false, "word": "basketball"}
+{"task": "nth", "prompt": "Which character is at position 1 in round?", "gold": "r", "pred": "1", "correct": false, "word": "round"}
+{"task": "nth", "prompt": "Pick out the second letter from walking.", "gold": "a", "pred": "1a", "correct": false, "word": "walking"}
+{"task": "nth", "prompt": "adventure: what's the 4th character?", "gold": "e", "pred": "v r u", "correct": false, "word": "adventure"}
+{"task": "nth", "prompt": "Looking at visit, what is its 1st letter?", "gold": "v", "pred": "1", "correct": false, "word": "visit"}
+{"task": "nth", "prompt": "In coin, which letter is 2nd?", "gold": "o", "pred": "i", "correct": false, "word": "coin"}
+{"task": "nth", "prompt": "In opinion, which letter is third?", "gold": "i", "pred": "", "correct": false, "word": "opinion"}
+{"task": "nth", "prompt": "Can you tell me the 5th letter in taste?", "gold": "e", "pred": "t", "correct": false, "word": "taste"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 2 in grocery?", "gold": "r", "pred": "", "correct": false, "word": "grocery"}
+{"task": "nth", "prompt": "Which character is at position 1 in canyon?", "gold": "c", "pred": "0", "correct": false, "word": "canyon"}
+{"task": "nth", "prompt": "Looking at measure, what is its third letter?", "gold": "a", "pred": "", "correct": false, "word": "measure"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 2 in climate?", "gold": "l", "pred": "0", "correct": false, "word": "climate"}
+{"task": "nth", "prompt": "yard: what's the 1st character?", "gold": "y", "pred": "rr y  ", "correct": false, "word": "yard"}
+{"task": "nth", "prompt": "potato: what's the 4th character?", "gold": "a", "pred": "t t t t o", "correct": false, "word": "potato"}
+{"task": "nth", "prompt": "In spring, which letter is second?", "gold": "p", "pred": "", "correct": false, "word": "spring"}
+{"task": "nth", "prompt": "In anxious, which letter is 3rd?", "gold": "x", "pred": "0", "correct": false, "word": "anxious"}
+{"task": "nth", "prompt": "Of the letters in visit, which is 1st?", "gold": "v", "pred": "", "correct": false, "word": "visit"}
+{"task": "nth", "prompt": "What letter is in position 5 of the word meadow?", "gold": "o", "pred": "o", "correct": true, "word": "meadow"}
+{"task": "nth", "prompt": "Which letter comes first in the word launch?", "gold": "l", "pred": "", "correct": false, "word": "launch"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 2 in measure?", "gold": "e", "pred": "m", "correct": false, "word": "measure"}
+{"task": "nth", "prompt": "complete: what's the 3rd character?", "gold": "m", "pred": "a", "correct": false, "word": "complete"}
+{"task": "nth", "prompt": "canvas: what's the sixth character?", "gold": "s", "pred": "n aos t", "correct": false, "word": "canvas"}
+{"task": "nth", "prompt": "Which letter comes second in the word dancing?", "gold": "a", "pred": "0", "correct": false, "word": "dancing"}
+{"task": "nth", "prompt": "Pick out the fourth letter from royal.", "gold": "a", "pred": "a", "correct": true, "word": "royal"}
+{"task": "nth", "prompt": "Of the letters in script, which is 4th?", "gold": "i", "pred": "", "correct": false, "word": "script"}
+{"task": "nth", "prompt": "What's letter number 2 of chosen?", "gold": "h", "pred": "", "correct": false, "word": "chosen"}
+{"task": "nth", "prompt": "Looking at view, what is its 2nd letter?", "gold": "i", "pred": "1", "correct": false, "word": "view"}
+{"task": "nth", "prompt": "planting: what's the 2nd character?", "gold": "l", "pred": "a", "correct": false, "word": "planting"}
+{"task": "nth", "prompt": "spring: what's the 4th character?", "gold": "i", "pred": "r n n n a a n", "correct": false, "word": "spring"}
+{"task": "nth", "prompt": "Find the fifth letter of \"resist\".", "gold": "s", "pred": "t", "correct": false, "word": "resist"}
+{"task": "nth", "prompt": "Find the 3rd letter of \"thought\".", "gold": "o", "pred": "u", "correct": false, "word": "thought"}
+{"task": "nth", "prompt": "In drizzle, which letter is 1st?", "gold": "d", "pred": "", "correct": false, "word": "drizzle"}
+{"task": "nth", "prompt": "Find the second letter of \"sailboat\".", "gold": "a", "pred": "s", "correct": false, "word": "sailboat"}
+{"task": "nth", "prompt": "Can you tell me the third letter in mailbox?", "gold": "i", "pred": "b", "correct": false, "word": "mailbox"}
+{"task": "nth", "prompt": "Find the 2nd letter of \"magnet\".", "gold": "a", "pred": "a", "correct": true, "word": "magnet"}
+{"task": "nth", "prompt": "Find the fifth letter of \"might\".", "gold": "t", "pred": "", "correct": false, "word": "might"}
+{"task": "nth", "prompt": "Can you tell me the 1st letter in opinion?", "gold": "o", "pred": "i", "correct": false, "word": "opinion"}
+{"task": "nth", "prompt": "Find the third letter of \"round\".", "gold": "u", "pred": "o", "correct": false, "word": "round"}
+{"task": "nth", "prompt": "Which character is at position 2 in sailboat?", "gold": "a", "pred": "1", "correct": false, "word": "sailboat"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 4 in climate?", "gold": "m", "pred": "0", "correct": false, "word": "climate"}
+{"task": "nth", "prompt": "Pick out the 5th letter from marble.", "gold": "l", "pred": "l", "correct": true, "word": "marble"}
+{"task": "nth", "prompt": "In running, which letter is fourth?", "gold": "n", "pred": "", "correct": false, "word": "running"}
+{"task": "nth", "prompt": "What's letter number 4 of depend?", "gold": "e", "pred": "e", "correct": true, "word": "depend"}
+{"task": "nth", "prompt": "Which character is at position 7 in scissors?", "gold": "r", "pred": "0", "correct": false, "word": "scissors"}
+{"task": "nth", "prompt": "What's letter number 4 of smart?", "gold": "r", "pred": "r", "correct": true, "word": "smart"}
+{"task": "nth", "prompt": "What's letter number 4 of cliff?", "gold": "f", "pred": "f", "correct": true, "word": "cliff"}
+{"task": "nth", "prompt": "Find the 3rd letter of \"juice\".", "gold": "i", "pred": "c", "correct": false, "word": "juice"}
+{"task": "nth", "prompt": "Can you tell me the 5th letter in memory?", "gold": "r", "pred": "o", "correct": false, "word": "memory"}
+{"task": "nth", "prompt": "Which character is at position 2 in view?", "gold": "i", "pred": "0", "correct": false, "word": "view"}
+{"task": "nth", "prompt": "What letter is in position 2 of the word view?", "gold": "i", "pred": "e", "correct": false, "word": "view"}
+{"task": "nth", "prompt": "math: what's the 3rd character?", "gold": "t", "pred": "to", "correct": false, "word": "math"}
+{"task": "nth", "prompt": "Of the letters in picnic, which is fourth?", "gold": "n", "pred": "", "correct": false, "word": "picnic"}
+{"task": "nth", "prompt": "Which letter comes first in the word opinion?", "gold": "o", "pred": "", "correct": false, "word": "opinion"}
+{"task": "nth", "prompt": "Pick out the 2nd letter from memory.", "gold": "e", "pred": "e", "correct": true, "word": "memory"}
+{"task": "nth", "prompt": "Of the letters in theme, which is 3rd?", "gold": "e", "pred": "", "correct": false, "word": "theme"}
+{"task": "nth", "prompt": "tuesday: what's the 1st character?", "gold": "t", "pred": "u a r u ", "correct": false, "word": "tuesday"}
+{"task": "nth", "prompt": "In cabbage, which letter is 6th?", "gold": "g", "pred": "", "correct": false, "word": "cabbage"}
+{"task": "nth", "prompt": "Which letter comes 5th in the word humid?", "gold": "d", "pred": "0", "correct": false, "word": "humid"}
+{"task": "nth", "prompt": "Which character is at position 6 in watermelon?", "gold": "m", "pred": "0", "correct": false, "word": "watermelon"}
+{"task": "nth", "prompt": "Of the letters in strange, which is fifth?", "gold": "n", "pred": "", "correct": false, "word": "strange"}
+{"task": "nth", "prompt": "Which letter comes first in the word script?", "gold": "s", "pred": "0", "correct": false, "word": "script"}
+{"task": "nth", "prompt": "tuesday: what's the 6th character?", "gold": "a", "pred": "e a r u s e a e y", "correct": false, "word": "tuesday"}
+{"task": "nth", "prompt": "What's letter number 4 of tomato?", "gold": "a", "pred": "a", "correct": true, "word": "tomato"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 1 in swan?", "gold": "s", "pred": "0", "correct": false, "word": "swan"}
+{"task": "nth", "prompt": "What's letter number 1 of strict?", "gold": "s", "pred": "c", "correct": false, "word": "strict"}
+{"task": "nth", "prompt": "Pick out the 4th letter from jumbo.", "gold": "b", "pred": "", "correct": false, "word": "jumbo"}
+{"task": "nth", "prompt": "What letter is in position 1 of the word truly?", "gold": "t", "pred": "r", "correct": false, "word": "truly"}
+{"task": "nth", "prompt": "Find the first letter of \"powder\".", "gold": "p", "pred": "b", "correct": false, "word": "powder"}
+{"task": "nth", "prompt": "Which letter comes third in the word yard?", "gold": "r", "pred": "a", "correct": false, "word": "yard"}
+{"task": "nth", "prompt": "Looking at rugby, what is its 4th letter?", "gold": "b", "pred": "", "correct": false, "word": "rugby"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 8 in merchant?", "gold": "t", "pred": "0", "correct": false, "word": "merchant"}
+{"task": "nth", "prompt": "Of the letters in wrong, which is second?", "gold": "r", "pred": "", "correct": false, "word": "wrong"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 3 in usual?", "gold": "u", "pred": "1", "correct": false, "word": "usual"}
+{"task": "nth", "prompt": "Find the 1st letter of \"satisfy\".", "gold": "s", "pred": "s", "correct": true, "word": "satisfy"}
+{"task": "nth", "prompt": "In rugby, which letter is third?", "gold": "g", "pred": "b", "correct": false, "word": "rugby"}
+{"task": "nth", "prompt": "What letter is in position 2 of the word belong?", "gold": "e", "pred": "n", "correct": false, "word": "belong"}
+{"task": "nth", "prompt": "Can you tell me the fourth letter in magnet?", "gold": "n", "pred": "g", "correct": false, "word": "magnet"}
+{"task": "nth", "prompt": "Of the letters in marble, which is 6th?", "gold": "e", "pred": "", "correct": false, "word": "marble"}
+{"task": "nth", "prompt": "pebble: what's the 5th character?", "gold": "l", "pred": "ax l", "correct": false, "word": "pebble"}
+{"task": "nth", "prompt": "Which character is at position 1 in rugby?", "gold": "r", "pred": "0", "correct": false, "word": "rugby"}
+{"task": "nth", "prompt": "Which character is at position 4 in scarf?", "gold": "r", "pred": "0", "correct": false, "word": "scarf"}
+{"task": "nth", "prompt": "Can you tell me the 4th letter in magnet?", "gold": "n", "pred": "n", "correct": true, "word": "magnet"}
+{"task": "nth", "prompt": "Of the letters in deep, which is 3rd?", "gold": "e", "pred": "e", "correct": true, "word": "deep"}
+{"task": "nth", "prompt": "What letter is in position 2 of the word snowfall?", "gold": "n", "pred": "l", "correct": false, "word": "snowfall"}
+{"task": "nth", "prompt": "What letter is in position 6 of the word basement?", "gold": "e", "pred": "m", "correct": false, "word": "basement"}
+{"task": "nth", "prompt": "Find the fifth letter of \"vital\".", "gold": "l", "pred": "t", "correct": false, "word": "vital"}
+{"task": "nth", "prompt": "Which letter comes 4th in the word shark?", "gold": "r", "pred": "0", "correct": false, "word": "shark"}
+{"task": "nth", "prompt": "What letter is in position 1 of the word pepper?", "gold": "p", "pred": "p", "correct": true, "word": "pepper"}
+{"task": "nth", "prompt": "Looking at suffer, what is its 4th letter?", "gold": "f", "pred": "1", "correct": false, "word": "suffer"}
+{"task": "nth", "prompt": "Can you tell me the 1st letter in always?", "gold": "a", "pred": "b", "correct": false, "word": "always"}
+{"task": "nth", "prompt": "Starting from the left, what is letter 4 in zone?", "gold": "e", "pred": "1", "correct": false, "word": "zone"}
+{"task": "nth", "prompt": "In rapid, which letter is first?", "gold": "r", "pred": "r p i i", "correct": false, "word": "rapid"}
+{"task": "nth", "prompt": "Can you tell me the fourth letter in soup?", "gold": "p", "pred": "u", "correct": false, "word": "soup"}
+{"task": "nth", "prompt": "volleyball: what's the 4th character?", "gold": "l", "pred": " b l l l", "correct": false, "word": "volleyball"}
+{"task": "category", "prompt": "Out of bed, red, taxi, which one is a color?", "gold": "red", "pred": "red", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: lemon, blue. Which is a color?", "gold": "blue", "pred": "brown", "correct": false, "word": null}
+{"task": "category", "prompt": "Among grape, crimson, which would you call a fruit?", "gold": "grape", "pred": "fig", "correct": false, "word": null}
+{"task": "category", "prompt": "I have apple, monkey. Which is an animal?", "gold": "monkey", "pred": "monkey", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is an animal: brown, eagle, sofa?", "gold": "eagle", "pred": "eagle", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: cabinet, cherry. Which is a fruit?", "gold": "cherry", "pred": "cherry", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose an animal from these options: sofa, falcon.", "gold": "falcon", "pred": "goat", "correct": false, "word": null}
+{"task": "category", "prompt": "Here are some options: turtle, orange, turtle. Which is a fruit?", "gold": "orange", "pred": "orange", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: orange, boat.", "gold": "orange", "pred": "orange", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a vehicle from these options: parrot, lion, scooter.", "gold": "scooter", "pred": "boat", "correct": false, "word": null}
+{"task": "category", "prompt": "Identify a piece of furniture in this list: eagle, bed.", "gold": "bed", "pred": "lamp", "correct": false, "word": null}
+{"task": "category", "prompt": "Which item is a fruit: brown, bus, orange?", "gold": "orange", "pred": "orange", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: zebra, brown, mango.", "gold": "mango", "pred": "tiger", "correct": false, "word": null}
+{"task": "category", "prompt": "Between red, futon, what is a piece of furniture?", "gold": "futon", "pred": "futon", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a piece of furniture: pear, futon?", "gold": "futon", "pred": "sofa", "correct": false, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a vehicle: bookcase, boat, plum?", "gold": "boat", "pred": "boat", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a vehicle: lion, rocket?", "gold": "rocket", "pred": "bicycle", "correct": false, "word": null}
+{"task": "category", "prompt": "Here are some options: blue, shelf. Which is a color?", "gold": "blue", "pred": "brown", "correct": false, "word": null}
+{"task": "category", "prompt": "Identify a vehicle in this list: plum, scooter.", "gold": "scooter", "pred": "boat", "correct": false, "word": null}
+{"task": "category", "prompt": "Can you tell me which is an animal: goat, motorbike, gold?", "gold": "goat", "pred": "tiger", "correct": false, "word": null}
+{"task": "category", "prompt": "Among crimson, bookcase, motorbike, which would you call a color?", "gold": "crimson", "pred": "crimson", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is an animal: cherry, bicycle, rabbit?", "gold": "rabbit", "pred": "rabbit", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a color: grey, lamp?", "gold": "grey", "pred": "lamp", "correct": false, "word": null}
+{"task": "category", "prompt": "Among lamp, tram, gold, which would you call a vehicle?", "gold": "tram", "pred": "tram", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: train, horse. Which is an animal?", "gold": "horse", "pred": "goat", "correct": false, "word": null}
+{"task": "category", "prompt": "Between lamp, falcon, what is an animal?", "gold": "falcon", "pred": "falcon", "correct": true, "word": null}
+{"task": "category", "prompt": "Between van, mirror, what is a piece of furniture?", "gold": "mirror", "pred": "mirror", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of bookcase, plum, which one is a piece of furniture?", "gold": "bookcase", "pred": "bookcase", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is an animal: bed, monkey?", "gold": "monkey", "pred": "monkey", "correct": true, "word": null}
+{"task": "category", "prompt": "I have cabinet, ferry. Which is a vehicle?", "gold": "ferry", "pred": "ferry", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of wardrobe, van, which one is a vehicle?", "gold": "van", "pred": "van", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify a fruit in this list: bookcase, kiwi.", "gold": "kiwi", "pred": "apple", "correct": false, "word": null}
+{"task": "category", "prompt": "Select the one that is an animal: wardrobe, zebra.", "gold": "zebra", "pred": "wardrobe", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: orange, turquoise.", "gold": "orange", "pred": "orange", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is an animal: futon, parrot, peach.", "gold": "parrot", "pred": "parrot", "correct": true, "word": null}
+{"task": "category", "prompt": "Among plum, pear, van, which would you call a vehicle?", "gold": "van", "pred": "van", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify a vehicle in this list: wolf, ferry, bookcase.", "gold": "ferry", "pred": "ferry", "correct": true, "word": null}
+{"task": "category", "prompt": "Among scooter, lemon, which would you call a vehicle?", "gold": "scooter", "pred": "scooter", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of van, purple, which one is a vehicle?", "gold": "van", "pred": "van", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a color: table, brown?", "gold": "brown", "pred": "brown", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: spider, mirror. Which is a piece of furniture?", "gold": "mirror", "pred": "mirror", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify a piece of furniture in this list: lamp, violet, spider.", "gold": "lamp", "pred": "lamp", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of dolphin, car, plum, which one is a fruit?", "gold": "plum", "pred": "plum", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose an animal from these options: crimson, parrot, lime.", "gold": "parrot", "pred": "goat", "correct": false, "word": null}
+{"task": "category", "prompt": "Here are some options: wardrobe, truck. Which is a vehicle?", "gold": "truck", "pred": "boat", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose an animal from these options: brown, camel.", "gold": "camel", "pred": "zebra", "correct": false, "word": null}
+{"task": "category", "prompt": "Out of scooter, yellow, indigo, which one is a vehicle?", "gold": "scooter", "pred": "scooter", "correct": true, "word": null}
+{"task": "category", "prompt": "Between wardrobe, bicycle, what is a piece of furniture?", "gold": "wardrobe", "pred": "wardrobe", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of van, brown, table, which one is a piece of furniture?", "gold": "table", "pred": "table", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of white, horse, kiwi, which one is an animal?", "gold": "horse", "pred": "horse", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: horse, ferry, yellow. Which is a color?", "gold": "yellow", "pred": "violet", "correct": false, "word": null}
+{"task": "category", "prompt": "Between camel, car, what is an animal?", "gold": "camel", "pred": "camel", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a color from these options: indigo, mirror.", "gold": "indigo", "pred": "indigo", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a fruit: rocket, kiwi?", "gold": "kiwi", "pred": "apple", "correct": false, "word": null}
+{"task": "category", "prompt": "Which item is a piece of furniture: white, truck, dresser?", "gold": "dresser", "pred": "dresser", "correct": true, "word": null}
+{"task": "category", "prompt": "I have bus, turquoise, coconut. Which is a fruit?", "gold": "coconut", "pred": "coconut", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: cabinet, green, lemon.", "gold": "lemon", "pred": "donkey", "correct": false, "word": null}
+{"task": "category", "prompt": "Here are some options: black, falcon, orange. Which is an animal?", "gold": "falcon", "pred": "donkey", "correct": false, "word": null}
+{"task": "category", "prompt": "Among fig, purple, which would you call a fruit?", "gold": "fig", "pred": "fig", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: grape, wolf.", "gold": "grape", "pred": "sofa", "correct": false, "word": null}
+{"task": "category", "prompt": "Among spider, tractor, which would you call a vehicle?", "gold": "tractor", "pred": "tractor", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose an animal from these options: spider, apple.", "gold": "spider", "pred": "spider", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: black, orange, dresser. Which is a fruit?", "gold": "orange", "pred": "donkey", "correct": false, "word": null}
+{"task": "category", "prompt": "I have peach, desk. Which is a piece of furniture?", "gold": "desk", "pred": "desk", "correct": true, "word": null}
+{"task": "category", "prompt": "Among brown, lamp, spider, which would you call a color?", "gold": "brown", "pred": "brown", "correct": true, "word": null}
+{"task": "category", "prompt": "I have dresser, motorbike. Which is a vehicle?", "gold": "motorbike", "pred": "motorbike", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is an animal: horse, desk?", "gold": "horse", "pred": "desk", "correct": false, "word": null}
+{"task": "category", "prompt": "Among van, melon, donkey, which would you call a vehicle?", "gold": "van", "pred": "van", "correct": true, "word": null}
+{"task": "category", "prompt": "Among bed, boat, goat, which would you call a vehicle?", "gold": "boat", "pred": "boat", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is an animal: wolf, blue.", "gold": "wolf", "pred": "wolf", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a vehicle from these options: van, mirror.", "gold": "van", "pred": "van", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: falcon, peach. Which is a fruit?", "gold": "peach", "pred": "orange", "correct": false, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a piece of furniture: pink, lion, lamp?", "gold": "lamp", "pred": "lamp", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify an animal in this list: white, spider.", "gold": "spider", "pred": "spider", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify an animal in this list: lemon, dolphin.", "gold": "dolphin", "pred": "donkey", "correct": false, "word": null}
+{"task": "category", "prompt": "Identify a vehicle in this list: papaya, ferry, gold.", "gold": "ferry", "pred": "ferry", "correct": true, "word": null}
+{"task": "category", "prompt": "Between cabinet, parrot, what is a piece of furniture?", "gold": "cabinet", "pred": "cabinet", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: pear, red.", "gold": "pear", "pred": "pear", "correct": true, "word": null}
+{"task": "category", "prompt": "Between truck, red, bench, what is a piece of furniture?", "gold": "bench", "pred": "bench", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is an animal: crimson, donkey.", "gold": "donkey", "pred": "donkey", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is a fruit: cherry, spider, wardrobe.", "gold": "cherry", "pred": "stool", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a piece of furniture from these options: bench, van, grape.", "gold": "bench", "pred": "eagle", "correct": false, "word": null}
+{"task": "category", "prompt": "Which item is a vehicle: stool, tractor?", "gold": "tractor", "pred": "tractor", "correct": true, "word": null}
+{"task": "category", "prompt": "Among mango, jeep, which would you call a vehicle?", "gold": "jeep", "pred": "jeep", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose an animal from these options: bicycle, ferry, zebra.", "gold": "zebra", "pred": "zebra", "correct": true, "word": null}
+{"task": "category", "prompt": "I have camel, desk. Which is a piece of furniture?", "gold": "desk", "pred": "desk", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: black, cherry. Which is a color?", "gold": "black", "pred": "brown", "correct": false, "word": null}
+{"task": "category", "prompt": "Which item is a fruit: violet, apricot?", "gold": "apricot", "pred": "apricot", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is a vehicle: desk, taxi, kiwi.", "gold": "taxi", "pred": "ferry", "correct": false, "word": null}
+{"task": "category", "prompt": "Among peach, brown, red, which would you call a fruit?", "gold": "peach", "pred": "apple", "correct": false, "word": null}
+{"task": "category", "prompt": "Identify an animal in this list: cherry, rabbit, ship.", "gold": "rabbit", "pred": "rabbit", "correct": true, "word": null}
+{"task": "category", "prompt": "Between bench, white, plum, what is a color?", "gold": "white", "pred": "white", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of futon, donkey, which one is a piece of furniture?", "gold": "futon", "pred": "futon", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify a vehicle in this list: goat, truck, maroon.", "gold": "truck", "pred": "boat", "correct": false, "word": null}
+{"task": "category", "prompt": "Between pink, melon, what is a fruit?", "gold": "melon", "pred": "plum", "correct": false, "word": null}
+{"task": "category", "prompt": "Out of bus, stool, which one is a vehicle?", "gold": "bus", "pred": "bus", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is a piece of furniture: chair, spider, crimson.", "gold": "chair", "pred": "chair", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is an animal: couch, dolphin.", "gold": "dolphin", "pred": "white", "correct": false, "word": null}
+{"task": "category", "prompt": "I have desk, dolphin, tram. Which is a piece of furniture?", "gold": "desk", "pred": "desk", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is an animal: kiwi, lion, red?", "gold": "lion", "pred": "tiger", "correct": false, "word": null}
+{"task": "category", "prompt": "Which item is an animal: turtle, rocket?", "gold": "turtle", "pred": "turtle", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: bench, motorbike. Which is a piece of furniture?", "gold": "bench", "pred": "", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a piece of furniture from these options: dresser, kiwi.", "gold": "dresser", "pred": "dresser", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of desk, van, apricot, which one is a vehicle?", "gold": "van", "pred": "van", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of monkey, fig, which one is a fruit?", "gold": "fig", "pred": "fig", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: cherry, taxi, wolf.", "gold": "cherry", "pred": "indigo", "correct": false, "word": null}
+{"task": "category", "prompt": "Between lion, dresser, what is a piece of furniture?", "gold": "dresser", "pred": "dresser", "correct": true, "word": null}
+{"task": "category", "prompt": "I have motorbike, white. Which is a color?", "gold": "white", "pred": "white", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is a color: bench, fig, black.", "gold": "black", "pred": "black", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is an animal: yellow, camel?", "gold": "camel", "pred": "tiger", "correct": false, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a piece of furniture: blue, yellow, chair?", "gold": "chair", "pred": "", "correct": false, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a fruit: scooter, peach, red?", "gold": "peach", "pred": "donkey", "correct": false, "word": null}
+{"task": "category", "prompt": "Which item is a piece of furniture: scooter, bed, rocket?", "gold": "bed", "pred": "bed", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a color from these options: lime, red.", "gold": "red", "pred": "red", "correct": true, "word": null}
+{"task": "category", "prompt": "Between donkey, scooter, mango, what is a fruit?", "gold": "mango", "pred": "mango", "correct": true, "word": null}
+{"task": "category", "prompt": "I have futon, brown. Which is a piece of furniture?", "gold": "futon", "pred": "futon", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify an animal in this list: peach, camel.", "gold": "camel", "pred": "zebra", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a vehicle from these options: bicycle, couch.", "gold": "bicycle", "pred": "bicycle", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a color from these options: blue, bed.", "gold": "blue", "pred": "red", "correct": false, "word": null}
+{"task": "category", "prompt": "Between turtle, bicycle, spider, what is a vehicle?", "gold": "bicycle", "pred": "bicycle", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a piece of furniture: eagle, melon, couch?", "gold": "couch", "pred": "couch", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: futon, gold, orange. Which is a color?", "gold": "gold", "pred": "violet", "correct": false, "word": null}
+{"task": "category", "prompt": "I have papaya, falcon. Which is an animal?", "gold": "falcon", "pred": "falcon", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify a fruit in this list: papaya, eagle.", "gold": "papaya", "pred": "papaya", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is a piece of furniture: bookcase, truck, grey?", "gold": "bookcase", "pred": "bookcase", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify an animal in this list: motorbike, donkey.", "gold": "donkey", "pred": "donkey", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: table, green, coconut. Which is a fruit?", "gold": "coconut", "pred": "apple", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose an animal from these options: grey, boat, turtle.", "gold": "turtle", "pred": "donkey", "correct": false, "word": null}
+{"task": "category", "prompt": "Select the one that is a fruit: car, orange.", "gold": "orange", "pred": "orange", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose an animal from these options: dresser, grey, parrot.", "gold": "parrot", "pred": "goat", "correct": false, "word": null}
+{"task": "category", "prompt": "Among fig, futon, blue, which would you call a fruit?", "gold": "fig", "pred": "fig", "correct": true, "word": null}
+{"task": "category", "prompt": "Among lemon, dresser, which would you call a fruit?", "gold": "lemon", "pred": "plum", "correct": false, "word": null}
+{"task": "category", "prompt": "Which item is an animal: coconut, falcon?", "gold": "falcon", "pred": "falcon", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a piece of furniture: eagle, bookcase, scooter?", "gold": "bookcase", "pred": "bookcase", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a color: white, mirror, mango?", "gold": "white", "pred": "dolphin", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a vehicle from these options: cherry, tram.", "gold": "tram", "pred": "boat", "correct": false, "word": null}
+{"task": "category", "prompt": "I have white, grape, parrot. Which is an animal?", "gold": "parrot", "pred": "tiger", "correct": false, "word": null}
+{"task": "category", "prompt": "Among pink, tiger, black, which would you call an animal?", "gold": "tiger", "pred": "tiger", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is a fruit: papaya, jeep.", "gold": "papaya", "pred": "papaya", "correct": true, "word": null}
+{"task": "category", "prompt": "I have bed, eagle. Which is a piece of furniture?", "gold": "bed", "pred": "bed", "correct": true, "word": null}
+{"task": "category", "prompt": "I have brown, rocket, mango. Which is a color?", "gold": "brown", "pred": "brown", "correct": true, "word": null}
+{"task": "category", "prompt": "Among lion, bed, grape, which would you call an animal?", "gold": "lion", "pred": "lion", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is a vehicle: kiwi, pear, truck?", "gold": "truck", "pred": "truck", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of taxi, melon, rabbit, which one is an animal?", "gold": "rabbit", "pred": "rabbit", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of wolf, wardrobe, black, which one is an animal?", "gold": "wolf", "pred": "wolf", "correct": true, "word": null}
+{"task": "category", "prompt": "I have camel, dresser. Which is a piece of furniture?", "gold": "dresser", "pred": "1", "correct": false, "word": null}
+{"task": "category", "prompt": "I have motorbike, donkey, violet. Which is an animal?", "gold": "donkey", "pred": "donkey", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is an animal: bench, falcon, cabinet?", "gold": "falcon", "pred": "falcon", "correct": true, "word": null}
+{"task": "category", "prompt": "I have truck, dolphin. Which is an animal?", "gold": "dolphin", "pred": "dolphin", "correct": true, "word": null}
+{"task": "category", "prompt": "Out of rabbit, blue, couch, which one is an animal?", "gold": "rabbit", "pred": "rabbit", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: motorbike, pear, melon. Which is a vehicle?", "gold": "motorbike", "pred": "bicycle", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a color from these options: chair, yellow.", "gold": "yellow", "pred": "yellow", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: bus, desk. Which is a piece of furniture?", "gold": "desk", "pred": "mirror", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a vehicle from these options: maroon, ferry.", "gold": "ferry", "pred": "boat", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a color from these options: tractor, mirror, turquoise.", "gold": "turquoise", "pred": "brown", "correct": false, "word": null}
+{"task": "category", "prompt": "Which item is a vehicle: mirror, car?", "gold": "car", "pred": "car", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify an animal in this list: ship, gold, tiger.", "gold": "tiger", "pred": "tiger", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a vehicle from these options: grey, jeep, yellow.", "gold": "jeep", "pred": "jeep", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a vehicle from these options: falcon, pink, rocket.", "gold": "rocket", "pred": "boat", "correct": false, "word": null}
+{"task": "category", "prompt": "I have violet, camel, tractor. Which is a color?", "gold": "violet", "pred": "violet", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a vehicle: mango, boat, pink?", "gold": "boat", "pred": "boat", "correct": true, "word": null}
+{"task": "category", "prompt": "Between cabinet, green, truck, what is a color?", "gold": "green", "pred": "yellow", "correct": false, "word": null}
+{"task": "category", "prompt": "Among spider, desk, which would you call a piece of furniture?", "gold": "desk", "pred": "desk", "correct": true, "word": null}
+{"task": "category", "prompt": "Between donkey, ship, peach, what is a fruit?", "gold": "peach", "pred": "peach", "correct": true, "word": null}
+{"task": "category", "prompt": "I have horse, gold. Which is a color?", "gold": "gold", "pred": "crimson", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a piece of furniture from these options: mirror, bus.", "gold": "mirror", "pred": "mirror", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a piece of furniture from these options: dresser, lime.", "gold": "dresser", "pred": "dresser", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is a fruit: falcon, mango?", "gold": "mango", "pred": "mango", "correct": true, "word": null}
+{"task": "category", "prompt": "I have bookcase, pear. Which is a piece of furniture?", "gold": "bookcase", "pred": "0", "correct": false, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: scooter, turquoise, peach.", "gold": "peach", "pred": "donkey", "correct": false, "word": null}
+{"task": "category", "prompt": "Out of sofa, white, jeep, which one is a piece of furniture?", "gold": "sofa", "pred": "sofa", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is a piece of furniture: bed, turquoise, green?", "gold": "bed", "pred": "bed", "correct": true, "word": null}
+{"task": "category", "prompt": "Between pear, lamp, apricot, what is a piece of furniture?", "gold": "lamp", "pred": "lamp", "correct": true, "word": null}
+{"task": "category", "prompt": "Among lime, motorbike, which would you call a vehicle?", "gold": "motorbike", "pred": "motorbike", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is a vehicle: jeep, turtle?", "gold": "jeep", "pred": "jeep", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify an animal in this list: spider, scooter.", "gold": "spider", "pred": "spider", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify a color in this list: ship, violet, train.", "gold": "violet", "pred": "violet", "correct": true, "word": null}
+{"task": "category", "prompt": "Identify a piece of furniture in this list: futon, purple.", "gold": "futon", "pred": "futon", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: indigo, lime, mirror. Which is a color?", "gold": "indigo", "pred": "", "correct": false, "word": null}
+{"task": "category", "prompt": "Select the one that is a piece of furniture: couch, bus, cherry.", "gold": "couch", "pred": "couch", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is an animal: goat, pink.", "gold": "goat", "pred": "goat", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is a piece of furniture: sofa, black?", "gold": "sofa", "pred": "sofa", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a vehicle: brown, jeep, dolphin?", "gold": "jeep", "pred": "car", "correct": false, "word": null}
+{"task": "category", "prompt": "Can you tell me which is an animal: lime, eagle?", "gold": "eagle", "pred": "eagle", "correct": true, "word": null}
+{"task": "category", "prompt": "Select the one that is a vehicle: plum, bicycle, futon.", "gold": "bicycle", "pred": "bicycle", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is a color: sofa, white?", "gold": "white", "pred": "white", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is a color: truck, indigo, tram?", "gold": "indigo", "pred": "indigo", "correct": true, "word": null}
+{"task": "category", "prompt": "Which item is a piece of furniture: plum, bookcase, lemon?", "gold": "bookcase", "pred": "bookcase", "correct": true, "word": null}
+{"task": "category", "prompt": "Between plum, desk, tiger, what is a piece of furniture?", "gold": "desk", "pred": "desk", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: ferry, spider, melon.", "gold": "melon", "pred": "melon", "correct": true, "word": null}
+{"task": "category", "prompt": "Among indigo, apple, bed, which would you call a fruit?", "gold": "apple", "pred": "apple", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: blue, pear, monkey. Which is a color?", "gold": "blue", "pred": "violet", "correct": false, "word": null}
+{"task": "category", "prompt": "I have rabbit, grape, cherry. Which is an animal?", "gold": "rabbit", "pred": "rabbit", "correct": true, "word": null}
+{"task": "category", "prompt": "Among purple, tiger, van, which would you call an animal?", "gold": "tiger", "pred": "tiger", "correct": true, "word": null}
+{"task": "category", "prompt": "Can you tell me which is an animal: taxi, monkey, truck?", "gold": "monkey", "pred": "monkey", "correct": true, "word": null}
+{"task": "category", "prompt": "Between red, bicycle, what is a vehicle?", "gold": "bicycle", "pred": "bicycle", "correct": true, "word": null}
+{"task": "category", "prompt": "Choose a fruit from these options: ship, plum, zebra.", "gold": "plum", "pred": "plum", "correct": true, "word": null}
+{"task": "category", "prompt": "Among apple, red, turtle, which would you call a fruit?", "gold": "apple", "pred": "apple", "correct": true, "word": null}
+{"task": "category", "prompt": "Here are some options: taxi, white, brown. Which is a vehicle?", "gold": "taxi", "pred": "bicycle", "correct": false, "word": null}
+{"task": "category", "prompt": "Between tram, grey, wolf, what is a vehicle?", "gold": "tram", "pred": "tram", "correct": true, "word": null}

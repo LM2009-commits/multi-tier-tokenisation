@@ -1,0 +1,38 @@
+{
+  "wlt_only": {
+    "seconds_per_step": 0.7252665662765503,
+    "mean_train_len": 14.2268,
+    "steps": 150,
+    "threads": 20
+  },
+  "mtt": {
+    "seconds_per_step": 1.3097129599253337,
+    "mean_train_len": 23.590066666666665,
+    "steps": 150,
+    "threads": 20
+  },
+  "mtt_nomark": {
+    "seconds_per_step": 1.157809894879659,
+    "mean_train_len": 20.390333333333334,
+    "steps": 150,
+    "threads": 20
+  },
+  "selfesc": {
+    "seconds_per_step": 1.3493431091308594,
+    "mean_train_len": 23.713866666666668,
+    "steps": 150,
+    "threads": 20
+  },
+  "clt_only": {
+    "seconds_per_step": 2.5006738090515137,
+    "mean_train_len": 47.37853333333333,
+    "steps": 150,
+    "threads": 20
+  },
+  "clt_marked": {
+    "seconds_per_step": 2.554850131670634,
+    "mean_train_len": 51.060266666666664,
+    "steps": 150,
+    "threads": 20
+  }
+}

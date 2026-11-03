@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pytest
 
-from mtt.analyze import count_baselines, count_table, paired_word_bootstrap
+from mtt.analyze import count_baselines, count_table, paired_word_bootstrap, word_length_table
 from mtt.data import (COUNT_BUCKETS, COUNT_EXTRA_WORDS, COUNT_TEMPLATES, NTH_TEMPLATES, PARAPHRASE_TEMPLATES,
                       REVERSE_TEMPLATES, ROUTER_NEGATIVES_TEST, ROUTER_TRAIN_TEMPLATES, SHOWCASE_WORDS,
                       SPELL_TEMPLATES, TASKS, WORDS, count_bucket, generate_dataset)
@@ -286,6 +286,13 @@ def test_count_table():
     assert t["recall"] == {"0": 0.5, "1": 1.0, "3+": 0.5, "2": 0.0}
     assert t["balanced_accuracy"] == pytest.approx(0.5)
     assert t["confusion"]["2"] == {"other": 1} and t["confusion"]["3+"] == {"3+": 2}
+
+
+def test_word_length_table():
+    rows = [("spell", "cat", True), ("spell", "dog", False), ("spell", "horse", True), ("nth", "cat", True),
+            ("category", None, True)]
+    t = word_length_table([{"task": k, "word": w, "correct": c} for k, w, c in rows], "spell")
+    assert t == {3: [1, 2], 5: [1, 1]}
 
 
 def test_count_baselines_on_balanced_data_are_well_below_a_counting_model(v2):

@@ -116,6 +116,16 @@ def nth_errors(records: list[dict]) -> dict:
     return {"by_position": {k: by_pos[k] for k in sorted(by_pos)}, "by_form": forms}
 
 
+def word_length_table(records: list[dict], task: str) -> dict[int, list[int]]:
+    """``{word length: [correct, total]}`` for one task."""
+    by_len: dict[int, list[int]] = defaultdict(lambda: [0, 0])
+    for r in records:
+        if r["task"] == task and r["word"]:
+            by_len[len(r["word"])][0] += r["correct"]
+            by_len[len(r["word"])][1] += 1
+    return {k: by_len[k] for k in sorted(by_len)}
+
+
 # --------------------------------------------------------------------------- figures
 def plot_loss_curves(log_dir: Path, names: list[str], out: Path) -> None:
     """Held-out loss during training, one line per run."""
@@ -257,6 +267,18 @@ def analyse(results_dir: Path, n_train: int = 3000, n_test: int = 300) -> str:
         text = ", ".join(f"{k}: {pos[k][0]}/{pos[k][1]}" for k in sorted(pos))
         lines.append(f"| {group} | {text} | {forms['digit'][0]}/{forms['digit'][1]} | {forms['word'][0]}/{forms['word'][1]} |")
     lines.append("")
+
+    # --- word length
+    lines += ["## Correct answers by word length (all seeds pooled)", ""]
+    for task in ("spell", "reverse", "nth"):
+        lines += [f"### {task}", "", "| configuration | correct by word length (letters: correct/total) |", "|---|---|"]
+        for group, runs in groups.items():
+            by_len = word_length_table([r for run in runs for r in preds(run)], task)
+            lines.append(f"| {group} | " + ", ".join(f"{k}: {c}/{n}" for k, (c, n) in by_len.items()) + " |")
+        lines.append("")
+    train_lengths = Counter(len(w) for w in generate_dataset(seeds[0], n_train, n_test, version=version).train_words)
+    lines += [f"Training words by length (seed {seeds[0]}): "
+              + ", ".join(f"{k}: {train_lengths[k]}" for k in sorted(train_lengths)), ""]
 
     # --- self-escalation
     self_esc = [r for r in results if results[r]["config"]["mode"] == "selfesc"]

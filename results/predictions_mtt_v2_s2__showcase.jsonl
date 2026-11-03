@@ -1,0 +1,75 @@
+{"task": "count", "prompt": "How many r's are in strawberry?", "gold": "3", "pred": "3", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "How many times does the letter r appear in strawberry?", "gold": "3", "pred": "3", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "Count the r's in the word strawberry.", "gold": "3", "pred": "3", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "How many r are there in strawberry?", "gold": "3", "pred": "3", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "Count the number of times r appears in strawberry.", "gold": "3", "pred": "3", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "How many b's are in strawberry?", "gold": "1", "pred": "1", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "How many times does the letter b appear in strawberry?", "gold": "1", "pred": "1", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "Count the b's in the word strawberry.", "gold": "1", "pred": "1", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "How many b are there in strawberry?", "gold": "1", "pred": "1", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "Count the number of times b appears in strawberry.", "gold": "1", "pred": "1", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "How many z's are in strawberry?", "gold": "0", "pred": "0", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "How many times does the letter z appear in strawberry?", "gold": "0", "pred": "0", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "Count the z's in the word strawberry.", "gold": "0", "pred": "0", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "How many z are there in strawberry?", "gold": "0", "pred": "0", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "Count the number of times z appears in strawberry.", "gold": "0", "pred": "0", "correct": true, "word": "strawberry"}
+{"task": "count", "prompt": "How many s's are in mississippi?", "gold": "4", "pred": "4", "correct": true, "word": "mississippi"}
+{"task": "count", "prompt": "How many times does the letter s appear in mississippi?", "gold": "4", "pred": "3", "correct": false, "word": "mississippi"}
+{"task": "count", "prompt": "Count the s's in the word mississippi.", "gold": "4", "pred": "4", "correct": true, "word": "mississippi"}
+{"task": "count", "prompt": "How many s are there in mississippi?", "gold": "4", "pred": "4", "correct": true, "word": "mississippi"}
+{"task": "count", "prompt": "Count the number of times s appears in mississippi.", "gold": "4", "pred": "3", "correct": false, "word": "mississippi"}
+{"task": "count", "prompt": "How many i's are in mississippi?", "gold": "4", "pred": "3", "correct": false, "word": "mississippi"}
+{"task": "count", "prompt": "How many times does the letter i appear in mississippi?", "gold": "4", "pred": "3", "correct": false, "word": "mississippi"}
+{"task": "count", "prompt": "Count the i's in the word mississippi.", "gold": "4", "pred": "3", "correct": false, "word": "mississippi"}
+{"task": "count", "prompt": "How many i are there in mississippi?", "gold": "4", "pred": "3", "correct": false, "word": "mississippi"}
+{"task": "count", "prompt": "Count the number of times i appears in mississippi.", "gold": "4", "pred": "3", "correct": false, "word": "mississippi"}
+{"task": "count", "prompt": "How many a's are in banana?", "gold": "3", "pred": "2", "correct": false, "word": "banana"}
+{"task": "count", "prompt": "How many times does the letter a appear in banana?", "gold": "3", "pred": "3", "correct": true, "word": "banana"}
+{"task": "count", "prompt": "Count the a's in the word banana.", "gold": "3", "pred": "2", "correct": false, "word": "banana"}
+{"task": "count", "prompt": "How many a are there in banana?", "gold": "3", "pred": "2", "correct": false, "word": "banana"}
+{"task": "count", "prompt": "Count the number of times a appears in banana.", "gold": "3", "pred": "3", "correct": true, "word": "banana"}
+{"task": "count", "prompt": "How many n's are in banana?", "gold": "2", "pred": "3", "correct": false, "word": "banana"}
+{"task": "count", "prompt": "How many times does the letter n appear in banana?", "gold": "2", "pred": "2", "correct": true, "word": "banana"}
+{"task": "count", "prompt": "Count the n's in the word banana.", "gold": "2", "pred": "2", "correct": true, "word": "banana"}
+{"task": "count", "prompt": "How many n are there in banana?", "gold": "2", "pred": "3", "correct": false, "word": "banana"}
+{"task": "count", "prompt": "Count the number of times n appears in banana.", "gold": "2", "pred": "2", "correct": true, "word": "banana"}
+{"task": "count", "prompt": "How many r's are in raspberry?", "gold": "3", "pred": "3", "correct": true, "word": "raspberry"}
+{"task": "count", "prompt": "How many times does the letter r appear in raspberry?", "gold": "3", "pred": "1", "correct": false, "word": "raspberry"}
+{"task": "count", "prompt": "Count the r's in the word raspberry.", "gold": "3", "pred": "3", "correct": true, "word": "raspberry"}
+{"task": "count", "prompt": "How many r are there in raspberry?", "gold": "3", "pred": "3", "correct": true, "word": "raspberry"}
+{"task": "count", "prompt": "Count the number of times r appears in raspberry.", "gold": "3", "pred": "3", "correct": true, "word": "raspberry"}
+{"task": "count", "prompt": "How many e's are in cheese?", "gold": "3", "pred": "2", "correct": false, "word": "cheese"}
+{"task": "count", "prompt": "How many times does the letter e appear in cheese?", "gold": "3", "pred": "2", "correct": false, "word": "cheese"}
+{"task": "count", "prompt": "Count the e's in the word cheese.", "gold": "3", "pred": "2", "correct": false, "word": "cheese"}
+{"task": "count", "prompt": "How many e are there in cheese?", "gold": "3", "pred": "2", "correct": false, "word": "cheese"}
+{"task": "count", "prompt": "Count the number of times e appears in cheese.", "gold": "3", "pred": "3", "correct": true, "word": "cheese"}
+{"task": "count", "prompt": "How many p's are in pepper?", "gold": "3", "pred": "2", "correct": false, "word": "pepper"}
+{"task": "count", "prompt": "How many times does the letter p appear in pepper?", "gold": "3", "pred": "3", "correct": true, "word": "pepper"}
+{"task": "count", "prompt": "Count the p's in the word pepper.", "gold": "3", "pred": "3", "correct": true, "word": "pepper"}
+{"task": "count", "prompt": "How many p are there in pepper?", "gold": "3", "pred": "2", "correct": false, "word": "pepper"}
+{"task": "count", "prompt": "Count the number of times p appears in pepper.", "gold": "3", "pred": "3", "correct": true, "word": "pepper"}
+{"task": "count", "prompt": "How many s's are in scissors?", "gold": "4", "pred": "3", "correct": false, "word": "scissors"}
+{"task": "count", "prompt": "How many times does the letter s appear in scissors?", "gold": "4", "pred": "3", "correct": false, "word": "scissors"}
+{"task": "count", "prompt": "Count the s's in the word scissors.", "gold": "4", "pred": "3", "correct": false, "word": "scissors"}
+{"task": "count", "prompt": "How many s are there in scissors?", "gold": "4", "pred": "3", "correct": false, "word": "scissors"}
+{"task": "count", "prompt": "Count the number of times s appears in scissors.", "gold": "4", "pred": "3", "correct": false, "word": "scissors"}
+{"task": "count", "prompt": "How many e's are in bookkeeper?", "gold": "3", "pred": "3", "correct": true, "word": "bookkeeper"}
+{"task": "count", "prompt": "How many times does the letter e appear in bookkeeper?", "gold": "3", "pred": "5", "correct": false, "word": "bookkeeper"}
+{"task": "count", "prompt": "Count the e's in the word bookkeeper.", "gold": "3", "pred": "5", "correct": false, "word": "bookkeeper"}
+{"task": "count", "prompt": "How many e are there in bookkeeper?", "gold": "3", "pred": "3", "correct": true, "word": "bookkeeper"}
+{"task": "count", "prompt": "Count the number of times e appears in bookkeeper.", "gold": "3", "pred": "5", "correct": false, "word": "bookkeeper"}
+{"task": "count", "prompt": "How many k's are in bookkeeper?", "gold": "2", "pred": "2", "correct": true, "word": "bookkeeper"}
+{"task": "count", "prompt": "How many times does the letter k appear in bookkeeper?", "gold": "2", "pred": "2", "correct": true, "word": "bookkeeper"}
+{"task": "count", "prompt": "Count the k's in the word bookkeeper.", "gold": "2", "pred": "2", "correct": true, "word": "bookkeeper"}
+{"task": "count", "prompt": "How many k are there in bookkeeper?", "gold": "2", "pred": "1", "correct": false, "word": "bookkeeper"}
+{"task": "count", "prompt": "Count the number of times k appears in bookkeeper.", "gold": "2", "pred": "2", "correct": true, "word": "bookkeeper"}
+{"task": "count", "prompt": "How many e's are in tennessee?", "gold": "4", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "How many times does the letter e appear in tennessee?", "gold": "4", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "Count the e's in the word tennessee.", "gold": "4", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "How many e are there in tennessee?", "gold": "4", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "Count the number of times e appears in tennessee.", "gold": "4", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "How many n's are in tennessee?", "gold": "2", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "How many times does the letter n appear in tennessee?", "gold": "2", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "Count the n's in the word tennessee.", "gold": "2", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "How many n are there in tennessee?", "gold": "2", "pred": "3", "correct": false, "word": "tennessee"}
+{"task": "count", "prompt": "Count the number of times n appears in tennessee.", "gold": "2", "pred": "3", "correct": false, "word": "tennessee"}
